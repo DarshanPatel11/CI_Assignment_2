@@ -1,0 +1,456 @@
+{
+  "total_questions": 44,
+  "type_distribution": {
+    "factual": 11,
+    "comparative": 11,
+    "inferential": 11,
+    "multi-hop": 11
+  },
+  "difficulty_distribution": {
+    "medium": 37,
+    "easy": 6,
+    "hard": 1
+  },
+  "questions": [
+    {
+      "question_id": "q_0f6e2e73",
+      "question": "What was the name of the man who died in 1872?",
+      "answer": "Underwood did not like the skullduggery required, but his superiors refused to transfer him, so after a family trip to London, Naples and Rome, he submitted his resignation.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0004",
+      "question_type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_511e15d2",
+      "question": "How much of Chiry Town's population came from agriculture?",
+      "answer": "Part of the present day city were under the control of Kariya Domain, a feudal han under the Tokugawa shogunate.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0001",
+      "question_type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_8aef6c37",
+      "question": "Which happened first, the United States becoming an U.S. state and Afghanistan becoming a state?",
+      "answer": "Warner Lewis Underwood (August 7, 1808 \u2013 March 12, 1872) was an attorney, state legislator and U.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0000",
+      "question_type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_de390ca3",
+      "question": "What city was covered by the flood in 1791?",
+      "answer": "Eight of their children survived to adulthood, including Fanny R.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0001",
+      "question_type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": "q_1e266820",
+      "question": "How many people died when the Confederate government took control of Kentucky?",
+      "answer": "He did not run for re-election in 1858, and Francis Bristow, who had been a Whig and whom he had defeated in 1854, succeeded him.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0003",
+      "question_type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_7773b359",
+      "question": "Who wrote the song When Do the Whales Rain?",
+      "answer": "Lucinda Gardiner of Oz Music Project described it as \"an unashamedly pop album that deserves more recognition then it will probably get.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0002",
+      "question_type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_217b92b9",
+      "question": "Who was the first to discover the existence of heliocentricity?",
+      "answer": "Chiry\u016b (\u77e5\u7acb\u5e02, Chiry\u016b-shi) is a city in central Aichi Prefecture, Japan.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0000",
+      "question_type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_85c52365",
+      "question": "Which group did the writer work for?",
+      "answer": "In addition to his legal practice, Warner Underwood ran his plantation, using a white overseer to supervise his slaves tilling the land.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0002",
+      "question_type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_ba9d0b70",
+      "question": "What was the nickname of King Crimson's daughter?",
+      "answer": "Stella One Eleven were an Australian pop, rock band, which formed in September 1997.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0000",
+      "question_type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": "q_d48a20ae",
+      "question": "Which happened first, Hiroshima or Naga?",
+      "answer": "There is also one private high school and three private vocational training schools.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0002",
+      "question_type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": "q_5ded5ddf",
+      "question": "What is the name of the state that enables cars to get into a car?",
+      "answer": "Most of the album's tracks were co-produced by Maynard with Tim Powles (of the Church); two tracks were produced solely by Maynard.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0001",
+      "question_type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_601e7177",
+      "question": "What is the final outcome of the text?",
+      "answer": "Underwood did not like the skullduggery required, but his superiors refused to transfer him, so after a family trip to London, Naples and Rome, he submitted his resignation.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0004",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_3cb596be",
+      "question": "What is the most likely reason that the city was founded after the Meiji restoration?",
+      "answer": "Part of the present day city were under the control of Kariya Domain, a feudal han under the Tokugawa shogunate.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0001",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_ce97fdce",
+      "question": "Which of the following is the name of the person who played in the original production of the film?",
+      "answer": "Warner Lewis Underwood (August 7, 1808 \u2013 March 12, 1872) was an attorney, state legislator and U.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0000",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_33f0319f",
+      "question": "Which is the title of the passage?",
+      "answer": "Eight of their children survived to adulthood, including Fanny R.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0001",
+      "question_type": "comparative",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": "q_f84c1c16",
+      "question": "Which city was once known by its own first name?",
+      "answer": "He did not run for re-election in 1858, and Francis Bristow, who had been a Whig and whom he had defeated in 1854, succeeded him.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0003",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_8dd23dcc",
+      "question": "How many songs do the author discuss in the text?",
+      "answer": "Lucinda Gardiner of Oz Music Project described it as \"an unashamedly pop album that deserves more recognition then it will probably get.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0002",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_a1441242",
+      "question": "In which era did the Aizuma River meet the Sawatari River?",
+      "answer": "Chiry\u016b (\u77e5\u7acb\u5e02, Chiry\u016b-shi) is a city in central Aichi Prefecture, Japan.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0000",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_d58e4253",
+      "question": "Which of the following is true of the poem?",
+      "answer": "In addition to his legal practice, Warner Underwood ran his plantation, using a white overseer to supervise his slaves tilling the land.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0002",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_84da5ca4",
+      "question": "What does Only Good for Conversation mean?",
+      "answer": "Stella One Eleven were an Australian pop, rock band, which formed in September 1997.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0000",
+      "question_type": "comparative",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": "q_bd5d8145",
+      "question": "Which university has more of a water garden than a temple?",
+      "answer": "There is also one private high school and three private vocational training schools.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0002",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_a6b1bfa1",
+      "question": "Who is on the ringworm?",
+      "answer": "Most of the album's tracks were co-produced by Maynard with Tim Powles (of the Church); two tracks were produced solely by Maynard.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0001",
+      "question_type": "comparative",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_ae4c0623",
+      "question": "What is the most likely author to be a journalist?",
+      "answer": "Underwood did not like the skullduggery required, but his superiors refused to transfer him, so after a family trip to London, Naples and Rome, he submitted his resignation.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0004",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_91adceee",
+      "question": "What is the original name of the event that made the writer's statement in question?",
+      "answer": "Part of the present day city were under the control of Kariya Domain, a feudal han under the Tokugawa shogunate.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0001",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_2709c5dd",
+      "question": "What era did the Battle of the Bulge take place in?",
+      "answer": "Warner Lewis Underwood (August 7, 1808 \u2013 March 12, 1872) was an attorney, state legislator and U.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0000",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_6d257206",
+      "question": "What two cities were under the control of Warner Underwood when he moved from Ohio to Kentucky?",
+      "answer": "Eight of their children survived to adulthood, including Fanny R.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0001",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_f67808ad",
+      "question": "What does a man whose family were members of a railroad not love?",
+      "answer": "He did not run for re-election in 1858, and Francis Bristow, who had been a Whig and whom he had defeated in 1854, succeeded him.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0003",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_d841071f",
+      "question": "What month's music was released by the band?",
+      "answer": "Lucinda Gardiner of Oz Music Project described it as \"an unashamedly pop album that deserves more recognition then it will probably get.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0002",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_82825047",
+      "question": "Which of the following is one of the characteristics of the mountain range?",
+      "answer": "Chiry\u016b (\u77e5\u7acb\u5e02, Chiry\u016b-shi) is a city in central Aichi Prefecture, Japan.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0000",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_af08633b",
+      "question": "What is the correct sequence of events?",
+      "answer": "In addition to his legal practice, Warner Underwood ran his plantation, using a white overseer to supervise his slaves tilling the land.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0002",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_37eed5df",
+      "question": "Which movie was released in the year 2009?",
+      "answer": "Stella One Eleven were an Australian pop, rock band, which formed in September 1997.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0000",
+      "question_type": "inferential",
+      "difficulty": "easy"
+    },
+    {
+      "question_id": "q_5281d28d",
+      "question": "How many different kinds of flower groups are there in Kyoto?",
+      "answer": "There is also one private high school and three private vocational training schools.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0002",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_a29fe62c",
+      "question": "Which book was written by a professor that is no longer alive?",
+      "answer": "Most of the album's tracks were co-produced by Maynard with Tim Powles (of the Church); two tracks were produced solely by Maynard.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0001",
+      "question_type": "inferential",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_09502c4c",
+      "question": "What is the name of the place where the author of the passage thinks the story is?",
+      "answer": "Underwood did not like the skullduggery required, but his superiors refused to transfer him, so after a family trip to London, Naples and Rome, he submitted his resignation.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0004",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_1e57a387",
+      "question": "What was the total rainfall in the town?",
+      "answer": "Part of the present day city were under the control of Kariya Domain, a feudal han under the Tokugawa shogunate.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0001",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_426aeded",
+      "question": "What is the name for the third land mass?",
+      "answer": "Warner Lewis Underwood (August 7, 1808 \u2013 March 12, 1872) was an attorney, state legislator and U.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0000",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_effaa225",
+      "question": "Which of the following is NOT a member of the Confederate Cavalry?",
+      "answer": "Eight of their children survived to adulthood, including Fanny R.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0001",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_3730f642",
+      "question": "How many years was the war to the north?",
+      "answer": "He did not run for re-election in 1858, and Francis Bristow, who had been a Whig and whom he had defeated in 1854, succeeded him.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0003",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_5381a30f",
+      "question": "What year did the CIA attempt to destroy the Soviet Union?",
+      "answer": "Lucinda Gardiner of Oz Music Project described it as \"an unashamedly pop album that deserves more recognition then it will probably get.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0002",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_7ab3a95b",
+      "question": "What year did the book \"St. John's School for Advanced Study\" come out?",
+      "answer": "Chiry\u016b (\u77e5\u7acb\u5e02, Chiry\u016b-shi) is a city in central Aichi Prefecture, Japan.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0000",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_329df706",
+      "question": "When did Warner Underwood make his plantation?",
+      "answer": "In addition to his legal practice, Warner Underwood ran his plantation, using a white overseer to supervise his slaves tilling the land.",
+      "source_url": "https://en.wikipedia.org/wiki/Warner_Underwood",
+      "source_title": "Warner Underwood",
+      "source_chunk_id": "7838cbeb_0002",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_190f8ee3",
+      "question": "What is the first name of the person that was a part of the Stella One Eleven in the movie Mr Big Car?",
+      "answer": "Stella One Eleven were an Australian pop, rock band, which formed in September 1997.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0000",
+      "question_type": "multi-hop",
+      "difficulty": "hard"
+    },
+    {
+      "question_id": "q_8545c26b",
+      "question": "What did William E. Franklin do to the English Parliament?",
+      "answer": "There is also one private high school and three private vocational training schools.",
+      "source_url": "https://en.wikipedia.org/wiki/Chiry\u016b",
+      "source_title": "Chiry\u016b",
+      "source_chunk_id": "cafade42_0002",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    },
+    {
+      "question_id": "q_f3aea545",
+      "question": "Who wrote the theme song for National Youth Week in Australia?",
+      "answer": "Most of the album's tracks were co-produced by Maynard with Tim Powles (of the Church); two tracks were produced solely by Maynard.",
+      "source_url": "https://en.wikipedia.org/wiki/Stella_One_Eleven",
+      "source_title": "Stella One Eleven",
+      "source_chunk_id": "9407cdc7_0001",
+      "question_type": "multi-hop",
+      "difficulty": "medium"
+    }
+  ]
+}

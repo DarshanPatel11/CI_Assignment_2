@@ -1,0 +1,29 @@
+{
+  "description": "200 fixed Wikipedia URLs for Hybrid RAG System - Group XX",
+  "generated_at": "2026-01-19",
+  "note": "This is a placeholder. Run 'python main.py --build-index --generate-fixed-urls' to populate with actual URLs from diverse Wikipedia categories.",
+  "categories_sampled": [
+    "Science",
+    "Technology",
+    "History",
+    "Geography",
+    "Arts",
+    "Philosophy",
+    "Literature",
+    "Mathematics",
+    "Biology",
+    "Physics",
+    "Chemistry",
+    "Medicine",
+    "Economics",
+    "Politics",
+    "Sports",
+    "Music",
+    "Film",
+    "Architecture",
+    "Psychology",
+    "Sociology"
+  ],
+  "count": 0,
+  "urls": []
+}

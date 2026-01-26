@@ -1,0 +1,57 @@
+# Hybrid RAG System
+
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data (generated)
+data/corpus/
+data/indices/
+data/evaluation/results/
+data/evaluation/analysis/
+data/evaluation/visualizations/
+data/evaluation/reports/
+
+# Keep fixed URLs and questions
+!data/fixed_urls.json
+!data/evaluation/questions.json
+
+# Model cache
+.cache/
+models/
+
+# Logs
+*.log
+
+# Reports (generated)
+report/*.pdf
+report/*.html
