@@ -77,6 +77,21 @@ def build_index(args):
     print(f"  Index: {args.index_name}")
     print("="*60)
 
+def generate_fixed_urls(args):
+    """Generate fixed URLs for data collection."""
+    print("\n" + "="*60)
+    print("GENERATING FIXED URLS")
+    print("="*60)
+
+    data_dir = args.data_dir
+
+    collector = WikipediaCollector(data_dir=data_dir)
+    collector.generate_fixed_urls(count=args.fixed_count, force=True)
+
+    print("\n" + "="*60)
+    print("FIXED URLS GENERATED SUCCESSFULLY")
+    print("="*60)
+
 
 def run_evaluation(args):
     """Run the evaluation pipeline."""
@@ -214,6 +229,10 @@ Examples:
 
     if args.evaluate:
         run_evaluation(args)
+
+    if args.generate_fixed_urls:
+        generate_fixed_urls(args)
+
 
     if not any([args.status, args.build_index, args.evaluate]):
         parser.print_help()

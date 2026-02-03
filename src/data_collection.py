@@ -256,7 +256,10 @@ class WikipediaCollector:
         Returns list of WikiArticle objects with full content.
         """
         # Get fixed URLs (generate if needed)
+        fixed_urls_count = 0
         if self.fixed_urls_path.exists():
+            fixed_urls_count = len(self.load_fixed_urls())
+        if fixed_urls_count < fixed_count:
             fixed_urls = self.load_fixed_urls()
         else:
             fixed_urls = self.generate_fixed_urls(fixed_count)
