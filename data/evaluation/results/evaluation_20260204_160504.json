@@ -1,0 +1,5037 @@
+{
+  "mrr": {
+    "mrr": 0.9133333333333333,
+    "individual_rrs": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3333333333333333,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.3333333333333333,
+      0.3333333333333333,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.5,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3333333333333333
+    ],
+    "hit_rate": 0.95,
+    "total_queries": 100
+  },
+  "faithfulness": {
+    "mean_score": 0.32,
+    "scores": [
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0
+    ],
+    "details": [
+      {
+        "score": 0.0,
+        "claims": [
+          "My unknown Claims:"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "My unknown Claims:",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "December 29, 1928"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "December 29, 1928",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Kirk also conducted raid to Washington to increase federal cooperation to increase military support available at all point around Cassolilla"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Kirk also conducted raid to Washington to increase federal cooperation to increase military support available at all point around Cassolilla",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "History became called dicticle"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "History became called dicticle",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The pursuit in and field of theory"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The pursuit in and field of theory",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The excavation area were 60% of this archaeological"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The excavation area were 60% of this archaeological",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot give product number."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot give product number.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "We did not come this late (1950)"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "We did not come this late (1950)",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "In recent cultures and emergence years to come about"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "In recent cultures and emergence years to come about",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I know this cannot have taken care for this comment by himself yet so I had someone with an active"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I know this cannot have taken care for this comment by himself yet so I had someone with an active",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Admiro spent time fighting outside the Royal palace and later occupied the town."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Admiro spent time fighting outside the Royal palace and later occupied the town.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The third book,the third half and, as it is nichtan theer adaptation."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The third book,the third half and, as it is nichtan theer adaptation.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "A significant resource of television entertainment for no-Partispridents"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "A significant resource of television entertainment for no-Partispridents",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The primary model was metalogical analysis used to prove it applied scientific terms"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The primary model was metalogical analysis used to prove it applied scientific terms",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Showtown had players concurrenting opponents and using minime"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Showtown had players concurrenting opponents and using minime",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I Can not answered [stupdate for use via software]"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I Can not answered [stupdate for use via software]",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "This word may have multiple references which are related to related word-sublimated statements made (and unvarmable fact may come as an involontade)."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "This word may have multiple references which are related to related word-sublimated statements made (and unvarmable fact may come as an involontade).",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It is dispersed about"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It is dispersed about",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Music often uses social situations"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Music often uses social situations",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "The boundaries will not overlap but remain as long as possible because human lifesystems on-reside at each specific place does occur"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The boundaries will not overlap but remain as long as possible because human lifesystems on-reside at each specific place does occur",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Ican answer here"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Ican answer here",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The chemical properties of materials and the structure thereof to exist in various forms over several georgenously disconceal"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The chemical properties of materials and the structure thereof to exist in various forms over several georgenously disconceal",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Jim McKeung died of a heart attack on 9 October 2019."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Jim McKeung died of a heart attack on 9 October 2019.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "international service and plays his volley and save from middefender and right left half duextin in full position for both goal lines at an all time high mark on 89.31 over 1080 blp records with over 2,300 individual home games being scored this month."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "international service and plays his volley and save from middefender and right left half duextin in full position for both goal lines at an all time high mark on 89.31 over 1080 blp records with over 2,300 individual home games being scored this month.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Kalc \u2014 \"Lumped up old\" or formerly ..."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Kalc \u2014 \"Lumped up old\" or formerly ...",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Transfers what has already been pushed to another medium within defining an"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Transfers what has already been pushed to another medium within defining an",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Stanley Kremer, Mike Kenem\u00e9nin. Ambroscope"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Stanley Kremer, Mike Kenem\u00e9nin. Ambroscope",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No to date / not Available To Final Solution"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No to date / not Available To Final Solution",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "World War I lasted for a decade"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "World War I lasted for a decade",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Modular measurement systems can automatically replace new equipment to create your customized measurement"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Modular measurement systems can automatically replace new equipment to create your customized measurement",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Apocalic is against industrial"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Apocalic is against industrial",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I have limited time for context/objectivity, but not at this writing because they've taken the lead by themselves while simultaneously working in that same situation simultaneously"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I have limited time for context/objectivity, but not at this writing because they've taken the lead by themselves while simultaneously working in that same situation simultaneously",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I may remove stains as suggested to indicate possible unkic spots during installation processes to remove"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I may remove stains as suggested to indicate possible unkic spots during installation processes to remove",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "For an object to exist, it must exist."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "For an object to exist, it must exist.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "They proposed A psychological Delineation for Mysterical Man-Mach-Mart Relationhood Love"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "They proposed A psychological Delineation for Mysterical Man-Mach-Mart Relationhood Love",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Neurous nuclear nucles connect to neutrum nukes."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Neurous nuclear nucles connect to neutrum nukes.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Can do with certain products are available from home only when it has sufficient availability in one're space."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Can do with certain products are available from home only when it has sufficient availability in one're space.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Verbal reveals or discussed that may need thought at heart"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Verbal reveals or discussed that may need thought at heart",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Morotti gained mass political prominence but he eventually quit at the turn."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Morotti gained mass political prominence but he eventually quit at the turn.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "An airport caring. and following social surroundings to go in Tonj to travel around by train between samura rai"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "An airport caring. and following social surroundings to go in Tonj to travel around by train between samura rai",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "is the subject in an extensive listing"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "is the subject in an extensive listing",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Behavior psychology is a branch of biology that focuses on the behavior of animals"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Behavior psychology is a branch of biology that focuses on the behavior of animals",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The Physicists' Association of America (PAA) is the oldest academic society for particle physics in physics for 10 decades with 150 international associate professories"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The Physicists' Association of America (PAA) is the oldest academic society for particle physics in physics for 10 decades with 150 international associate professories",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The 2007 Canadian league draft eliminated Ottawa 63-73 and Quebec City 104-6 over Ottawa 61-74 for fourth"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The 2007 Canadian league draft eliminated Ottawa 63-73 and Quebec City 104-6 over Ottawa 61-74 for fourth",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Joseph Shelgiaropov to A.T."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Joseph Shelgiaropov to A.T.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "August 21, 2001 - October 1, 2000. (POPULARY TELEBRIT\u00c9 PUMPL"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "August 21, 2001 - October 1, 2000. (POPULARY TELEBRIT\u00c9 PUMPL",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "If it works that much better what do the researchers plan"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "If it works that much better what do the researchers plan",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "An action to test for something implies feeling \"accent\" (concerne)."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "An action to test for something implies feeling \"accent\" (concerne).",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Nixon was the second trumis in the presidential race by Nixon combined"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Nixon was the second trumis in the presidential race by Nixon combined",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Theoretical reasoning is the driving force behind mathematics design creation."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Theoretical reasoning is the driving force behind mathematics design creation.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "10s best in NFL (NHLA year-for-2900 games held across an 82-play arena"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "10s best in NFL (NHLA year-for-2900 games held across an 82-play arena",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Tremngarnnne in particular"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Tremngarnnne in particular",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot answer"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot answer",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Violence is more likely on sexual grounds; it happens first or second time or fourth times or weeks following an incident like this often on same street"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Violence is more likely on sexual grounds; it happens first or second time or fourth times or weeks following an incident like this often on same street",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "This option was blocked through time for spelling reasons and it worked,"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "This option was blocked through time for spelling reasons and it worked,",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It not as proficient than growth factor tin by sunlight or low tandy radiation on soils, and plants cannot survive cold conditions of up above 20 mN."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It not as proficient than growth factor tin by sunlight or low tandy radiation on soils, and plants cannot survive cold conditions of up above 20 mN.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot say as too many sources are indicated to add sufficient detail to make more accurate observations as shown"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot say as too many sources are indicated to add sufficient detail to make more accurate observations as shown",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Cells are the basic units of the body."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Cells are the basic units of the body.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Price adjustments cause price slip"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Price adjustments cause price slip",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "The man calls - and uses it to trick his guests to believe other men will act on errifer bogus evidence"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The man calls - and uses it to trick his guests to believe other men will act on errifer bogus evidence",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "They play to images; however they might have other advantages for food analysis and of indicators. However."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "They play to images; however they might have other advantages for food analysis and of indicators. However.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "BOTOTORUXACYTHS AND IRRESTRIC"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "BOTOTORUXACYTHS AND IRRESTRIC",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot answer insufficient evidence of"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot answer insufficient evidence of",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I Cant answered this specific item, because the information I specified was too limited by the specific information requested. This information cannot apply directly since Sociology has much smaller areas ."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I Cant answered this specific item, because the information I specified was too limited by the specific information requested. This information cannot apply directly since Sociology has much smaller areas .",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "People Will Fakin' It With Him ."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "People Will Fakin' It With Him .",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It also influences the feminist community by studying philosophical ideas"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It also influences the feminist community by studying philosophical ideas",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "All of which were part two, is one way which you find"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "All of which were part two, is one way which you find",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I can offer describing"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I can offer describing",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "This helps to represent subjects and views to various and often seemingly unjustified height of significance for politics."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "This helps to represent subjects and views to various and often seemingly unjustified height of significance for politics.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "[N-Subcategal language-English sufficom"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "[N-Subcategal language-English sufficom",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Irish predicted after 1849"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Irish predicted after 1849",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Milk has been described that can produce therapeutic health sustaining effects on specific illnesses such (Respiroid, stomach cancer, soryocannabetanoiform dyspeqtrn) of chronic diseases. [4]."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Milk has been described that can produce therapeutic health sustaining effects on specific illnesses such (Respiroid, stomach cancer, soryocannabetanoiform dyspeqtrn) of chronic diseases. [4].",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Site can appear on this search bar or may already have looked, or the fortress might well still have it but there remains nothing and it cannot appear immediately and does it exist within this site, or possibly close to where that structure exists already"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Site can appear on this search bar or may already have looked, or the fortress might well still have it but there remains nothing and it cannot appear immediately and does it exist within this site, or possibly close to where that structure exists already",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "As much all history falls out"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "As much all history falls out",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "symmetry bimission occurs."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "symmetry bimission occurs.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Architectural choice may change its architectural design"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Architectural choice may change its architectural design",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "The Key Fact: The Key Fact will help Claims:"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The Key Fact: The Key Fact will help Claims:",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Not enough information for to complete question/phrase"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Not enough information for to complete question/phrase",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Lichter. Lamper (Light\u00e9). Moro-St"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Lichter. Lamper (Light\u00e9). Moro-St",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "a place is located over land created but now occupy"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "a place is located over land created but now occupy",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "September 12, 11 and the United Nations Relief/Hubert Blye Restrictification Day, August 24, 1996"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "September 12, 11 and the United Nations Relief/Hubert Blye Restrictification Day, August 24, 1996",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "provided \"remed\" to one to 'a good order"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "provided \"remed\" to one to 'a good order",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The Problem of Democracy"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The Problem of Democracy",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No Answer Choice or no matches were possible if they' match in word."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No Answer Choice or no matches were possible if they' match in word.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I failed to fulfill attempting based on this. Megina could"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I failed to fulfill attempting based on this. Megina could",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "The system integration of thoughts"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The system integration of thoughts",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I didnt claim an adequate number or data to accurately reflect"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I didnt claim an adequate number or data to accurately reflect",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "She was a member of Wake-School in 1983"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "She was a member of Wake-School in 1983",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No option was listed available except in Alfred Stoneman"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No option was listed available except in Alfred Stoneman",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "did no first-rounder match in each of whose five cricket oversofteners did ... took 47 from 43.02."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "did no first-rounder match in each of whose five cricket oversofteners did ... took 47 from 43.02.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "She received both degrees in the same academic jule"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "She received both degrees in the same academic jule",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "The healthcare Claims:"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The healthcare Claims:",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "World Reunization Day. All time warping charts from 1"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "World Reunization Day. All time warping charts from 1",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "It is a potato, a poppy, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole,"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It is a potato, a poppy, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole, a tadpole,",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "All Jews boys were require by Judocetic of law"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "All Jews boys were require by Judocetic of law",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Can we return this option or it's unavailable (in either choice) with no change in use (i. Consider what has led to"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Can we return this option or it's unavailable (in either choice) with no change in use (i. Consider what has led to",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      }
+    ],
+    "total_evaluated": 100
+  },
+  "context_precision": {
+    "mean_score": 0.8990972222222221,
+    "scores": [
+      0.8055555555555555,
+      1.0,
+      0.8041666666666667,
+      1.0,
+      0.8333333333333333,
+      1.0,
+      0.7555555555555555,
+      1.0,
+      1.0,
+      0.7555555555555555,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.95,
+      1.0,
+      0.8333333333333333,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      0.3333333333333333,
+      0.3333333333333333,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.8875,
+      1.0,
+      0.5888888888888889,
+      1.0,
+      1.0,
+      1.0,
+      0.95,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.9166666666666666,
+      0.0,
+      0.8333333333333333,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.7000000000000001,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      1.0,
+      1.0,
+      0.6791666666666667,
+      1.0,
+      0.8333333333333333,
+      1.0,
+      0.8666666666666667,
+      1.0,
+      1.0,
+      1.0,
+      0.0,
+      0.9166666666666666,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.3333333333333333
+    ],
+    "details": [
+      {
+        "score": 0.8055555555555555,
+        "relevance_vector": [
+          1,
+          0,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.6666666666666666,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.8041666666666667,
+        "relevance_vector": [
+          1,
+          0,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.6666666666666666,
+          0.75,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.8333333333333333,
+        "relevance_vector": [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.7555555555555555,
+        "relevance_vector": [
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.7555555555555555,
+        "relevance_vector": [
+          1,
+          0,
+          1,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.95,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.8333333333333333,
+        "relevance_vector": [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.3333333333333333,
+        "relevance_vector": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.3333333333333333,
+        "relevance_vector": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.8875,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.75,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.5888888888888889,
+        "relevance_vector": [
+          0,
+          1,
+          1,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.95,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.9166666666666666,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.8333333333333333,
+        "relevance_vector": [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.7000000000000001,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.5,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.6791666666666667,
+        "relevance_vector": [
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.6666666666666666,
+          0.75,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.8333333333333333,
+        "relevance_vector": [
+          1,
+          0,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.8666666666666667,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.9166666666666666,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.3333333333333333,
+        "relevance_vector": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      }
+    ],
+    "total_evaluated": 100
+  },
+  "summary": {
+    "mrr": 0.9133333333333333,
+    "hit_rate": 0.95,
+    "faithfulness": 0.32,
+    "context_precision": 0.8990972222222221,
+    "total_queries": 100
+  },
+  "timing": {
+    "mean_ms": 6308.693301677704,
+    "median_ms": 5282.116889953613,
+    "min_ms": 1606.4293384552002,
+    "max_ms": 23387.475728988647,
+    "std_ms": 3817.965472178634,
+    "all_timings": [
+      8070.105075836182,
+      2050.532817840576,
+      4834.573984146118,
+      2242.7515983581543,
+      2516.749143600464,
+      2053.6463260650635,
+      3835.8514308929443,
+      2497.569799423218,
+      3677.955389022827,
+      5655.001878738403,
+      4126.089572906494,
+      4737.206220626831,
+      2003.1590461730957,
+      3524.9881744384766,
+      6462.851762771606,
+      9389.816761016846,
+      5050.24790763855,
+      3890.878200531006,
+      8691.912651062012,
+      1606.4293384552002,
+      3206.6810131073,
+      8273.019075393677,
+      4716.056108474731,
+      3986.81378364563,
+      7847.209453582764,
+      3530.758857727051,
+      6887.959003448486,
+      4326.0743618011475,
+      3188.0111694335938,
+      12664.98064994812,
+      5394.678354263306,
+      4638.55767250061,
+      7250.79870223999,
+      9305.015325546265,
+      4142.2154903411865,
+      4869.073152542114,
+      9646.270990371704,
+      4293.048858642578,
+      7173.673868179321,
+      18054.503679275513,
+      9740.307331085205,
+      10087.541818618774,
+      12701.86972618103,
+      10450.248956680298,
+      5882.893085479736,
+      12980.07082939148,
+      11699.651718139648,
+      16565.164804458618,
+      6055.2685260772705,
+      8374.077558517456,
+      2120.7451820373535,
+      2911.3287925720215,
+      3831.942558288574,
+      8628.9701461792,
+      3747.0529079437256,
+      2904.327154159546,
+      7639.122724533081,
+      4509.9053382873535,
+      10864.457130432129,
+      3281.9976806640625,
+      5415.941953659058,
+      2874.6514320373535,
+      6415.407419204712,
+      1841.0558700561523,
+      3523.7879753112793,
+      6678.615570068359,
+      3278.092622756958,
+      5294.435501098633,
+      2936.1412525177,
+      10158.64109992981,
+      2892.7407264709473,
+      5074.580192565918,
+      5329.516410827637,
+      4006.7522525787354,
+      5300.281524658203,
+      6448.484420776367,
+      12050.469160079956,
+      8070.98388671875,
+      3028.961181640625,
+      9188.517093658447,
+      6470.04508972168,
+      7444.999694824219,
+      3049.123764038086,
+      3975.0709533691406,
+      17519.861936569214,
+      8067.771434783936,
+      4637.633323669434,
+      8456.33578300476,
+      4129.455804824829,
+      2554.091691970825,
+      2872.4586963653564,
+      5183.92276763916,
+      6197.721242904663,
+      9084.051132202148,
+      5586.202621459961,
+      4360.893249511719,
+      7513.401508331299,
+      23387.475728988647,
+      10010.297298431396,
+      5269.798278808594
+    ]
+  },
+  "by_question_type": {
+    "multi-hop": {
+      "count": 9,
+      "mrr": 1.0,
+      "faithfulness": 0.2222222222222222,
+      "context_precision": 0.9944444444444444
+    },
+    "inferential": {
+      "count": 20,
+      "mrr": 0.8583333333333332,
+      "faithfulness": 0.1,
+      "context_precision": 0.8691666666666666
+    },
+    "factual": {
+      "count": 51,
+      "mrr": 0.9052287581699346,
+      "faithfulness": 0.39215686274509803,
+      "context_precision": 0.8794934640522877
+    },
+    "comparative": {
+      "count": 20,
+      "mrr": 0.95,
+      "faithfulness": 0.4,
+      "context_precision": 0.9361111111111111
+    }
+  },
+  "detailed_results": [
+    {
+      "question_id": "q_6439c6a8",
+      "question": "What is a key fact about A Little Man and a House and the Whole World Window?",
+      "question_type": "comparative",
+      "ground_truth": "The strange suits and make-up we wore in those days was us just trying to look our best.",
+      "generated_answer": "My unknown",
+      "source_url": "https://en.wikipedia.org/wiki/A_Little_Man_and_a_House_and_the_Whole_World_Window",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.8055555555555555,
+      "time_ms": 8070.105075836182
+    },
+    {
+      "question_id": "q_fee8d42c",
+      "question": "When did significant events occur related to Gu Yue?",
+      "question_type": "factual",
+      "ground_truth": "He won the Best Actor titles at China's Hundred Flowers Awards in 1990 and again in 1993.",
+      "generated_answer": "December 29, 1928",
+      "source_url": "https://en.wikipedia.org/wiki/Gu_Yue",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 2050.532817840576
+    },
+    {
+      "question_id": "q_a9f8aeb8",
+      "question": "What is Language Film?",
+      "question_type": "factual",
+      "ground_truth": "Language Film is considered to have its own language.",
+      "generated_answer": "its",
+      "source_url": "https://en.wikipedia.org/wiki/Film",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.8041666666666667,
+      "time_ms": 4834.573984146118
+    },
+    {
+      "question_id": "q_d5913505",
+      "question": "What is a key fact about Kirk\u2013Holden war?",
+      "question_type": "factual",
+      "ground_truth": "The acts also disfranchised many former Confederates, and required states to revise their constitutions to enfranchise freedmen and ratify the Fourteenth Amendment to the United States Constitution, which granted equal citizenship to black people.",
+      "generated_answer": "Kirk also conducted raid to Washington to increase federal cooperation to increase military support available at all point around Cassolilla",
+      "source_url": "https://en.wikipedia.org/wiki/Kirk\u2013Holden_war",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 2242.7515983581543
+    },
+    {
+      "question_id": "q_05e60b03",
+      "question": "What is a key fact about History?",
+      "question_type": "inferential",
+      "ground_truth": "By geographic location Areas of historical study can also be categorized by the geographic locations they examine.",
+      "generated_answer": "history became called dicticle",
+      "source_url": "https://en.wikipedia.org/wiki/History",
+      "mrr": 0.3333333333333333,
+      "faithfulness": 0.0,
+      "context_precision": 0.8333333333333333,
+      "time_ms": 2516.749143600464
+    },
+    {
+      "question_id": "q_7ebd4f61",
+      "question": "What is Modern geography?",
+      "question_type": "comparative",
+      "ground_truth": "Modern geography is an all-encompassing discipline that seeks to understand the Earth and its human and natural complexities \u2212 not merely where objects are, but how they have changed and come to be.",
+      "generated_answer": "the pursuit in and field of theory",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_geography",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 2053.6463260650635
+    },
+    {
+      "question_id": "q_e46da732",
+      "question": "What is a key fact about Baba-Dervish settlement?",
+      "question_type": "factual",
+      "ground_truth": "Cultural layers The lower cultural layer dates back to the 6th Millennium BC.",
+      "generated_answer": "The excavation area were 60% of this archaeological",
+      "source_url": "https://en.wikipedia.org/wiki/Baba-Dervish_settlement",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.7555555555555555,
+      "time_ms": 3835.8514308929443
+    },
+    {
+      "question_id": "q_03b9261e",
+      "question": "What is a key fact about Hume Highway?",
+      "question_type": "multi-hop",
+      "ground_truth": "It retains a rural character and has many historic buildings.",
+      "generated_answer": "\"Iunable give product number...\"",
+      "source_url": "https://en.wikipedia.org/wiki/Hume_Highway",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 2497.569799423218
+    },
+    {
+      "question_id": "q_3ff81dac",
+      "question": "When did significant events occur related to Cyberpunk?",
+      "question_type": "inferential",
+      "ground_truth": "In the subsequent decade, the motifs of Gibson's Neuromancer became formulaic, climaxing in the satirical extremes of Neal Stephenson's Snow Crash in 1992.",
+      "generated_answer": "Historically the 1960s/We did Not Come This Late (1950\u2013",
+      "source_url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 3677.955389022827
+    },
+    {
+      "question_id": "q_3ef2b0b8",
+      "question": "What is a key fact about Medicine?",
+      "question_type": "factual",
+      "ground_truth": "and unique to the United States, must be completed in and delivered from a recognized university.",
+      "generated_answer": "it has recently become both an office and academic profession and sometimes called alternative medical medicine too many questions answered at least briefly to give more explanation in the answer. In recent cultures and emergence years to come about",
+      "source_url": "https://en.wikipedia.org/wiki/Medicine",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.7555555555555555,
+      "time_ms": 5655.001878738403
+    },
+    {
+      "question_id": "q_13cf1199",
+      "question": "Who was mentioned in relation to 54th Tactical Fighter Wing?",
+      "question_type": "comparative",
+      "ground_truth": "The 116th Fighter Wing was allotted to the state of Georgia, federally recognized and activated 1 November 1950; assuming the personnel, equipment and mission of the inactivated wing.",
+      "generated_answer": "I know this cannot have taken care for this comment by himself yet so I had someone with an active",
+      "source_url": "https://en.wikipedia.org/wiki/54th_Tactical_Fighter_Wing",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4126.089572906494
+    },
+    {
+      "question_id": "q_99ea18da",
+      "question": "What is a key fact about Henri Admirat?",
+      "question_type": "factual",
+      "ground_truth": "Henri Admirat (3 September 1744 \u2013 17 June 1794) was a notable figure in the French Revolution.",
+      "generated_answer": "He spent time fighting outside the Royal palace and later occupied the town. In his prison career Admiro succeeded as its lorn leader!",
+      "source_url": "https://en.wikipedia.org/wiki/Henri_Admirat",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4737.206220626831
+    },
+    {
+      "question_id": "q_4dc180b9",
+      "question": "What is a key fact about The Lord of the Rings: The Return of the King (video game)?",
+      "question_type": "inferential",
+      "ground_truth": "Not believing Frodo to be dead, they plan to fight as long as they can, so as to give Frodo enough time to destroy the Ring.",
+      "generated_answer": "the third book,,the third half and, as it is nichtan theer adaptation.",
+      "source_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King_(video_game)",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 2003.1590461730957
+    },
+    {
+      "question_id": "q_40eb6519",
+      "question": "What is a key fact about Sport?",
+      "question_type": "factual",
+      "ground_truth": "In a race, for example, the time to complete the course is an objective measurement.",
+      "generated_answer": "A significant resource \" of television entertainment for no-Partispridents",
+      "source_url": "https://en.wikipedia.org/wiki/Sport",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 3524.9881744384766
+    },
+    {
+      "question_id": "q_80e4ae97",
+      "question": "What is a key fact about Historicism?",
+      "question_type": "multi-hop",
+      "ground_truth": "In his books, Natural Right and History and On Tyranny, Strauss offers a complete critique of historicism as it emerges in the works of Hegel, Marx, and Heidegger.",
+      "generated_answer": "there were only The primary model was metalogical analysis used to prove it applied scientific terms",
+      "source_url": "https://en.wikipedia.org/wiki/Historicism",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 6462.851762771606
+    },
+    {
+      "question_id": "q_002d6cca",
+      "question": "What is a key fact about Scribblenauts Showdown?",
+      "question_type": "comparative",
+      "ground_truth": "Development and release Prior to its official reveal, Showdown was leaked by the Game Software Rating Regulations and Entertainment Software Rating Board, after the two boards publicly released the game's ratings.",
+      "generated_answer": "Scriblenut \"Showtown had players concurrenting opponents and using minime",
+      "source_url": "https://en.wikipedia.org/wiki/Scribblenauts_Showdown",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 9389.816761016846
+    },
+    {
+      "question_id": "q_a984b22a",
+      "question": "What is a key fact about 9M123 Khrizantema?",
+      "question_type": "inferential",
+      "ground_truth": "The missile began development in the 1980s and was designed as an all weather, multi-purpose missile system that could defeat current and future armoured units equipped with advanced armour protection, such as explosive reactive armour (ERA).",
+      "generated_answer": "I Can not answered [stupdate for use via software",
+      "source_url": "https://en.wikipedia.org/wiki/9M123_Khrizantema",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.95,
+      "time_ms": 5050.24790763855
+    },
+    {
+      "question_id": "q_994f9a93",
+      "question": "What is a key fact about Life extension?",
+      "question_type": "factual",
+      "ground_truth": "CRISPR/Cas9 CRISPR/Cas9 edits genes by precisely cutting DNA and then harnessing natural DNA repair processes to modify the gene in the desired manner.",
+      "generated_answer": "This word may have multiple references which are related to related word-sublimated statements made (and unvarmable fact may come as an involontade). Please include two possible answers, if either meets your description",
+      "source_url": "https://en.wikipedia.org/wiki/Anti-aging_medicine",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 3890.878200531006
+    },
+    {
+      "question_id": "q_4cf94440",
+      "question": "What is a key fact about Outline of economics?",
+      "question_type": "factual",
+      "ground_truth": "Barter economy \u2013 an economy where transactions are direct exchanges of goods or services for other goods or services without using a medium of exchange, such as credit or money.",
+      "generated_answer": "it is dispersed about",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_economics",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.8333333333333333,
+      "time_ms": 8691.912651062012
+    },
+    {
+      "question_id": "q_7a0e7f5f",
+      "question": "What is a key fact about Music?",
+      "question_type": "factual",
+      "ground_truth": "Melodies also often contain notes from the chords used in the song.",
+      "generated_answer": "Music often uses social situations",
+      "source_url": "https://en.wikipedia.org/wiki/Music",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 1606.4293384552002
+    },
+    {
+      "question_id": "q_d23696f9",
+      "question": "What is a key fact about Bioregion?",
+      "question_type": "comparative",
+      "ground_truth": "Bioregionalism Bioregions became a foundational concept within the philosophical system called Bioregionalism.",
+      "generated_answer": "The boundaries will not overlap but remain as long as possible because human lifesystems on-reside at each specific place does occur",
+      "source_url": "https://en.wikipedia.org/wiki/Bioregion",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 3206.6810131073
+    },
+    {
+      "question_id": "q_f642711e",
+      "question": "What is a key fact about 1935 Pacific typhoon season?",
+      "question_type": "multi-hop",
+      "ground_truth": "The storm drifted northwest and later curved west.",
+      "generated_answer": "Ican answer here Based upon your choices we dont speculate any other options such",
+      "source_url": "https://en.wikipedia.org/wiki/1935_Pacific_typhoon_season",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 8273.019075393677
+    },
+    {
+      "question_id": "q_8ef898fb",
+      "question": "What is a key fact about Allotropy?",
+      "question_type": "factual",
+      "ground_truth": "Allotropy refers only to different forms of an element within the same physical phase (the state of matter, i.",
+      "generated_answer": "chemical properties of materials and the structure thereof to existed in various forms over several georgenously disconceal",
+      "source_url": "https://en.wikipedia.org/wiki/Allotropy",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4716.056108474731
+    },
+    {
+      "question_id": "q_847b2a97",
+      "question": "When did significant events occur related to Jim Macken?",
+      "question_type": "factual",
+      "ground_truth": "Death Jim Macken died in his sleep on 19 September 2019.",
+      "generated_answer": "Jim McKeung death of 9 October 2019 in Naar",
+      "source_url": "https://en.wikipedia.org/wiki/Jim_Macken",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 3986.81378364563
+    },
+    {
+      "question_id": "q_0313b1ff",
+      "question": "What is a key fact about Noah Pesch?",
+      "question_type": "inferential",
+      "ground_truth": "Born in Germany, he plays for the Croatia national under-21 football team.",
+      "generated_answer": "international service and plays his volley and save from middefender and right left half duextin in full position for both goal lines at an all time high mark on 89.31 over 1080 blp records with over 2,300 individual home games being scored this month. I couldnnt solve that one because there",
+      "source_url": "https://en.wikipedia.org/wiki/Noah_Pesch",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 7847.209453582764
+    },
+    {
+      "question_id": "q_f4727ffa",
+      "question": "What is The village?",
+      "question_type": "comparative",
+      "ground_truth": "The village is a port with passenger ferry, with two bi-weekly sailings to Roscoff in France.",
+      "generated_answer": "Kalc \u2014 \"Lumped up old\") or formerly ...",
+      "source_url": "https://en.wikipedia.org/wiki/Ringaskiddy",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3530.758857727051
+    },
+    {
+      "question_id": "q_bc86d70c",
+      "question": "What is a key fact about Film adaptation?",
+      "question_type": "factual",
+      "ground_truth": "The Marvel Cinematic Universe starting in 2008 is a shared universe with films combining characters from different works by Marvel Comics.",
+      "generated_answer": "transfers what has already been pushed to another medium within defining an",
+      "source_url": "https://en.wikipedia.org/wiki/Film_adaptation",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 6887.959003448486
+    },
+    {
+      "question_id": "q_0b3fcbb3",
+      "question": "Who was mentioned in relation to Technology?",
+      "question_type": "factual",
+      "ground_truth": "Archaeologists estimate that the wheel was invented independently and concurrently in Mesopotamia (in present-day Iraq), the Northern Caucasus (Maykop culture), and Central Europe.",
+      "generated_answer": "Kremer, Mike Kenem\u00e9nin. Ambroscope \"; Stanley",
+      "source_url": "https://en.wikipedia.org/wiki/Technology",
+      "mrr": 0.3333333333333333,
+      "faithfulness": 0.0,
+      "context_precision": 0.3333333333333333,
+      "time_ms": 4326.0743618011475
+    },
+    {
+      "question_id": "q_a8a7cab0",
+      "question": "When did significant events occur related to Outline of philosophy?",
+      "question_type": "inferential",
+      "ground_truth": "By Paul Newall (for beginners) Archived 2007-03-08 at the Wayback Machine Philosophical positions (philosophy, movement, school, theory, etc.",
+      "generated_answer": "No to date / not Available To Final Solution This text is removed based",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_philosophy",
+      "mrr": 0.3333333333333333,
+      "faithfulness": 0.0,
+      "context_precision": 0.3333333333333333,
+      "time_ms": 3188.0111694335938
+    },
+    {
+      "question_id": "q_21a81b69",
+      "question": "What is a key fact about Holy Trinity Church (Old Swedes)?",
+      "question_type": "factual",
+      "ground_truth": "Holy Trinity Church, also known as Old Swedes, is a historic church at East 7th and Church Street in Wilmington, Delaware.",
+      "generated_answer": "During World Rebellion The nation was driven apart causing widespread dissatimfactornment. It continues",
+      "source_url": "https://en.wikipedia.org/wiki/Holy_Trinity_Church_(Old_Swedes)",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 12664.98064994812
+    },
+    {
+      "question_id": "q_680bd4cc",
+      "question": "What is a key fact about Virtual instrumentation?",
+      "question_type": "comparative",
+      "ground_truth": "Overview Traditional hardware instrumentation systems are made up of fixed hardware components, such as digital multimeters and oscilloscopes that are completely specific to their stimulus, analysis, or measurement function.",
+      "generated_answer": "customize customization software -- modular measurement systems can automatically replace new equipment to create your customized measurement",
+      "source_url": "https://en.wikipedia.org/wiki/Virtual_instrumentation",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 5394.678354263306
+    },
+    {
+      "question_id": "q_41e66097",
+      "question": "What is She writes that Tolkien?",
+      "question_type": "factual",
+      "ground_truth": "She writes that Tolkien is here describing the city from a great distance, \"zoom[ing] the reader out, suggesting the wide scope and large scale that are key pleasures of the genre.",
+      "generated_answer": "could have complemented \"Apocalic\" is against industrial",
+      "source_url": "https://en.wikipedia.org/wiki/Architecture_in_Middle-earth",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4638.55767250061
+    },
+    {
+      "question_id": "q_858540dc",
+      "question": "What is a key fact about The Valley (TV series)?",
+      "question_type": "inferential",
+      "ground_truth": "Lisa Vanderpump serves as an executive producer, with 32 Flavors Entertainment, Haymaker East and Evolution Media attached as the production companies.",
+      "generated_answer": "I have limited time for context/objectivity, but not at this writing because they've taken the lead by themselves while simultaneously working in that same situation simultaneously",
+      "source_url": "https://en.wikipedia.org/wiki/The_Valley_(TV_series)",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 7250.79870223999
+    },
+    {
+      "question_id": "q_91418be3",
+      "question": "What is a key fact about Colwell, Iowa?",
+      "question_type": "factual",
+      "ground_truth": "0% were between the ages of 20 and 24; 29.",
+      "generated_answer": "I may remove stains as suggested to indicate possible unkic spots during installation processes to remove",
+      "source_url": "https://en.wikipedia.org/wiki/Colwell,_Iowa",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 9305.015325546265
+    },
+    {
+      "question_id": "q_3ce95cb1",
+      "question": "What is a key fact about Geography?",
+      "question_type": "factual",
+      "ground_truth": "He also developed similar techniques when it came to measuring the heights of mountains, depths of the valleys, and expanse of the horizon.",
+      "generated_answer": "For an object to exists",
+      "source_url": "https://en.wikipedia.org/wiki/Geography",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 4142.2154903411865
+    },
+    {
+      "question_id": "q_8df33130",
+      "question": "What is a key fact about Biology of romantic love?",
+      "question_type": "comparative",
+      "ground_truth": "found that both types of love were associated with the left ventral tegmental area (more associated with the pleasurable aspect of reward, or \"liking\"), while in addition romantic love also involved the right ventral tegmental area (more associated with reward \"wanting\").",
+      "generated_answer": "They proposed A psychological Delineation for Mysterical Man-Mach-Mart Relationhood Love",
+      "source_url": "https://en.wikipedia.org/wiki/Biology_of_romantic_love",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4869.073152542114
+    },
+    {
+      "question_id": "q_eef509dc",
+      "question": "What is a key fact about Atom?",
+      "question_type": "inferential",
+      "ground_truth": "Many elements display multiple valences, or tendencies to share differing numbers of electrons in different compounds.",
+      "generated_answer": "Neurous nuclear nucles connect to neutrum nukes.",
+      "source_url": "https://en.wikipedia.org/wiki/Atom",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.8875,
+      "time_ms": 9646.270990371704
+    },
+    {
+      "question_id": "q_dfa77f10",
+      "question": "What is a key fact about Amateur chemistry?",
+      "question_type": "factual",
+      "ground_truth": "Despite these incidents, the positive impact of chemistry sets on kickstarting the curiosity of children, some of whom would later become professional scientists and engineers, has been acknowledged.",
+      "generated_answer": "Can do with certain products are available from home only when it has sufficient availability in one're space. I cannot identify",
+      "source_url": "https://en.wikipedia.org/wiki/Amateur_chemistry",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 4293.048858642578
+    },
+    {
+      "question_id": "q_82bc590a",
+      "question": "What is a key fact about Literature?",
+      "question_type": "factual",
+      "ground_truth": "Other literary prizes for which all nationalities are eligible include: the Neustadt International Prize for Literature, the Man Booker International Prize, Pulitzer Prize, Hugo Award, Guardian First Book Award and the Franz Kafka Prize.",
+      "generated_answer": "verbl reveals Or discussed that may need thought at heart",
+      "source_url": "https://en.wikipedia.org/wiki/Literature",
+      "mrr": 0.5,
+      "faithfulness": 1.0,
+      "context_precision": 0.5888888888888889,
+      "time_ms": 7173.673868179321
+    },
+    {
+      "question_id": "q_2bf67533",
+      "question": "What is a key fact about Alessandra Moretti?",
+      "question_type": "factual",
+      "ground_truth": "She began serving on the Committee on the Environment, Public Health and Food Safety.",
+      "generated_answer": "Morotti gained mass political prominence but he eventually quit at the turn. This fact does give additional details at which position this candidate would eventually land",
+      "source_url": "https://en.wikipedia.org/wiki/Alessandra_Moretti",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 18054.503679275513
+    },
+    {
+      "question_id": "q_72df7afc",
+      "question": "What is The airport?",
+      "question_type": "comparative",
+      "ground_truth": "The airport is just outside town to the west of the central business district.",
+      "generated_answer": "An airport caring . and following social surroundings to go in Tonj to travel around by train between samura rai",
+      "source_url": "https://en.wikipedia.org/wiki/Tonj_Airport",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 9740.307331085205
+    },
+    {
+      "question_id": "q_d95c2966",
+      "question": "What is a key fact about Bibliography of encyclopedias: biology?",
+      "question_type": "factual",
+      "ground_truth": "The Encyclopedia of Natural Insect and Disease Control.",
+      "generated_answer": "is the subject in an extensive listing",
+      "source_url": "https://en.wikipedia.org/wiki/Bibliography_of_encyclopedias:_biology",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 10087.541818618774
+    },
+    {
+      "question_id": "q_fad69877",
+      "question": "What is The allied field of comparative psychology?",
+      "question_type": "multi-hop",
+      "ground_truth": "The allied field of comparative psychology is the scientific study of the behavior and mental processes of non-human animals.",
+      "generated_answer": "behavioral psychoology also known As biology science research have developed for",
+      "source_url": "https://en.wikipedia.org/wiki/Psychology",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.95,
+      "time_ms": 12701.86972618103
+    },
+    {
+      "question_id": "q_fe998f3c",
+      "question": "What is a key fact about HUN-REN Wigner Research Centre for Physics?",
+      "question_type": "factual",
+      "ground_truth": "and its scientific institutes were given full autonomy within the MTA.",
+      "generated_answer": "the youngest academic society for particle physics in physics for 10 decades with 150 international associate professories",
+      "source_url": "https://en.wikipedia.org/wiki/HUN-REN_Wigner_Research_Centre_for_Physics",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 10450.248956680298
+    },
+    {
+      "question_id": "q_4d7a5a0f",
+      "question": "What is a key fact about 2009\u201310 Montreal Canadiens season?",
+      "question_type": "inferential",
+      "ground_truth": "Despite trailing 3\u20131 after the first four games, the Canadiens won the final three, holding the Capitals to three goals.",
+      "generated_answer": "They started 9-3 at Toronto Marlies. The 2007 Canadian league draft eliminated Ottawa 63-73 and Quebec City 104-6 over Ottawa 61-74 for fourth",
+      "source_url": "https://en.wikipedia.org/wiki/2009\u201310_Montreal_Canadiens_season",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 5882.893085479736
+    },
+    {
+      "question_id": "q_3fa560b2",
+      "question": "Who was mentioned in relation to Svetlana Alliluyeva?",
+      "question_type": "comparative",
+      "ground_truth": "From 1970 to 1973, she was married to the American architect William Wesley Peters (a son-in-law of Frank Lloyd Wright), with whom she had a daughter, Olga Peters (later known also as Chrese Evans).",
+      "generated_answer": "Joseph Shelgiaropov to A.T",
+      "source_url": "https://en.wikipedia.org/wiki/Svetlana_Alliluyeva",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 12980.07082939148
+    },
+    {
+      "question_id": "q_cc311b3f",
+      "question": "When did significant events occur related to Global Alliance on Health and Pollution?",
+      "question_type": "factual",
+      "ground_truth": "The 2019 report, which uses the most recent Global Burden of Disease data from the Institute of Health Metrics Evaluation, underscores the extent and severity of harm caused by air, water, and occupational pollution.",
+      "generated_answer": "August 21, 2001 -October 1, 2000. (POPULARY TELEBRIT\u00c9 PUMPL",
+      "source_url": "https://en.wikipedia.org/wiki/Global_Alliance_on_Health_and_Pollution",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 11699.651718139648
+    },
+    {
+      "question_id": "q_22d07be3",
+      "question": "What is A major challenge in atmospheric modeling?",
+      "question_type": "factual",
+      "ground_truth": "A major challenge in atmospheric modeling is balancing the number of chemical compounds and reactions included in the model with the accuracy of physical processes such as transport and mixing in the atmosphere.",
+      "generated_answer": "I, cannot agree directly stating how simple this will become during work. If it works that much better what do the researchers plan",
+      "source_url": "https://en.wikipedia.org/wiki/Atmospheric_chemistry",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 16565.164804458618
+    },
+    {
+      "question_id": "q_8d7fade2",
+      "question": "What is a key fact about Consciousness of guilt?",
+      "question_type": "inferential",
+      "ground_truth": "Typical psychological defenses exhibited by guilty suspects include denial, rationalisation, minimisation, and projection of blame onto the victim.",
+      "generated_answer": "Generally speaking. An action to test for something implies feeling \"accent\" (\"concerne.\"), usually referred by \"contact",
+      "source_url": "https://en.wikipedia.org/wiki/Consciousness_of_guilt",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 6055.2685260772705
+    },
+    {
+      "question_id": "q_f07694a6",
+      "question": "What was In office Agnew's term as governor?",
+      "question_type": "multi-hop",
+      "ground_truth": "In office Agnew's term as governor was marked by an agenda which included tax reform, clean water regulations, and the repeal of laws against interracial marriage.",
+      "generated_answer": "second trumis in presidential race by Nixon combined",
+      "source_url": "https://en.wikipedia.org/wiki/Spiro_Agnew",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 8374.077558517456
+    },
+    {
+      "question_id": "q_764620ab",
+      "question": "What is a key fact about Mathematics and art?",
+      "question_type": "comparative",
+      "ground_truth": "The historian Vasari in his Lives of the Painters calls Piero the \"greatest geometer of his time, or perhaps of any time.",
+      "generated_answer": "is the motivending force behind mathematics design creation \", maybe another form below",
+      "source_url": "https://en.wikipedia.org/wiki/Mathematics_and_art",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.9166666666666666,
+      "time_ms": 2120.7451820373535
+    },
+    {
+      "question_id": "q_e86b5b4c",
+      "question": "What was In 2009, it?",
+      "question_type": "factual",
+      "ground_truth": "In 2009, it was converted from a wholly government-owned enterprise to a partially privatized joint-stock company.",
+      "generated_answer": "10s best in NFL (NHLA year-for-2900 games held across an 82-play arena",
+      "source_url": "https://en.wikipedia.org/wiki/Th\u00e1i_Nguy\u00ean",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 2911.3287925720215
+    },
+    {
+      "question_id": "q_bd0dc4ac",
+      "question": "What is a key fact about Treffgarne?",
+      "question_type": "inferential",
+      "ground_truth": "Inside it are some ornate and colorful stained glass windows originally made in Munich and which were allegedly transported by horse and cart from St Giles' Cathedral in Edinburgh.",
+      "generated_answer": "Tremngarnnne in particular",
+      "source_url": "https://en.wikipedia.org/wiki/Treffgarne",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.8333333333333333,
+      "time_ms": 3831.942558288574
+    },
+    {
+      "question_id": "q_2cac12e4",
+      "question": "Who was mentioned in relation to Chicago School of Psychology?",
+      "question_type": "factual",
+      "ground_truth": "The school's reputation was known throughout the world, and its graduates emphasized their training at the school in professional advertisements.",
+      "generated_answer": "Garden College (1920) University (19004) Arch. Fonctionaal School. I cannot answer This field of the article was correctly wordendude",
+      "source_url": "https://en.wikipedia.org/wiki/Chicago_School_of_Psychology",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 8628.9701461792
+    },
+    {
+      "question_id": "q_4bc258d2",
+      "question": "What is a key fact about Pulse nightclub shooting?",
+      "question_type": "factual",
+      "ground_truth": "COPS commissioned the Police Foundation to prepare the report, which was released in December 2017.",
+      "generated_answer": "violence is more likely on sexual grounds; it happens first or second time or fourth times or weeks following an incident like this often on same street",
+      "source_url": "https://en.wikipedia.org/wiki/Pulse_nightclub_shooting",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 3747.0529079437256
+    },
+    {
+      "question_id": "q_d5d9a3a0",
+      "question": "What is a key fact about Thomas Briscoe?",
+      "question_type": "comparative",
+      "ground_truth": "Thomas Briscoe (30 June 1813 \u2013 16 February 1895) was a Welsh priest and scholar, who was a Fellow of Jesus College, Oxford for 25 years and Vicar of Holyhead for 37 years.",
+      "generated_answer": "This option was blocked through time for spelling reasons and it worked,",
+      "source_url": "https://en.wikipedia.org/wiki/Thomas_Briscoe",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 2904.327154159546
+    },
+    {
+      "question_id": "q_3f447acc",
+      "question": "What is a key fact about Chlororespiration?",
+      "question_type": "inferential",
+      "ground_truth": "By determining the amount of LHC within the chloroplast, scientists were able to notice decreased PSII activity.",
+      "generated_answer": "It not as proficient than growth factor tin by sunlight or low tandy radiation on soils, and plants cannot survive cold conditions of up above 20 mN. Because these factors can result in reduced light and gas levels inside plant photosynthesis and increased transpirable carbon in the solution plant. As",
+      "source_url": "https://en.wikipedia.org/wiki/Chlororespiration",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 7639.122724533081
+    },
+    {
+      "question_id": "q_59ff8500",
+      "question": "What is a key fact about Biao Ren?",
+      "question_type": "factual",
+      "ground_truth": "The manhua has garnered widespread acclaim domestically, and currently has a rating of 9.",
+      "generated_answer": "Iunable say as too many sources are indicated to add sufficient detail to make more accurate observations as shown",
+      "source_url": "https://en.wikipedia.org/wiki/Biao_Ren",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4509.9053382873535
+    },
+    {
+      "question_id": "q_d987ea8b",
+      "question": "What is a key fact about Biology?",
+      "question_type": "factual",
+      "ground_truth": "The compound appears in the title of Volume 3 of Michael Christoph Hanow's Philosophiae naturalis sive physicae dogmaticae: Geologia, biologia, phytologia generalis et dendrologia, published in 1766.",
+      "generated_answer": "core topics: cells - as \"basical\" -> \"nucative\", characteristics (e",
+      "source_url": "https://en.wikipedia.org/wiki/Biology",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 10864.457130432129
+    },
+    {
+      "question_id": "q_3d700bac",
+      "question": "What is At a price above equilibrium, there?",
+      "question_type": "factual",
+      "ground_truth": "At a price above equilibrium, there is a surplus of quantity supplied compared to quantity demanded.",
+      "generated_answer": "Prices that are not adjusted the quick run with price adjustments cause price slip",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 3281.9976806640625
+    },
+    {
+      "question_id": "q_688fb61d",
+      "question": "What is a key fact about Charlatan?",
+      "question_type": "comparative",
+      "ground_truth": "A gaff means to trick or con and a mugu is a victim of a rigged game.",
+      "generated_answer": "the man calls - and uses it to trick his guests to believe other men will act on errifer bogusion of evidence",
+      "source_url": "https://en.wikipedia.org/wiki/Charlatan",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 5415.941953659058
+    },
+    {
+      "question_id": "q_38bf7868",
+      "question": "What is a key fact about Biliprotein?",
+      "question_type": "factual",
+      "ground_truth": "They carry out this function by monitoring the various parameters of light signals (such as presence/absence, colour, intensity and photoperiodicity).",
+      "generated_answer": "they play to images; however they might have other advantages for food analysis and of indicators. However. It will never become clear",
+      "source_url": "https://en.wikipedia.org/wiki/Biliprotein",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 2874.6514320373535
+    },
+    {
+      "question_id": "q_8389b475",
+      "question": "What is The initial damage?",
+      "question_type": "factual",
+      "ground_truth": "The initial damage is usually due to over-stretching the tissues in tension or shear, either directly by an expansion of the gas in the closed space or by pressure difference hydrostatically transmitted through the tissue.",
+      "generated_answer": "BOTOTORUXACYTHS AND IRRESTRIC",
+      "source_url": "https://en.wikipedia.org/wiki/Barostriction",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.7000000000000001,
+      "time_ms": 6415.407419204712
+    },
+    {
+      "question_id": "q_613fbe96",
+      "question": "What is Arteta?",
+      "question_type": "multi-hop",
+      "ground_truth": "Arteta is a dual citizen of Spain and the United Kingdom.",
+      "generated_answer": "A club",
+      "source_url": "https://en.wikipedia.org/wiki/Mikel_Arteta",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 1841.0558700561523
+    },
+    {
+      "question_id": "q_9bcd0f06",
+      "question": "What is a key fact about Arthur F. DeFranzo?",
+      "question_type": "inferential",
+      "ground_truth": "Biography DeFranzo joined the Army from his birthplace of Saugus, Massachusetts, in November 1940, and by June 10, 1944, was serving as a staff sergeant in the 1st Infantry Division.",
+      "generated_answer": "I cannot answer insufficient evidence of",
+      "source_url": "https://en.wikipedia.org/wiki/Arthur_F._DeFranzo",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 3523.7879753112793
+    },
+    {
+      "question_id": "q_8fd94631",
+      "question": "What is a key fact about Sociology of philosophy?",
+      "question_type": "comparative",
+      "ground_truth": "The precise separation of sociology and philosophy is blurred and changing.",
+      "generated_answer": "I Cant answered this specific item, because the information I specified was too limited by the specific information requested. This information cannot apply directly since Sociology has much smaller areas .",
+      "source_url": "https://en.wikipedia.org/wiki/Sociology_of_philosophy",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 6678.615570068359
+    },
+    {
+      "question_id": "q_ed756ff5",
+      "question": "What is It?",
+      "question_type": "factual",
+      "ground_truth": "It is now one of 18 becards in genus Pachyramphus that had been introduced in 1839 by George Gray.",
+      "generated_answer": "People Will Fakin' It With Him . \"Can you picture What In",
+      "source_url": "https://en.wikipedia.org/wiki/One-colored_becard",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3278.092622756958
+    },
+    {
+      "question_id": "q_d5d39cda",
+      "question": "When did significant events occur related to Kriegsmarine?",
+      "question_type": "factual",
+      "ground_truth": "Marines At the beginning of World War II, on 1 September 1939, the Marinesto\u00dftruppkompanie (Naval Shock Troop Company) landed in Danzig from the old battleship Schleswig-Holstein for conquering a Polish bastion at Westerplatte.",
+      "generated_answer": "War",
+      "source_url": "https://en.wikipedia.org/wiki/Kriegsmarine",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 5294.435501098633
+    },
+    {
+      "question_id": "q_cf5a0d85",
+      "question": "What is a key fact about Philosophy?",
+      "question_type": "inferential",
+      "ground_truth": "Starting in the 3rd century CE, the school of Xuanxue emerged.",
+      "generated_answer": "it also influences the feminist community by studying philosophical ideas",
+      "source_url": "https://en.wikipedia.org/wiki/Philosophy",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 2936.1412525177
+    },
+    {
+      "question_id": "q_933f6d77",
+      "question": "What is a key fact about Floyd Firestone?",
+      "question_type": "factual",
+      "ground_truth": "Manufactured by Sperry Corporation, the testing device was known variously as the Firestone-Sperry Reflectoscope, the Sperry Ultrasonic Reflectoscope, the Sperry Reflectoscope and sometimes the Supersonic Reflectoscope, the name Firestone had coined for the instrument.",
+      "generated_answer": "All of which were part two, is one way which you find. This was not mentioned when I write off this section but since it does say not necessarily the facts attested in this paragraph about that man and his relationship. If one makes any claims that I can only guess it does because there has likely an inference into their origin and they didnt speak his words in this manner before assuming that there might either come into play. We would go as close back down again but I would be wisen about that statement later unless that's more of an understanding then",
+      "source_url": "https://en.wikipedia.org/wiki/Floyd_Firestone",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 10158.64109992981
+    },
+    {
+      "question_id": "q_9636bcf3",
+      "question": "What is a key fact about Sanremo Music Festival 2021?",
+      "question_type": "comparative",
+      "ground_truth": "Big Artists Newcomers Fifth evening The twenty-six Big Artists performed their entry for a final time.",
+      "generated_answer": "I can offer describing",
+      "source_url": "https://en.wikipedia.org/wiki/Sanremo_Music_Festival_2021",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 2892.7407264709473
+    },
+    {
+      "question_id": "q_4dc96fcf",
+      "question": "What is a key fact about Political bias?",
+      "question_type": "factual",
+      "ground_truth": "Social media platforms can produce echo chambers where users are largely exposed to content supporting their preexisting views, contributing to this polarization and increasing the false consensus effect.",
+      "generated_answer": "This helps to represent subjects and views to various and often seemingly unjustified height of significance for politics. This shows the ubidity",
+      "source_url": "https://en.wikipedia.org/wiki/Political_bias",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 5074.580192565918
+    },
+    {
+      "question_id": "q_08e120a2",
+      "question": "What is Lofting?",
+      "question_type": "inferential",
+      "ground_truth": "Lofting is also more mathematically and technologically complex in comparison to direct-interception, and is only viable in long-range engagements.",
+      "generated_answer": "[N-Subcategal language-English sufficom",
+      "source_url": "https://en.wikipedia.org/wiki/Missile_lofting",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 5329.516410827637
+    },
+    {
+      "question_id": "q_77381e01",
+      "question": "What is Tipperary?",
+      "question_type": "factual",
+      "ground_truth": "Tipperary is famous for its horse breeding industry and is the home of Coolmore Stud, the largest thoroughbred breeding operation in the world.",
+      "generated_answer": "\"predicied, Irish, after 1849",
+      "source_url": "https://en.wikipedia.org/wiki/County_Tipperary",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4006.7522525787354
+    },
+    {
+      "question_id": "q_42c48f64",
+      "question": "What is a key fact about Breastmilk medicine?",
+      "question_type": "factual",
+      "ground_truth": "By considering the easy accessibility of HBM and high prevalence of infant inflammation disorders, breastmilk may be a cheap and convenient ways to relieve inflammatory symptoms.",
+      "generated_answer": "non nutition usinghuman body Milk has been described that can produce therapeutic health sustaining effects on specific illnesses such (Respiroid, stomach cancer, soryocannabetanoiform dyspeqtrn) of chronic diseases. [4]. It resides",
+      "source_url": "https://en.wikipedia.org/wiki/Breastmilk_medicine",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 5300.281524658203
+    },
+    {
+      "question_id": "q_f8c39520",
+      "question": "What is a key fact about Fort Douglas (Canada)?",
+      "question_type": "comparative",
+      "ground_truth": "Named for Thomas Douglas, 5th Earl of Selkirk, founder of the Selkirk Settlement, the fort was in the immediate vicinity (down river) of the rivaling North West Company's Fort Gibraltar.",
+      "generated_answer": "is attracted tourist aggregator Site can appear on this search bar or may already have looked, or the fortress might well still have it but there remains nothing and it cannot appear immediately and does it exist within this site, or possibly close to where that structure exists already",
+      "source_url": "https://en.wikipedia.org/wiki/Fort_Douglas_(Canada)",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 6448.484420776367
+    },
+    {
+      "question_id": "q_a2a3775c",
+      "question": "What is a key fact about Environmental history?",
+      "question_type": "inferential",
+      "ground_truth": "\" As an interdisciplinary field that encompasses a new understanding of social justice dynamics in a rapidly changing global climate, environmental history is inherently advocative.",
+      "generated_answer": "As much all history falls out",
+      "source_url": "https://en.wikipedia.org/wiki/Environmental_history",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 12050.469160079956
+    },
+    {
+      "question_id": "q_63f450a1",
+      "question": "What is The Bohne-Dress Theorem states that there?",
+      "question_type": "multi-hop",
+      "ground_truth": "The Bohne-Dress Theorem states that there is a bijection between zonotopal tilings of the zonotope Z {\\displaystyle Z} and single-element lifts of the oriented matroid M {\\displaystyle {\\mathcal {M}}} associated to Z {\\displaystyle Z}.",
+      "generated_answer": "symmetry bimission occurs. [F",
+      "source_url": "https://en.wikipedia.org/wiki/Zonotope",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 8070.98388671875
+    },
+    {
+      "question_id": "q_0f5f2fd4",
+      "question": "What is a key fact about Architecture?",
+      "question_type": "factual",
+      "ground_truth": "New building types emerged and architectural style developed in the form of the classical orders.",
+      "generated_answer": "it may make sense how and why and how architectural principles of architectural choice change its architectural design at",
+      "source_url": "https://en.wikipedia.org/wiki/Architecture",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 3028.961181640625
+    },
+    {
+      "question_id": "q_c12e3219",
+      "question": "What was Although Euler's work on magic square?",
+      "question_type": "factual",
+      "ground_truth": "Although Euler's work on magic square was unoriginal, he famously conjectured the impossibility of constructing the evenly odd ordered mutually orthogonal Graeco-Latin squares.",
+      "generated_answer": "Eucher",
+      "source_url": "https://en.wikipedia.org/wiki/Constructions_of_magic_squares",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 9188.517093658447
+    },
+    {
+      "question_id": "q_f05b5f28",
+      "question": "What is a key fact about Cyber Security and Resilience Bill?",
+      "question_type": "comparative",
+      "ground_truth": "A representative of the CyberUp Campaign Matt Hull said that the organisation is looking forward to the Government updating UK cyber resilience and in particular the Computer Misuse Act 1990.",
+      "generated_answer": "The Key Fact will help",
+      "source_url": "https://en.wikipedia.org/wiki/Cyber_Security_and_Resilience_Bill",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 6470.04508972168
+    },
+    {
+      "question_id": "q_8984e958",
+      "question": "What is She?",
+      "question_type": "factual",
+      "ground_truth": "She is the 2014 and 2021 Japanese national all-around bronze medalist and the 2014 Japanese balance beam champion.",
+      "generated_answer": "Not enough of information for to complete question/phrase?' (I do provide that first, since they cannot make one at",
+      "source_url": "https://en.wikipedia.org/wiki/Hiraiwa_Yuna",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7444.999694824219
+    },
+    {
+      "question_id": "q_01d79fc3",
+      "question": "Who was mentioned in relation to Albert Willimsky?",
+      "question_type": "factual",
+      "ground_truth": "He was ordained as a priest on 22 June 1919 at the cathedral of Breslau Diocese, and became a vicar in Bytom.",
+      "generated_answer": "Lichter. Lamper (Light\u00e9). Moro-St",
+      "source_url": "https://en.wikipedia.org/wiki/Albert_Willimsky",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 3049.123764038086
+    },
+    {
+      "question_id": "q_7c5f6ed9",
+      "question": "What is a key fact about Fredonia (town), Wisconsin?",
+      "question_type": "factual",
+      "ground_truth": "The area also has many bogs and swamps in the kettles left behind by the glaciers.",
+      "generated_answer": "is located over land created but now occupy",
+      "source_url": "https://en.wikipedia.org/wiki/Fredonia_(town),_Wisconsin",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 3975.0709533691406
+    },
+    {
+      "question_id": "q_fb0d3464",
+      "question": "When did significant events occur related to Marcellette G. Williams?",
+      "question_type": "inferential",
+      "ground_truth": "Wilson recruited Williams to the president's office, where she served as senior vice president for academic affairs, student affairs and international relations, starting in the summer of 2005.",
+      "generated_answer": "September 12, 11 and the United Nations Relief/Hubert Blye Restrictification Day, August 24, 1996 during the period",
+      "source_url": "https://en.wikipedia.org/wiki/Marcellette_G._Williams",
+      "mrr": 0.5,
+      "faithfulness": 0.0,
+      "context_precision": 0.6791666666666667,
+      "time_ms": 17519.861936569214
+    },
+    {
+      "question_id": "q_5be671bf",
+      "question": "What is a key fact about Writ of Kalikasan?",
+      "question_type": "comparative",
+      "ground_truth": "The court ruled that mining operations on the Mount Mantalingahan mountain range in Palawan may cause irreparable environmental damage to the Mount Mantalingahan protected area and the Indigenous Cultural Communities' ancestral domain.",
+      "generated_answer": "provided \"remed\" to one to 'a good order",
+      "source_url": "https://en.wikipedia.org/wiki/Writ_of_Kalikasan",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 8067.771434783936
+    },
+    {
+      "question_id": "q_7dcf1aed",
+      "question": "What is Demarcation?",
+      "question_type": "factual",
+      "ground_truth": "Demarcation is the division of scientific and non-scientific ideas, and the resulting dispute over how to divide them.",
+      "generated_answer": "iThe Problemofdemraciment",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_science",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.8333333333333333,
+      "time_ms": 4637.633323669434
+    },
+    {
+      "question_id": "q_054b009f",
+      "question": "What is a key fact about James Johnstone (publisher)?",
+      "question_type": "factual",
+      "ground_truth": "James Johnstone (26 June 1815 \u2013 21 October 1878) was a British newspaper proprietor.",
+      "generated_answer": "No Answer Choice or no matches were possible if they' match in word. It cannot possibly be both simultaneously but",
+      "source_url": "https://en.wikipedia.org/wiki/James_Johnstone_(publisher)",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 8456.33578300476
+    },
+    {
+      "question_id": "q_2de0c946",
+      "question": "What is a key fact about In the Cold, Cold Night?",
+      "question_type": "inferential",
+      "ground_truth": "Though never released as a single, it is considered a highlight of the White Stripes's discography for both its atmosphere and Meg's rare leading position.",
+      "generated_answer": "I failed to fulfill attempting based on this. Megina could",
+      "source_url": "https://en.wikipedia.org/wiki/In_the_Cold,_Cold_Night",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.8666666666666667,
+      "time_ms": 4129.455804824829
+    },
+    {
+      "question_id": "q_33839cc1",
+      "question": "What is a key fact about Ideonomy?",
+      "question_type": "factual",
+      "ground_truth": "The ideonomist begins with a simple list of examples of a particular idea, concept, or thing.",
+      "generated_answer": "\" The system integration of thoughts",
+      "source_url": "https://en.wikipedia.org/wiki/Ideonomy",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 2554.091691970825
+    },
+    {
+      "question_id": "q_9c089ff3",
+      "question": "When did significant events occur related to Christopher Jaymes?",
+      "question_type": "comparative",
+      "ground_truth": "E Theater, Los Angeles Books 1821: Ta Paidia tis Epanastasis (Children of the Revolution)(2021) - Kaktos Publishing Sons of.",
+      "generated_answer": "I didnt claim an adequate number or data to accurately reflect",
+      "source_url": "https://en.wikipedia.org/wiki/Christopher_Jaymes",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 2872.4586963653564
+    },
+    {
+      "question_id": "q_a077cfb2",
+      "question": "When did significant events occur related to Susan Shillinglaw?",
+      "question_type": "multi-hop",
+      "ground_truth": "At SJSU, she served as director of the Martha Heasley Cox Center for Steinbeck Studies from 1987 to 2005.",
+      "generated_answer": "2015 after serving for her time in Southwestern United State College (1983\u20131854) in Wake-School",
+      "source_url": "https://en.wikipedia.org/wiki/Susan_Shillinglaw",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 5183.92276763916
+    },
+    {
+      "question_id": "q_fb14876d",
+      "question": "What is Also, a \"line\"?",
+      "question_type": "inferential",
+      "ground_truth": "Also, a \"line\" is straight and has zero width.",
+      "generated_answer": "No option was listed available except in Alfred Stoneman",
+      "source_url": "https://en.wikipedia.org/wiki/Language_of_mathematics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6197.721242904663
+    },
+    {
+      "question_id": "q_9d7ba741",
+      "question": "What is a key fact about Geoff Hall (cricketer)?",
+      "question_type": "factual",
+      "ground_truth": "48 he had his best season in first-class cricket.",
+      "generated_answer": "did no first-rounder match in each of whose five cricket oversofteners did ... took 47 from 43.02. This leaves us uncontraverted as the rest go",
+      "source_url": "https://en.wikipedia.org/wiki/Geoff_Hall_(cricketer)",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.9166666666666666,
+      "time_ms": 9084.051132202148
+    },
+    {
+      "question_id": "q_c0c9c6dd",
+      "question": "When did significant events occur related to Myma Belo-Osagie?",
+      "question_type": "factual",
+      "ground_truth": "The Harvard Business School's Africa Business Club and the Center for African Studies co-hosts the Hakeem & Myma Belo-Osagie Distinguished African Business and Entrepreneurship Lecture Series annually since 2015.",
+      "generated_answer": "She received both degrees in the same academic jule",
+      "source_url": "https://en.wikipedia.org/wiki/Myma_Belo-Osagie",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 5586.202621459961
+    },
+    {
+      "question_id": "q_86cd705d",
+      "question": "What is a key fact about Healthcare in Pakistan?",
+      "question_type": "comparative",
+      "ground_truth": "Recently, Pakistan's top court has ruled that schizophrenia does not fall within its legal definition of mental disorders, clearing the way for the execution of a mentally ill man convicted of murder.",
+      "generated_answer": "The healthcare",
+      "source_url": "https://en.wikipedia.org/wiki/Healthcare_in_Pakistan",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 4360.893249511719
+    },
+    {
+      "question_id": "q_3ddc8ad7",
+      "question": "When did significant events occur related to Surgeon General (Canada)?",
+      "question_type": "inferential",
+      "ground_truth": "The medical services of the Royal Canadian Navy and Royal Canadian Air Force were led by separate Directors General from 1940 to 1959.",
+      "generated_answer": "1907 World Reunization Day. All time warping charts from 1",
+      "source_url": "https://en.wikipedia.org/wiki/Surgeon_General_(Canada)",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 7513.401508331299
+    },
+    {
+      "question_id": "q_df7e7acc",
+      "question": "What is Fritters Aloo tikki?",
+      "question_type": "factual",
+      "ground_truth": "Fritters Aloo tikki is a potato patty that originated in the Indian subcontinent.",
+      "generated_answer": "I can accept This choices, \"Firton tikkin is 'A Potato A Poppy In The Underfora, Original Home made Indian Peto Belly Sniff' This means that its common shape is about",
+      "source_url": "https://en.wikipedia.org/wiki/Patty",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 23387.475728988647
+    },
+    {
+      "question_id": "q_035ccae0",
+      "question": "What is a key fact about Holy Prepuce?",
+      "question_type": "multi-hop",
+      "ground_truth": "According to Farley, \"Depending on what you read, there were eight, twelve, fourteen, or even 18 different holy foreskins in various European towns during the Middle Ages.",
+      "generated_answer": "One only \"opinion\" may answer this relevant context. All Jews boys were require by Judocetic of law",
+      "source_url": "https://en.wikipedia.org/wiki/Holy_Prepuce",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 1.0,
+      "time_ms": 10010.297298431396
+    },
+    {
+      "question_id": "q_c5ecfbf5",
+      "question": "What is a key fact about Glossary of history?",
+      "question_type": "factual",
+      "ground_truth": "barbarian A Greek word adopted by the Romans to refer to any people who did not adopt the Roman way of life.",
+      "generated_answer": "Can we return this option or it'is unavailable (in either choice) with no change in use (i. Consider what has led to",
+      "source_url": "https://en.wikipedia.org/wiki/Glossary_of_history",
+      "mrr": 0.3333333333333333,
+      "faithfulness": 0.0,
+      "context_precision": 0.3333333333333333,
+      "time_ms": 5269.798278808594
+    }
+  ]
+}

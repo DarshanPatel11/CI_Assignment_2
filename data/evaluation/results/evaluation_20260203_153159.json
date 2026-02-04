@@ -1,0 +1,1035 @@
+{
+  "mrr": {
+    "mrr": 0.1625,
+    "individual_rrs": [
+      0.0,
+      0.0,
+      0.25,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "hit_rate": 0.25,
+    "total_queries": 20
+  },
+  "faithfulness": {
+    "mean_score": 0.2,
+    "scores": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0
+    ],
+    "details": [
+      {
+        "score": 0.0,
+        "claims": [
+          "Ican tell that more"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Ican tell that more",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The National Th\u00e9\u00e2tre in Pravis, and as in the Alma matearin of Cathaica also has one historic opera house within easy access, so navigating easily with your"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The National Th\u00e9\u00e2tre in Pravis, and as in the Alma matearin of Cathaica also has one historic opera house within easy access, so navigating easily with your",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Geraldi Claims: I would not find it possible to tranform it into \"Geraldi\""
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Geraldi Claims: I would not find it possible to tranform it into \"Geraldi\"",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "We can never store all their applications' files as cache on Windows CE that requires us"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "We can never store all their applications' files as cache on Windows CE that requires us",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "I cannot give more facts than I quoted in above information at this site which I know is sufficient to adequately conclude the claim you are currently using so it has potential for improvement over time by comparing all these resources which have already been considered important."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot give more facts than I quoted in above information at this site which I know is sufficient to adequately conclude the claim you are currently using so it has potential for improvement over time by comparing all these resources which have already been considered important.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The symbiotic relationship between the symbiotic and the symbiotic is a phylogenetic relationship."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The symbiotic relationship between the symbiotic and the symbiotic is a phylogenetic relationship.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "This statement does provide background information; it must comply only to general"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "This statement does provide background information; it must comply only to general",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It has now changed over several millions, many spec, a very strong magnetic current causes this change."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It has now changed over several millions, many spec, a very strong magnetic current causes this change.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It could come as an iron hand to the Indian people trying"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It could come as an iron hand to the Indian people trying",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Food processing companies or meat, ethinacein or other nonprovitatic drugs and other synthetic agrimidogen chemicals that could have been available in the 1960\u201380 world as alternative forms of medicine."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Food processing companies or meat, ethinacein or other nonprovitatic drugs and other synthetic agrimidogen chemicals that could have been available in the 1960\u201380 world as alternative forms of medicine.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Nearic 22.3 centumed kilometres at one kilometer in the ocean,"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Nearic 22.3 centumed kilometres at one kilometer in the ocean,",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No this question is correct. Please address the issue further in due due diligence within oneself by completing or cancel all unnecessary details listed at least 3 times beyond this subject statement by providing only appropriate secondary references (abstraction, quotation and paraphrazic explanation are governed"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No this question is correct. Please address the issue further in due due diligence within oneself by completing or cancel all unnecessary details listed at least 3 times beyond this subject statement by providing only appropriate secondary references (abstraction, quotation and paraphrazic explanation are governed",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot provide accurate date, due to editing"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot provide accurate date, due to editing",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Molari in mass"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Molari in mass",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "None Of this event will appear here either, so be more avertance from such topics as you"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "None Of this event will appear here either, so be more avertance from such topics as you",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "That makes sense in the 1940\u201348 Electuting Period"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "That makes sense in the 1940\u201348 Electuting Period",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot offer that data or evidence or imply an individual will likely have acquired all power to pass"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot offer that data or evidence or imply an individual will likely have acquired all power to pass",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Samuel \"Emanoperon\" Henry VIII in 1492"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Samuel \"Emanoperon\" Henry VIII in 1492",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      }
+    ],
+    "total_evaluated": 20
+  },
+  "context_precision": {
+    "mean_score": 0.16,
+    "scores": [
+      0.0,
+      0.0,
+      0.25,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.95,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "details": [
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.25,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.5,
+        "relevance_vector": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.5,
+        "relevance_vector": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.95,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      }
+    ],
+    "total_evaluated": 20
+  },
+  "summary": {
+    "mrr": 0.1625,
+    "hit_rate": 0.25,
+    "faithfulness": 0.2,
+    "context_precision": 0.16,
+    "total_queries": 20
+  },
+  "timing": {
+    "mean_ms": 12904.694056510925,
+    "median_ms": 11003.052234649658,
+    "min_ms": 2961.4322185516357,
+    "max_ms": 35722.56541252136,
+    "std_ms": 8541.270713077954,
+    "all_timings": [
+      6199.195861816406,
+      9930.942296981812,
+      8512.813568115234,
+      11226.759433746338,
+      13301.573753356934,
+      14896.336793899536,
+      7066.760540008545,
+      24156.333923339844,
+      11984.79700088501,
+      3814.4187927246094,
+      11753.011703491211,
+      35722.56541252136,
+      33475.01015663147,
+      8330.848455429077,
+      2961.4322185516357,
+      14669.256448745728,
+      14212.632417678833,
+      6270.448446273804,
+      8829.39887046814,
+      10779.345035552979
+    ]
+  },
+  "by_question_type": {
+    "factual": {
+      "count": 20,
+      "mrr": 0.1625,
+      "faithfulness": 0.2,
+      "context_precision": 0.16
+    }
+  },
+  "detailed_results": [
+    {
+      "question_id": "q_1de2c5a5",
+      "question": "which groups represent parts more people now as global war is expanding into?",
+      "question_type": "factual",
+      "ground_truth": "International political institutions on the international level include the International Criminal Court, the International Monetary Fund, and the World Trade Organization.",
+      "generated_answer": "Ican tell that more",
+      "source_url": "https://en.wikipedia.org/wiki/Politics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6199.195861816406
+    },
+    {
+      "question_id": "q_6ddd8f40",
+      "question": "About What month or ward became Opera at Philadelphia to play Lady Van Bundelburg Opera before her show called as?",
+      "question_type": "factual",
+      "ground_truth": "Comedy of menace is the body of plays written by David Campton, Nigel Dennis, N.",
+      "generated_answer": "I am outwithcoarcaliber. The National Th\u00e9\u00e2tre in Pravis, and as in the Alma matearin of Cathaica also has one historic opera house within easy access, so navigating easily with your",
+      "source_url": "https://en.wikipedia.org/wiki/Comedy_of_menace",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 9930.942296981812
+    },
+    {
+      "question_id": "q_97139b18",
+      "question": "I. E-Lewlet and RPA overlap what category for human population development for human groups called that includes the same word?",
+      "question_type": "factual",
+      "ground_truth": "In addition to all of the other subdisciplines of geography, GIS specialists must understand computer science and database systems.",
+      "generated_answer": "I would not find it possible to tranform it into \"Geraldi",
+      "source_url": "https://en.wikipedia.org/wiki/Geography",
+      "mrr": 0.25,
+      "faithfulness": 0.0,
+      "context_precision": 0.25,
+      "time_ms": 8512.813568115234
+    },
+    {
+      "question_id": "q_019944de",
+      "question": "While creating Windows CE we did much by creating apps first about:how far to download that in total that can have internet and cell to save over it then installed everything?",
+      "question_type": "factual",
+      "ground_truth": "Android Central is a technology journalism website based in the United States, Canada, and the United Kingdom that covers the Android operating system.",
+      "generated_answer": "We can never store all their applications' files as cache on Windows CE that requires us",
+      "source_url": "https://en.wikipedia.org/wiki/Android_Central",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 11226.759433746338
+    },
+    {
+      "question_id": "q_dab3f486",
+      "question": "A horse will walk along its natural boundary within 20,000,000 days on average since two horses ride each and nearly 12 foot long when in flight how big or low-main gear was put to run their dogs by both male of animal weight a mile by weight?",
+      "question_type": "factual",
+      "ground_truth": "Modern physics is a branch of physics that developed in the early 20th century and onward or branches greatly influenced by early 20th century physics.",
+      "generated_answer": "I cannot give more facts than I quoted in above information at this site which I know is sufficient to adequately conclude the claim you are currently using so it has potential for improvement over time by comparing all these resources which should include the data in this paragraph from all seven sources that have already been considered important. Because",
+      "source_url": "https://en.wikipedia.org/wiki/Modern_physics",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 13301.573753356934
+    },
+    {
+      "question_id": "q_adee8d5f",
+      "question": "An active volcano occurs from an increase due the impact from that same volume; foreeice,?",
+      "question_type": "factual",
+      "ground_truth": "Sociology and applied sociology are connected to the professional and academic discipline of social work.",
+      "generated_answer": "That sentence is unavailable; therefore it's been placed at the sole and complete resolution of that subject article below",
+      "source_url": "https://en.wikipedia.org/wiki/Sociology",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 14896.336793899536
+    },
+    {
+      "question_id": "q_a1753612",
+      "question": "Did you find animals or small creatures during summer to get something into winter rain patterns suited them to do differently when exposed to something?",
+      "question_type": "factual",
+      "ground_truth": "Distribution Orchids in the genus Peristylus are found in Japan, China, Mongolia, India, Indochina, Indonesia, Philippines, Malaysia, New Guinea, Polynesia and Australia.",
+      "generated_answer": "This statement' does provide background information; it must comply only to general",
+      "source_url": "https://en.wikipedia.org/wiki/Peristylus",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7066.760540008545
+    },
+    {
+      "question_id": "q_4025dd2e",
+      "question": "Do electrical power sources not make telephone cordloom less magnetic because electron would emit other magnetic electricity waves without current, that?",
+      "question_type": "factual",
+      "ground_truth": "With the standard consensus that the laws of physics are universal and do not change with time, physics can be used to study things that would ordinarily be mired in uncertainty.",
+      "generated_answer": "It has now changed over several millions, many spec, a very strong magnetic current causes this change. You cannot change to a more stable magnetic output since these sources have much higher levels of energy distribution to them from zeroes through maximums when connected by DC voltage/interquence (icv = DC-AC current >= 6 AC V-ctm) at 60 D DX",
+      "source_url": "https://en.wikipedia.org/wiki/Physics",
+      "mrr": 0.5,
+      "faithfulness": 0.0,
+      "context_precision": 0.5,
+      "time_ms": 24156.333923339844
+    },
+    {
+      "question_id": "q_2a632456",
+      "question": "Are there or are some cultures close at school where something they talk too hard often does this behavior lead users the indian to find they\u2019reagan?",
+      "question_type": "factual",
+      "ground_truth": "Conceptual analysis is a common method in analytic philosophy.",
+      "generated_answer": "It could come as an iron hand to the Indian people trying",
+      "source_url": "https://en.wikipedia.org/wiki/Philosophy",
+      "mrr": 0.5,
+      "faithfulness": 0.0,
+      "context_precision": 0.5,
+      "time_ms": 11984.79700088501
+    },
+    {
+      "question_id": "q_9a25db1f",
+      "question": "Who believed social competition against nation should bring success at home or play ground balls all by two miles high or too large?",
+      "question_type": "factual",
+      "ground_truth": "The latter, an aspect of public choice theory, models public-sector behaviour analogously to microeconomics, involving interactions of self-interested voters, politicians, and bureaucrats.",
+      "generated_answer": "Eusta",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 3814.4187927246094
+    },
+    {
+      "question_id": "q_720ffce8",
+      "question": "In additions some chemicals used before agriculture. Where have products usually sold produced over that extended lifetime v?",
+      "question_type": "factual",
+      "ground_truth": "Whereas, the NDH complexes are responsible for providing a gateway for electrons to form an ETC.",
+      "generated_answer": "Food processing companies or meat, ethinacein or other nonprovitatic drugs and other synthetic agrimidogen chemicals that could have been available in the 1960\u201380 world as alternative forms of medicine.",
+      "source_url": "https://en.wikipedia.org/wiki/Chlororespiration",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 11753.011703491211
+    },
+    {
+      "question_id": "q_e4543ce4",
+      "question": "how deep south can the coast range south outweither according aloandrolea in river in declived period Spain' the early 1715 to middle eight?",
+      "question_type": "factual",
+      "ground_truth": "Nor is it always the worse for the society that it was no part of it.",
+      "generated_answer": "Nearic 22.3 centumed kilometres at one kilometer in the ocean,",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 35722.56541252136
+    },
+    {
+      "question_id": "q_4566641a",
+      "question": "The German \"senrepraticosterica'oimus dermathericate'the body made into tissue cell surface as muscle grows?",
+      "question_type": "factual",
+      "ground_truth": "A stereogram can also consist of two separate images that are placed separately in a stereoscope, or that are specially prepared and placed on top of each other, with color filters, polarizing filterss, or optical ridges used to ensure that each eye sees only one of the images.",
+      "generated_answer": "No this question is correct. Please address the issue further in due due diligence within oneself by completing or cancel all unnecessary details listed at least 3 times beyond this subject statement by providing only appropriate secondary references (abstraction, quotation and paraphrazic explanation are governed",
+      "source_url": "https://en.wikipedia.org/wiki/Binocular_vision",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 33475.01015663147
+    },
+    {
+      "question_id": "q_78e99b73",
+      "question": "Before his passing wed by Gregor Pope during Llaves during her rule How large?",
+      "question_type": "factual",
+      "ground_truth": "The study of decision-making in politics is important for scholarly political biographers, who can take different approaches such as focusing on psychology/personality, bureaucracy/interests, fundamental ideas, or societal forces.",
+      "generated_answer": "I cannot provide accurate date, due to editing",
+      "source_url": "https://en.wikipedia.org/wiki/Biography",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 8330.848455429077
+    },
+    {
+      "question_id": "q_8a307967",
+      "question": "Of all two chemical components by volume is?",
+      "question_type": "factual",
+      "ground_truth": "Interdisciplinary Interdisciplinary fields include agrochemistry, astrochemistry (and cosmochemistry), atmospheric chemistry, chemical engineering, chemical biology, chemo-informatics, environmental chemistry, geochemistry, green chemistry, immunochemistry, marine chemistry, materials science, mechanochemistry, medicinal chemistry, molecular biology, nanotechnology, oenology, pharmacology, phytochemistry, solid-state chemistry, surface science, thermochemistry, and many others.",
+      "generated_answer": "Molari in mass",
+      "source_url": "https://en.wikipedia.org/wiki/Chemistry",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.95,
+      "time_ms": 2961.4322185516357
+    },
+    {
+      "question_id": "q_24d8d29d",
+      "question": "Did someone make her wedding suit earlier today due only 4 people that worked at MCA', then we now look through r&B on wedding-spot or anything along our vow the time since when marriage will reciest all be held or are the guests there not ?",
+      "question_type": "factual",
+      "ground_truth": "Aftermath In 2011 and 2012, during Obama's re-election campaign, the political advocacy group Americans for Prosperity spent $8.",
+      "generated_answer": "None Of this event will appear here either, so be more avertance from such topics as you",
+      "source_url": "https://en.wikipedia.org/wiki/Solyndra",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 14669.256448745728
+    },
+    {
+      "question_id": "q_7e356ca3",
+      "question": "Name at large where did an increase with an interest party come, most?",
+      "question_type": "factual",
+      "ground_truth": "Older participation Masters sport, senior sport, or veteran sport is an age category of sport, that usually contains age groups of those 35 and older.",
+      "generated_answer": "heathritic regions across American. That makes sense in the 1940\u201348 Electuting Period",
+      "source_url": "https://en.wikipedia.org/wiki/Sport",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 14212.632417678833
+    },
+    {
+      "question_id": "q_1923390d",
+      "question": "This text also uses one of many similar images in movies -- in part an account of in particular event/stage performance performances/siguionages filmed or used?",
+      "question_type": "factual",
+      "ground_truth": "The ING headquarters building (in Amsterdam, Netherlands) has been described as looking like something out of Star Wars that could \"move forward on its legs\".",
+      "generated_answer": "no An incomplete summary would be needed before reviewing or comment is submitted so this option could be eliminated",
+      "source_url": "https://en.wikipedia.org/wiki/Architecture_of_Star_Wars",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 6270.448446273804
+    },
+    {
+      "question_id": "q_339cdc8e",
+      "question": "Who could inherit power all these lifetime periods combined by doing work at age 56-succrencely outnumbered anyone. How if many?",
+      "question_type": "factual",
+      "ground_truth": "And Allah is All-Forgiving, Most Merciful.",
+      "generated_answer": "I cannot offer that data or evidence or imply an individual will likely have acquired all power to pass",
+      "source_url": "https://en.wikipedia.org/wiki/Coexistence",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 8829.39887046814
+    },
+    {
+      "question_id": "q_998cbfee",
+      "question": "Who was born and credited later due this incident from in England today named?",
+      "question_type": "factual",
+      "ground_truth": "Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter.",
+      "generated_answer": "Samuel \"Emanoperon\" Henry VIII in 1492",
+      "source_url": "https://en.wikipedia.org/wiki/Atom",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 10779.345035552979
+    }
+  ]
+}

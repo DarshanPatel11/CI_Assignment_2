@@ -1,0 +1,26 @@
+
+HYBRID RAG EVALUATION SUMMARY
+==================================================
+Generated: 2026-02-03 15:31:59
+Total Questions: 20
+
+OVERALL METRICS
+--------------------------------------------------
+MRR (Mean Reciprocal Rank):     0.1625
+Hit Rate:                        0.2500
+Faithfulness Score:              0.2000
+Context Precision:               0.1600
+
+TIMING STATISTICS
+--------------------------------------------------
+Mean:   12904.7 ms
+Median: 11003.1 ms
+Std:    8541.3 ms
+
+BY QUESTION TYPE
+--------------------------------------------------
+
+FACTUAL (n=20):
+  MRR: 0.1625
+  Faithfulness: 0.2000
+  Context Precision: 0.1600

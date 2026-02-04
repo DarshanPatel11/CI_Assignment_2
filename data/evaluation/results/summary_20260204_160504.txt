@@ -1,0 +1,41 @@
+
+HYBRID RAG EVALUATION SUMMARY
+==================================================
+Generated: 2026-02-04 16:05:04
+Total Questions: 100
+
+OVERALL METRICS
+--------------------------------------------------
+MRR (Mean Reciprocal Rank):     0.9133
+Hit Rate:                        0.9500
+Faithfulness Score:              0.3200
+Context Precision:               0.8991
+
+TIMING STATISTICS
+--------------------------------------------------
+Mean:   6308.7 ms
+Median: 5282.1 ms
+Std:    3818.0 ms
+
+BY QUESTION TYPE
+--------------------------------------------------
+
+MULTI-HOP (n=9):
+  MRR: 1.0000
+  Faithfulness: 0.2222
+  Context Precision: 0.9944
+
+INFERENTIAL (n=20):
+  MRR: 0.8583
+  Faithfulness: 0.1000
+  Context Precision: 0.8692
+
+FACTUAL (n=51):
+  MRR: 0.9052
+  Faithfulness: 0.3922
+  Context Precision: 0.8795
+
+COMPARATIVE (n=20):
+  MRR: 0.9500
+  Faithfulness: 0.4000
+  Context Precision: 0.9361
