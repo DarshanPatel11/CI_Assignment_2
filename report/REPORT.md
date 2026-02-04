@@ -1,6 +1,6 @@
 # Hybrid RAG System - Final Report
 
-## Group: XX
+## Group: 94
 ## Date: January 2026
 
 ---
@@ -23,6 +23,129 @@ This report documents the implementation of a Hybrid Retrieval-Augmented Generat
 ## 2. System Architecture
 
 ### 2.1 Overview
+
+# Architecture Diagram
+
+## System Overview
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                           HYBRID RAG SYSTEM                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   ┌─────────────────┐                                                        │
+│   │   User Query    │                                                        │
+│   └────────┬────────┘                                                        │
+│            │                                                                 │
+│            ▼                                                                 │
+│   ┌─────────────────────────────────────────────────────┐                   │
+│   │              HYBRID RETRIEVER                        │                   │
+│   │  ┌──────────────────┐    ┌───────────────────┐      │                   │
+│   │  │  Dense Retrieval │    │  Sparse Retrieval │      │                   │
+│   │  │  ───────────────  │    │  ────────────────  │      │                   │
+│   │  │  • all-MiniLM    │    │  • BM25 Algorithm │      │                   │
+│   │  │  • FAISS Index   │    │  • Tokenization   │      │                   │
+│   │  │  • Cosine Sim    │    │  • TF-IDF weights │      │                   │
+│   │  └────────┬─────────┘    └─────────┬─────────┘      │                   │
+│   │           │                        │                 │                   │
+│   │           └──────────┬─────────────┘                 │                   │
+│   │                      ▼                               │                   │
+│   │           ┌─────────────────────┐                    │                   │
+│   │           │   RRF Fusion        │                    │                   │
+│   │           │   k=60              │                    │                   │
+│   │           │   ───────────────── │                    │                   │
+│   │           │   RRF(d) = Σ 1/(k+r)│                    │                   │
+│   │           └──────────┬──────────┘                    │                   │
+│   └──────────────────────┼───────────────────────────────┘                   │
+│                          │                                                   │
+│                          ▼                                                   │
+│   ┌─────────────────────────────────────────────────────┐                   │
+│   │           RESPONSE GENERATOR                         │                   │
+│   │           ──────────────────                         │                   │
+│   │           • Flan-T5-base LLM                         │                   │
+│   │           • Context Truncation (450 tokens)          │                   │
+│   │           • Answer Generation                        │                   │
+│   └────────────────────────┬────────────────────────────┘                   │
+│                            │                                                 │
+│                            ▼                                                 │
+│   ┌────────────────────────────────────────────────────┐                    │
+│   │                GENERATED ANSWER                     │                    │
+│   │                + Source URLs                        │                    │
+│   │                + Retrieval Scores                   │                    │
+│   └────────────────────────────────────────────────────┘                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                         DATA PIPELINE                                        │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   Wikipedia (500 URLs)                                                       │
+│        │                                                                     │
+│        ├── 200 Fixed URLs (diverse categories)                              │
+│        └── 300 Random URLs (per indexing run)                               │
+│              │                                                               │
+│              ▼                                                               │
+│   ┌────────────────────┐                                                    │
+│   │   Text Extraction  │                                                    │
+│   │   (wikipedia-api)  │                                                    │
+│   └─────────┬──────────┘                                                    │
+│             ▼                                                                │
+│   ┌────────────────────┐                                                    │
+│   │     Chunking       │                                                    │
+│   │  200-400 tokens    │                                                    │
+│   │  50-token overlap  │                                                    │
+│   └─────────┬──────────┘                                                    │
+│             ▼                                                                │
+│   ┌────────────────────┐                                                    │
+│   │  Index Building    │                                                    │
+│   │  • FAISS (dense)   │                                                    │
+│   │  • BM25 (sparse)   │                                                    │
+│   └────────────────────┘                                                    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                        EVALUATION PIPELINE                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   100 Q&A Pairs                                                             │
+│   ├── Factual (40%)                                                         │
+│   ├── Comparative (20%)                                                     │
+│   ├── Inferential (25%)                                                     │
+│   └── Multi-hop (15%)                                                       │
+│              │                                                               │
+│              ▼                                                               │
+│   ┌─────────────────────────────────────────────────────┐                   │
+│   │              METRICS                                 │                   │
+│   │  ┌─────────────┐ ┌─────────────┐ ┌───────────────┐  │                   │
+│   │  │     MRR     │ │ Faithfulness│ │Context Prec.  │  │                   │
+│   │  │  (URL-level)│ │(LLM-Judge)  │ │(Ranking Qual.)│  │                   │
+│   │  └─────────────┘ └─────────────┘ └───────────────┘  │                   │
+│   └─────────────────────────────────────────────────────┘                   │
+│              │                                                               │
+│              ▼                                                               │
+│   ┌────────────────────┐    ┌────────────────────┐                          │
+│   │   Error Analysis   │    │   HTML Reports     │                          │
+│   │   & Ablation Study │    │   & Visualizations │                          │
+│   └────────────────────┘    └────────────────────┘                          │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+## Data Flow
+
+1. **Query Input** → Streamlit UI
+2. **Dense Encoding** → all-MiniLM-L6-v2 → FAISS search
+3. **Sparse Search** → BM25 tokenization → score calculation
+4. **RRF Fusion** → Combine rankings with k=60
+5. **Context Selection** → Top-N chunks (truncated to 450 tokens)
+6. **Generation** → Flan-T5 produces answer
+7. **Response** → Answer + sources + scores
+
+
+
 
 ```
 Query → [Dense FAISS] + [Sparse BM25] → RRF Fusion → Flan-T5 → Answer
@@ -76,6 +199,45 @@ Query → [Dense FAISS] + [Sparse BM25] → RRF Fusion → Flan-T5 → Answer
 - **Interpretation**: 1.0 = perfect ranking
 
 ---
+```markdown
+---
+
+## 3.3 Innovative Approaches
+
+### Hybrid Retrieval with Adaptive Fusion
+
+Our system implements a **configurable hybrid retrieval** architecture that combines:
+
+1. **Dense Retrieval (FAISS)**
+   - Uses `all-MiniLM-L6-v2` embeddings (384 dimensions)
+   - FAISS IndexFlatIP for cosine similarity search
+   - Captures semantic relationships between query and documents
+
+2. **Sparse Retrieval (BM25)**
+   - BM25Okapi algorithm with default parameters (k1=1.5, b=0.75)
+   - Handles exact keyword matches and rare terms
+   - Complements dense retrieval for terminology-specific queries
+
+3. **Reciprocal Rank Fusion (RRF)**
+   - Formula: `RRF(d) = Σ 1/(k + rank(d))`
+   - Configurable k parameter (default=60)
+   - Combines rankings without requiring score normalization
+
+### LLM-as-Judge Evaluation
+
+The system uses **Flan-T5 as an automated evaluator** for:
+- **Faithfulness scoring**: Extracts claims from answers and verifies against retrieved context
+- **Answer relevance**: Assesses if the answer addresses the query
+- Enables scalable evaluation without human annotation
+
+### Adaptive Context Management
+
+- **Token-aware chunking**: 200-400 tokens per chunk with 50-token overlap
+- **Context truncation**: Limits to 450 tokens for generation to fit model constraints
+- **Metadata preservation**: Each chunk retains source URL, title, and position
+
+---
+```
 
 ## 4. Results
 

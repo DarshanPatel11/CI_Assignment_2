@@ -42,11 +42,17 @@ class QuestionGenerator:
     TEMPLATES = {
         "factual": [
             "Generate a factual question that can be answered from this text. The question should ask about specific facts, dates, names, or events mentioned in the passage.",
-            "Create a simple factual question based on the following text. Focus on who, what, when, where, or how much."
+            "Create a simple factual question based on the following text. Focus on who, what, when, where, or how much.",
+            "What is {entity}?",
+            "Who is {person}?",
+            "When was {event} established/founded?",
+            "Where is {location} located?",
+            "How does {process} work?"
         ],
         "comparative": [
             "Generate a comparison question based on this text. The question should ask to compare or contrast different elements mentioned.",
-            "Create a question that requires comparing two or more things mentioned in the text."
+            "Create a question that requires comparing two or more things mentioned in the text.",
+            "What are the main differences between {concept1} and {concept2}?"
         ],
         "inferential": [
             "Generate an inferential question that requires reasoning beyond the literal text. The answer should be derived through logical inference.",

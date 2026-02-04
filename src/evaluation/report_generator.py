@@ -8,18 +8,13 @@ Generates comprehensive HTML/PDF reports with:
 - Ablation study results
 """
 
-import json
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, Optional
 from datetime import datetime
 
 import pandas as pd
-import numpy as np
-import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-
-from .error_analysis import ErrorAnalyzer
 
 
 class ReportGenerator:
@@ -30,6 +25,7 @@ class ReportGenerator:
         self.results_dir = self.data_dir / "evaluation" / "results"
         self.reports_dir = self.data_dir / "evaluation" / "reports"
         self.reports_dir.mkdir(parents=True, exist_ok=True)
+        self.results_dir.mkdir(parents=True, exist_ok=True)
 
     def generate_metrics_comparison_chart(self, results: Dict) -> go.Figure:
         """Generate metrics comparison bar chart."""
@@ -321,7 +317,7 @@ class ReportGenerator:
 </html>
 """
 
-        with open(report_path, 'w') as f:
+        with open(report_path, 'w', encoding='utf-8') as f:
             f.write(html_content)
 
         print(f"HTML report saved: {report_path}")
