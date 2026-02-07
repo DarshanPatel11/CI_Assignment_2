@@ -3,7 +3,8 @@ Hybrid RAG System - Main Pipeline Orchestrator
 
 Single entry point for:
 - Building indices
-- Running evaluation
+- Running evaluation (standard + innovative)
+- Running comprehensive creative evaluation suite
 - Starting the UI
 """
 
@@ -11,6 +12,7 @@ import argparse
 import json
 import sys
 from pathlib import Path
+from datetime import datetime
 
 from src.data_collection import WikipediaCollector
 from src.preprocessing import TextPreprocessor
@@ -18,6 +20,15 @@ from src.hybrid_retrieval import HybridRetriever
 from src.response_generation import RAGPipeline, ResponseGenerator
 from src.evaluation.question_generator import QuestionGenerator
 from src.evaluation.evaluation_pipeline import EvaluationPipeline
+from src.creative_evaluation import (
+    CreativeEvaluationSuite,
+    AdversarialQuestionGenerator,
+    AblationStudyRunner,
+    ErrorAnalyzer,
+    LLMJudge,
+    ConfidenceCalibrator,
+    NovelMetrics
+)
 
 
 def build_index(args):
@@ -77,9 +88,24 @@ def build_index(args):
     print(f"  Index: {args.index_name}")
     print("="*60)
 
+def generate_fixed_urls(args):
+    """Generate fixed URLs for data collection."""
+    print("\n" + "="*60)
+    print("GENERATING FIXED URLS")
+    print("="*60)
+
+    data_dir = args.data_dir
+
+    collector = WikipediaCollector(data_dir=data_dir)
+    collector.generate_fixed_urls(count=args.fixed_count, force=True)
+
+    print("\n" + "="*60)
+    print("FIXED URLS GENERATED SUCCESSFULLY")
+    print("="*60)
+
 
 def run_evaluation(args):
-    """Run the evaluation pipeline."""
+    """Run the evaluation pipeline with optional innovative evaluation."""
     print("\n" + "="*60)
     print("RUNNING EVALUATION PIPELINE")
     print("="*60)
@@ -103,7 +129,7 @@ def run_evaluation(args):
     if args.num_questions:
         questions = questions[:args.num_questions]
 
-    # Run evaluation
+    # Run standard evaluation
     results = pipeline.run_evaluation(questions, top_k=args.top_k)
 
     # Run ablation study if requested
@@ -112,9 +138,165 @@ def run_evaluation(args):
         ablation_results = pipeline.run_ablation_study(questions)
         results['ablation'] = ablation_results
 
+    # Run innovative evaluation if requested
+    if args.innovative:
+        print("\n" + "="*60)
+        print("RUNNING INNOVATIVE EVALUATION")
+        print("="*60)
+        innovative_results = run_innovative_evaluation(rag, retriever, questions, args)
+        results['innovative'] = innovative_results
+
     print("\n" + "="*60)
     print("EVALUATION COMPLETE")
     print("="*60)
+
+    return results
+
+
+def run_innovative_evaluation(rag, retriever, questions, args):
+    """Run innovative evaluation components."""
+    results = {}
+    data_dir = Path(args.data_dir)
+    results_dir = data_dir / "evaluation" / "results"
+    results_dir.mkdir(parents=True, exist_ok=True)
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+
+    # Initialize components
+    print("\nInitializing innovative evaluation components...")
+    adversarial = AdversarialQuestionGenerator()
+    ablation = AblationStudyRunner(retriever=retriever, rag_pipeline=rag)
+    error_analyzer = ErrorAnalyzer()
+    judge = LLMJudge()
+    confidence = ConfidenceCalibrator()
+    novel_metrics = NovelMetrics()
+
+    # 1. Adversarial Testing
+    print("\n[1/5] Running Adversarial Testing...")
+    adversarial_results = []
+    sample_questions = questions[:10]  # Test on subset
+    for q in sample_questions:
+        original_q = q.get('question', '')
+        variants = adversarial.generate_adversarial_set(original_q)
+        variant_results = []
+        for v in variants:
+            try:
+                resp = rag.answer(v['q'], top_k=args.top_k, include_details=True)
+                variant_results.append({
+                    'type': v['type'],
+                    'question': v['q'],
+                    'answer': resp.get('answer', ''),
+                    'has_response': bool(resp.get('answer', '').strip())
+                })
+            except Exception as e:
+                variant_results.append({'type': v['type'], 'error': str(e)})
+        adversarial_results.append({
+            'original': original_q,
+            'variants': variant_results
+        })
+    results['adversarial'] = adversarial_results
+    print(f"   Tested {len(sample_questions)} questions with adversarial variants")
+
+    # 2. Comprehensive Ablation Study
+    print("\n[2/5] Running Comprehensive Ablation Study...")
+    queries = [q.get('question', '') for q in questions[:20]]
+    ablation_results = ablation.run_retrieval_ablations(
+        queries=queries,
+        ks=[3, 5, 10],
+        rrf_ks=[20, 60, 100]
+    )
+    results['ablation_study'] = {
+        'summary': 'Compared dense-only, sparse-only, and hybrid retrieval',
+        'k_values_tested': [3, 5, 10],
+        'rrf_k_values_tested': [20, 60, 100],
+        'num_queries': len(queries)
+    }
+    print(f"   Completed ablation across K=[3,5,10] and RRF_k=[20,60,100]")
+
+    # 3. Error Analysis
+    print("\n[3/5] Running Error Analysis...")
+    error_analysis_data = []
+    for q in questions[:30]:
+        try:
+            resp = rag.answer(q.get('question', ''), top_k=args.top_k, include_details=True)
+            error_analysis_data.append({
+                'question': q.get('question', ''),
+                'gold': q.get('answer', ''),
+                'pred': resp.get('answer', ''),
+                'context': resp.get('context_used', '')
+            })
+        except:
+            pass
+    error_summary = error_analyzer.analyze_results(error_analysis_data)
+    results['error_analysis'] = error_summary
+    print(f"   Analyzed {len(error_analysis_data)} responses")
+    print(f"   Error distribution: {error_summary.get('distribution', {})}")
+
+    # 4. LLM-as-Judge Evaluation
+    print("\n[4/5] Running LLM-as-Judge Evaluation...")
+    judge_results = []
+    for item in error_analysis_data[:20]:
+        scores = judge.judge(
+            item['question'],
+            item['pred'],
+            item['context']
+        )
+        judge_results.append({
+            'question': item['question'],
+            'scores': scores
+        })
+    results['llm_judge'] = {
+        'results': judge_results,
+        'avg_factual_accuracy': sum(r['scores']['factual_accuracy'] for r in judge_results) / max(1, len(judge_results)),
+        'avg_completeness': sum(r['scores']['completeness'] for r in judge_results) / max(1, len(judge_results)),
+        'avg_relevance': sum(r['scores']['relevance'] for r in judge_results) / max(1, len(judge_results)),
+        'avg_coherence': sum(r['scores']['coherence'] for r in judge_results) / max(1, len(judge_results)),
+        'avg_groundedness': sum(r['scores']['groundedness'] for r in judge_results) / max(1, len(judge_results))
+    }
+    print(f"   Judged {len(judge_results)} responses")
+
+    # 5. Confidence Calibration
+    print("\n[5/5] Running Confidence Calibration...")
+    confidences = []
+    correctness = []
+    for item in error_analysis_data[:20]:
+        # Get retrieval scores from a fresh query
+        try:
+            resp = rag.answer(item['question'], top_k=args.top_k, include_details=True)
+            retrieval_scores = [r.get('score', 0) for r in resp.get('retrieval', {}).get('hybrid_results', [])]
+            conf = confidence.estimate_confidence(item['question'], item['pred'], retrieval_scores)
+            confidences.append(conf)
+            # Simple correctness: check if gold appears in prediction
+            gold_lower = (item['gold'] or '').lower()
+            pred_lower = (item['pred'] or '').lower()
+            is_correct = 1 if gold_lower and gold_lower in pred_lower else 0
+            correctness.append(is_correct)
+        except:
+            pass
+    if confidences:
+        calibration_stats = confidence.calibration_stats(confidences, correctness)
+        results['confidence_calibration'] = {
+            'brier_score': calibration_stats['brier_score'],
+            'calibration_curve': calibration_stats['calibration'],
+            'avg_confidence': sum(confidences) / len(confidences),
+            'avg_correctness': sum(correctness) / len(correctness)
+        }
+        print(f"   Brier Score: {calibration_stats['brier_score']:.4f}")
+
+    # 6. Novel Metrics
+    print("\n[6/6] Computing Novel Metrics...")
+    answers = [item['pred'] for item in error_analysis_data if item['pred']]
+    diversity = novel_metrics.answer_diversity_metric(answers)
+    results['novel_metrics'] = {
+        'answer_diversity': diversity,
+        'num_answers_analyzed': len(answers)
+    }
+    print(f"   Answer Diversity: {diversity:.4f}")
+
+    # Save innovative evaluation results
+    innovative_path = results_dir / f"innovative_evaluation_{timestamp}.json"
+    with open(innovative_path, 'w') as f:
+        json.dump(results, f, indent=2, default=str)
+    print(f"\n   Saved innovative evaluation to: {innovative_path}")
 
     return results
 
@@ -175,7 +357,8 @@ def main():
 Examples:
   Build index:       python main.py --build-index
   Run evaluation:    python main.py --evaluate
-  Full pipeline:     python main.py --build-index --generate-questions --evaluate
+  Full evaluation:   python main.py --evaluate --innovative --ablation
+  Full pipeline:     python main.py --build-index --generate-questions --evaluate --innovative
   Check status:      python main.py --status
         """
     )
@@ -202,6 +385,7 @@ Examples:
     parser.add_argument("--questions-file", default="questions.json", help="Questions file name")
     parser.add_argument("--top-k", type=int, default=5, help="Top-K for retrieval")
     parser.add_argument("--ablation", action="store_true", help="Run ablation study")
+    parser.add_argument("--innovative", action="store_true", help="Run innovative/creative evaluation (adversarial, LLM-judge, confidence calibration)")
 
     args = parser.parse_args()
 
@@ -214,6 +398,10 @@ Examples:
 
     if args.evaluate:
         run_evaluation(args)
+
+    if args.generate_fixed_urls:
+        generate_fixed_urls(args)
+
 
     if not any([args.status, args.build_index, args.evaluate]):
         parser.print_help()

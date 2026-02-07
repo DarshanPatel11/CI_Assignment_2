@@ -149,6 +149,11 @@ def display_timing_chart(timing: dict):
 
 
 def main():
+    # Handle pending query from sample buttons (must be done before widget creation)
+    if 'pending_query' in st.session_state:
+        st.session_state['_default_query'] = st.session_state.pending_query
+        del st.session_state.pending_query
+
     # Header
     st.markdown('<h1 class="main-header">🔍 Hybrid RAG System</h1>', unsafe_allow_html=True)
     st.markdown("Ask questions about Wikipedia articles using hybrid dense + sparse retrieval")
@@ -202,8 +207,12 @@ def main():
     # Query input
     st.markdown("### 💬 Ask a Question")
 
+    # Get default value if set by sample button
+    default_query = st.session_state.pop('_default_query', '')
+
     query = st.text_input(
         "Enter your question:",
+        value=default_query,
         placeholder="e.g., What is machine learning?",
         key="query_input"
     )
@@ -288,7 +297,7 @@ def main():
     for i, (col, q) in enumerate(zip(cols, sample_questions)):
         with col:
             if st.button(q[:30] + "...", key=f"sample_{i}"):
-                st.session_state.query_input = q
+                st.session_state.pending_query = q
                 st.rerun()
 
 

@@ -1,0 +1,4997 @@
+{
+  "mrr": {
+    "mrr": 0.11683333333333333,
+    "individual_rrs": [
+      0.0,
+      0.0,
+      0.25,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3333333333333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2,
+      0.0,
+      0.2,
+      0.0,
+      0.2,
+      1.0,
+      0.5,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "hit_rate": 0.18,
+    "total_queries": 100
+  },
+  "faithfulness": {
+    "mean_score": 0.18,
+    "scores": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "details": [
+      {
+        "score": 0.0,
+        "claims": [
+          "imperialism or anakchromoral The person"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "imperialism or anakchromoral The person",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "February 11860 or 2 June 1905?"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "February 11860 or 2 June 1905?",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Population-specific partnerships that hold a high common level across all individuals that replicated in heterotrophe ecosystem-like environments."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Population-specific partnerships that hold a high common level across all individuals that replicated in heterotrophe ecosystem-like environments.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I could just make everything easier to install than much at best when making"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I could just make everything easier to install than much at best when making",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The X-Men is a 1.6 kilometer ride from the start of the race to the finish."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The X-Men is a 1.6 kilometer ride from the start of the race to the finish.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Explosives with very different concentration will cause barotic injury as well:"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Explosives with very different concentration will cause barotic injury as well:",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "This is too expansive an"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "This is too expansive an",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "This might make disputes about who points should be cited by textbook teachers."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "This might make disputes about who points should be cited by textbook teachers.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Ancient pelicans thought running riar was better off before they realized that football was the proper form at that instant of time"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Ancient pelicans thought running riar was better off before they realized that football was the proper form at that instant of time",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Egg beans are not feed additive"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Egg beans are not feed additive",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No, none found"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No, none found",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It doesn't."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It doesn't.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot offer it"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot offer it",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No available matching text"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No available matching text",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I is Not providing that right above. Please try other answers in this matter and preferably save this statement as they would have changed that for this to not relevant to the information you deem relevant."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I is Not providing that right above. Please try other answers in this matter and preferably save this statement as they would have changed that for this to not relevant to the information you deem relevant.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I would never expect so much. Overall it wasn't necessarily successful in summing things"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I would never expect so much. Overall it wasn't necessarily successful in summing things",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Evidence missing"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Evidence missing",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No known prime example. All people would be dead today, that person should become old and wealthy today , while younger generations have lived and been driven, essentially out, for mill times"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No known prime example. All people would be dead today, that person should become old and wealthy today , while younger generations have lived and been driven, essentially out, for mill times",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No, not at an eraological rate, this cannot have existed simultaneously. There can be different reasons for epoch. Therefore the first answer seems wrong and cannot accurately have the second option"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No, not at an eraological rate, this cannot have existed simultaneously. There can be different reasons for epoch. Therefore the first answer seems wrong and cannot accurately have the second option",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "New forms were the best choices to do so after 1830/1900\"."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "New forms were the best choices to do so after 1830/1900\".",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Animal ranges were used in place of mandrivable shelter from other humans during early evolution but have only been created in animal species that still live close down and live outside as in"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Animal ranges were used in place of mandrivable shelter from other humans during early evolution but have only been created in animal species that still live close down and live outside as in",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The high templee of materielle philosophy in the seventh decade"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The high templee of materielle philosophy in the seventh decade",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The Doc is alive, so someone shouldn't ever let anybody see himself explodinate on it, even after being fired wildly in high excitement around campfire time."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The Doc is alive, so someone shouldn't ever let anybody see himself explodinate on it, even after being fired wildly in high excitement around campfire time.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No option is in Spanish Language"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No option is in Spanish Language",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "3rd 19-2080 BEC in many parts from China and Argentina, which had just arrived during colonization during the Thiremost Dynadoma on February 9, 1490"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "3rd 19-2080 BEC in many parts from China and Argentina, which had just arrived during colonization during the Thiremost Dynadoma on February 9, 1490",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Can tell at the most"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Can tell at the most",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot find information or can only use information"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot find information or can only use information",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The right to remain so on the island"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The right to remain so on the island",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "So I cannot provide an estimate for percentage."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "So I cannot provide an estimate for percentage.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The Russians had not tried diplomacies that Russia ever offered them and for the uninvaded people not the Russian communy'"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The Russians had not tried diplomacies that Russia ever offered them and for the uninvaded people not the Russian communy'",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "[FOR MATERIAL GROW AFTER YOU BEEN ASSOCCABLE]"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "[FOR MATERIAL GROW AFTER YOU BEEN ASSOCCABLE]",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The Outroeeve is not a candidate for the nomination."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The Outroeeve is not a candidate for the nomination.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Near or at higher surface concentration at higher elevation relative to those that have to run underwater from lower elevations over seawater whereas less exposed surrounded areas can take precedence to that"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Near or at higher surface concentration at higher elevation relative to those that have to run underwater from lower elevations over seawater whereas less exposed surrounded areas can take precedence to that",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "There could just as accurately represent two examples of information good from different dimensions of human life by removing one-sided prohibition."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "There could just as accurately represent two examples of information good from different dimensions of human life by removing one-sided prohibition.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I never really considered my observation of the process first and you couldn1 T tell this more firmly before allowing me time, but it doesn1 g i didnl"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I never really considered my observation of the process first and you couldn1 T tell this more firmly before allowing me time, but it doesn1 g i didnl",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "He Can not respond to all categories mentioned"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "He Can not respond to all categories mentioned",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No Way But Daisying Dredges The Big Green Beans Are the Future. \""
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No Way But Daisying Dredges The Big Green Beans Are the Future. \"",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "A hermethetic sealator designed in fluorochlute lights"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "A hermethetic sealator designed in fluorochlute lights",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "They lived with rats, for an ancestor said, describing they enjoyed walking in it just when other humans took them all with!"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "They lived with rats, for an ancestor said, describing they enjoyed walking in it just when other humans took them all with!",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No, there no I Can. Currently, they work together every Tuesday through that Sunday and that is one night the following. On Thursday it turns two full weekends they'r working together from 4 and 5."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No, there no I Can. Currently, they work together every Tuesday through that Sunday and that is one night the following. On Thursday it turns two full weekends they'r working together from 4 and 5.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Ancient Turks were a group of people who ruled the Middle East."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Ancient Turks were a group of people who ruled the Middle East.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Mathematics only"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Mathematics only",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "18-78 - 1987. This item can no be amended, expanded or restricted as requested in Paraguater Reports above as the date they was first issued until they no more than 18 month prior from 1975 to 1869 when all other activities were now beginning as happened 26/09/2007 or 27/81/2009 to 28/09/1986))."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "18-78 - 1987. This item can no be amended, expanded or restricted as requested in Paraguater Reports above as the date they was first issued until they no more than 18 month prior from 1975 to 1869 when all other activities were now beginning as happened 26/09/2007 or 27/81/2009 to 28/09/1986)).",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "This answer be valid but be incomplete"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "This answer be valid but be incomplete",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Unknowable information are difficulty."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Unknowable information are difficulty.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Originally exposed during cultural history \"at relatively lapidary period\" of the modern literary forms before it shifted into modern novel."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Originally exposed during cultural history \"at relatively lapidary period\" of the modern literary forms before it shifted into modern novel.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I said 1940 is an overridING issue that we still face on this issue."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I said 1940 is an overridING issue that we still face on this issue.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "(nuclided percentage (es-gd.ga/oshtncp; Claims:"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "(nuclided percentage (es-gd.ga/oshtncp; Claims:",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "You would expect the healthcare system with no reliable estimate on how things were as a cost would come along in the US cost was"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "You would expect the healthcare system with no reliable estimate on how things were as a cost would come along in the US cost was",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It was unavailable"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It was unavailable",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Impirical musician improves (sometimes inside or (barronecular music)"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Impirical musician improves (sometimes inside or (barronecular music)",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "WCDI data. For the most recent adjusted result there've simply either an unchanged production/incent"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "WCDI data. For the most recent adjusted result there've simply either an unchanged production/incent",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Yes. However it will seem possible I know everyone has something very to drink while you are not drunk. Therefore the first event will come first for members of all Democrats to have"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Yes. However it will seem possible I know everyone has something very to drink while you are not drunk. Therefore the first event will come first for members of all Democrats to have",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The short for an I.A &/B film can easily exceed 250m lpm for film. Watching such film. You may only see these at first. But that may go amazingly long for film after film begins letting loose onto live-in screen in many places like theatre and movies are going strong from that spot alone for 20-plus-hour period."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The short for an I.A &/B film can easily exceed 250m lpm for film. Watching such film. You may only see these at first. But that may go amazingly long for film after film begins letting loose onto live-in screen in many places like theatre and movies are going strong from that spot alone for 20-plus-hour period.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Mattel Film or Idrinch Trenowicc"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Mattel Film or Idrinch Trenowicc",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No need or purpose it', and could save us on and over technology which we are supposed of using to make the world stronger"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No need or purpose it', and could save us on and over technology which we are supposed of using to make the world stronger",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "ADDING MORE PEER STARTS IN RECOUNTURATURE AND CONEQUALIFIATION PROSPECTED TO THE LIVICE AND PRODUNCIATION"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "ADDING MORE PEER STARTS IN RECOUNTURATURE AND CONEQUALIFIATION PROSPECTED TO THE LIVICE AND PRODUNCIATION",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I did not describe"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I did not describe",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I no canober"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I no canober",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [],
+        "supported_claims": 0,
+        "total_claims": 0,
+        "claim_details": []
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "The horn is a horn ."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The horn is a horn .",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I did not provide too detailed introductory terms or numerator positions I can tell this: This text in no"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I did not provide too detailed introductory terms or numerator positions I can tell this: This text in no",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I cannot ask this option.'"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I cannot ask this option.'",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It would have killed all native people as landmine could be found unexplored at 3,000 tons/yan."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It would have killed all native people as landmine could be found unexplored at 3,000 tons/yan.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Beetoculonist (the animal of an insect for example can cause skin reactions depending its cellular membranes, nerve structures or reproductive abilities depending"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Beetoculonist (the animal of an insect for example can cause skin reactions depending its cellular membranes, nerve structures or reproductive abilities depending",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Christopher Carstaggilla and Little Hop"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Christopher Carstaggilla and Little Hop",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Reading for grade 10 students would have taken to reading for grade 10 students than concentrating on test results in which grade 10 grades 4 grades 4-5 would only score higher during tests of"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Reading for grade 10 students would have taken to reading for grade 10 students than concentrating on test results in which grade 10 grades 4 grades 4-5 would only score higher during tests of",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "has been scientifically found by reliable sources not easily distinguished from independent and atypical methods which do"
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "has been scientifically found by reliable sources not easily distinguished from independent and atypical methods which do",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Major Indoor Soccer Division II World Major Junior Soft T"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Major Indoor Soccer Division II World Major Junior Soft T",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Ican only provide English"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Ican only provide English",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The United States Central Standardized Food and Mineral Products Division is a division of the U.S. Department of Agriculture."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The United States Central Standardized Food and Mineral Products Division is a division of the U.S. Department of Agriculture.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Ice are visible and easily soluble when in open weather or at low altitude but in very large"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Ice are visible and easily soluble when in open weather or at low altitude but in very large",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Location geographie.n"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Location geographie.n",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Insects such as hameet, cornea, duck aviabilii, becked"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Insects such as hameet, cornea, duck aviabilii, becked",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Geografe is a term used to describe a family of people who live together."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Geografe is a term used to describe a family of people who live together.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "It sounds bad"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "It sounds bad",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "The dumbwaiters serves [...] in actual corolly as \"and [Branfield has] neglected [...] the most urgent sentence: [...] [He says we will come together]."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The dumbwaiters serves [...] in actual corolly as \"and [Branfield has] neglected [...] the most urgent sentence: [...] [He says we will come together].",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The evidence in the Civil Civil Rights document describes in more depth if we can find enough detail, iie there exists evidence supporting such trump or conspiracy theories to describe retalvescent American political leadership in that century"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The evidence in the Civil Civil Rights document describes in more depth if we can find enough detail, iie there exists evidence supporting such trump or conspiracy theories to describe retalvescent American political leadership in that century",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Arson (1947) and Bad Taste."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Arson (1947) and Bad Taste.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "ErieValuus (West Cosgrove Abbey) is a medieval abbey in the United States."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "ErieValuus (West Cosgrove Abbey) is a medieval abbey in the United States.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "New Delhi road map which states you must lane on road. However it does appear you can skip there and then turn onto street where it gives more people more light on foot. That may prevent mping out of doors along street. It is not known what other cars will rely and I assume there may well not take care of. The public needs"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "New Delhi road map which states you must lane on road. However it does appear you can skip there and then turn onto street where it gives more people more light on foot. That may prevent mping out of doors along street. It is not known what other cars will rely and I assume there may well not take care of. The public needs",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Most map sites are actually remote not far enough"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Most map sites are actually remote not far enough",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Insufficient info that can make everything"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Insufficient info that can make everything",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "I can offer few suggestions because of that context"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "I can offer few suggestions because of that context",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "No citation"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "No citation",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "As I cannot serve it in"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "As I cannot serve it in",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "ectopic rainforests have fallen and may be defornably disturbed or"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "ectopic rainforests have fallen and may be defornably disturbed or",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Douglas Young John Hume Alan Herault Haliad Langley Byron Lee Robert"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Douglas Young John Hume Alan Herault Haliad Langley Byron Lee Robert",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 1.0,
+        "claims": [
+          "Mathematics. This statement accurately fits those derived, as are most examples. Some examples, given by mathematics, contain greater numbers, larger amounts in number classes, more of that proportion."
+        ],
+        "supported_claims": 1,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Mathematics. This statement accurately fits those derived, as are most examples. Some examples, given by mathematics, contain greater numbers, larger amounts in number classes, more of that proportion.",
+            "supported": true,
+            "confidence": 1.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Each step of an invoke can either serve multiple different logical directions; an idea must exist across three generations first in their logical view but can not form one."
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Each step of an invoke can either serve multiple different logical directions; an idea must exist across three generations first in their logical view but can not form one.",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "Asthmus hemoroscurforzasanus or Asthmanellosian amnesitritone insupraeida atteneobarrheitonia"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "Asthmus hemoroscurforzasanus or Asthmanellosian amnesitritone insupraeida atteneobarrheitonia",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      },
+      {
+        "score": 0.0,
+        "claims": [
+          "The context should be irrelevant as nobody else"
+        ],
+        "supported_claims": 0,
+        "total_claims": 1,
+        "claim_details": [
+          {
+            "claim": "The context should be irrelevant as nobody else",
+            "supported": false,
+            "confidence": 0.0
+          }
+        ]
+      }
+    ],
+    "total_evaluated": 100
+  },
+  "context_precision": {
+    "mean_score": 0.12350000000000001,
+    "scores": [
+      0.0,
+      0.0,
+      0.25,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.5,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.95,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.3333333333333333,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.5,
+      0.9166666666666666,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.7,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.2,
+      0.0,
+      0.2,
+      0.0,
+      0.2,
+      1.0,
+      0.45,
+      0.0,
+      0.0,
+      0.45,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "details": [
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.25,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.5,
+        "relevance_vector": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.5,
+        "relevance_vector": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.95,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          0.75,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.2,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.3333333333333333,
+        "relevance_vector": [
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.5,
+        "relevance_vector": [
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.9166666666666666,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.75,
+          0.6
+        ],
+        "total_relevant": 3,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.7,
+        "relevance_vector": [
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          0.6666666666666666,
+          0.5,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "total_relevant": 5,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.2,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.2,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.2,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.2
+        ],
+        "total_relevant": 1,
+        "total_retrieved": 5
+      },
+      {
+        "score": 1.0,
+        "relevance_vector": [
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "precision_at_k": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.8
+        ],
+        "total_relevant": 4,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.45,
+        "relevance_vector": [
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.45,
+        "relevance_vector": [
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "precision_at_k": [
+          0.0,
+          0.5,
+          0.3333333333333333,
+          0.25,
+          0.4
+        ],
+        "total_relevant": 2,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      },
+      {
+        "score": 0.0,
+        "relevance_vector": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "precision_at_k": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "total_relevant": 0,
+        "total_retrieved": 5
+      }
+    ],
+    "total_evaluated": 100
+  },
+  "summary": {
+    "mrr": 0.11683333333333333,
+    "hit_rate": 0.18,
+    "faithfulness": 0.18,
+    "context_precision": 0.12350000000000001,
+    "total_queries": 100
+  },
+  "timing": {
+    "mean_ms": 6230.708220005035,
+    "median_ms": 5321.3948011398315,
+    "min_ms": 1765.8915519714355,
+    "max_ms": 18195.950508117676,
+    "std_ms": 3348.4614464625097,
+    "all_timings": [
+      5292.751312255859,
+      4916.153192520142,
+      3894.446611404419,
+      4870.950937271118,
+      2450.078010559082,
+      10465.856552124023,
+      7379.8277378082275,
+      3843.634605407715,
+      2032.0038795471191,
+      4120.296001434326,
+      4338.3073806762695,
+      8252.243757247925,
+      5632.19952583313,
+      2596.1694717407227,
+      2018.9554691314697,
+      7766.537427902222,
+      6434.139251708984,
+      1883.6085796356201,
+      4709.439277648926,
+      4120.758771896362,
+      5350.038290023804,
+      16038.817644119263,
+      7612.75315284729,
+      2215.405225753784,
+      6447.757005691528,
+      10591.681957244873,
+      7683.646202087402,
+      5575.382947921753,
+      3176.2776374816895,
+      1765.8915519714355,
+      3087.289333343506,
+      4177.254199981689,
+      18195.950508117676,
+      13856.889486312866,
+      11754.719495773315,
+      5228.84464263916,
+      4799.809455871582,
+      6170.00937461853,
+      15324.530601501465,
+      6413.832426071167,
+      2610.3460788726807,
+      10297.775268554688,
+      7438.8587474823,
+      2476.712942123413,
+      11695.33371925354,
+      14839.677095413208,
+      3931.4446449279785,
+      7578.824281692505,
+      4013.6616230010986,
+      11133.331298828125,
+      7405.788421630859,
+      4950.949192047119,
+      7861.070394515991,
+      10481.472730636597,
+      7999.610185623169,
+      6176.183462142944,
+      3238.361120223999,
+      4063.00950050354,
+      4215.133190155029,
+      3402.982473373413,
+      5651.58224105835,
+      9446.863174438477,
+      3081.4380645751953,
+      4287.0848178863525,
+      4510.159730911255,
+      3351.9973754882812,
+      4192.650318145752,
+      2859.5004081726074,
+      6496.022701263428,
+      6574.346303939819,
+      4023.728609085083,
+      5799.780607223511,
+      3483.8571548461914,
+      3030.7557582855225,
+      5950.382471084595,
+      4372.658014297485,
+      5898.832321166992,
+      6340.084791183472,
+      9274.590969085693,
+      11339.71357345581,
+      5424.28183555603,
+      7080.025196075439,
+      4531.0211181640625,
+      4391.716003417969,
+      7484.737396240234,
+      8418.04838180542,
+      3550.9307384490967,
+      4588.082551956177,
+      10427.11591720581,
+      10669.84486579895,
+      2868.9653873443604,
+      5214.105129241943,
+      3376.521348953247,
+      4381.4098834991455,
+      2514.2931938171387,
+      5259.811878204346,
+      8368.41893196106,
+      9670.186996459961,
+      10480.114221572876,
+      6109.496355056763
+    ]
+  },
+  "by_question_type": {
+    "factual": {
+      "count": 40,
+      "mrr": 0.08958333333333332,
+      "faithfulness": 0.2,
+      "context_precision": 0.09333333333333334
+    },
+    "inferential": {
+      "count": 25,
+      "mrr": 0.128,
+      "faithfulness": 0.16,
+      "context_precision": 0.15600000000000003
+    },
+    "multi-hop": {
+      "count": 15,
+      "mrr": 0.16,
+      "faithfulness": 0.06666666666666667,
+      "context_precision": 0.15333333333333335
+    },
+    "comparative": {
+      "count": 20,
+      "mrr": 0.125,
+      "faithfulness": 0.25,
+      "context_precision": 0.12083333333333332
+    }
+  },
+  "detailed_results": [
+    {
+      "question_id": "q_1de2c5a5",
+      "question": "which groups represent parts more people now as global war is expanding into?",
+      "question_type": "factual",
+      "ground_truth": "International political institutions on the international level include the International Criminal Court, the International Monetary Fund, and the World Trade Organization.",
+      "generated_answer": "imperilism or anakchromoral The person",
+      "source_url": "https://en.wikipedia.org/wiki/Politics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5292.751312255859
+    },
+    {
+      "question_id": "q_6ddd8f40",
+      "question": "About What month or ward became Opera at Philadelphia to play Lady Van Bundelburg Opera before her show called as?",
+      "question_type": "factual",
+      "ground_truth": "Comedy of menace is the body of plays written by David Campton, Nigel Dennis, N.",
+      "generated_answer": "February 11860 or 2 June 1905? uncharted time? \u00e2 oh no that time and date' x",
+      "source_url": "https://en.wikipedia.org/wiki/Comedy_of_menace",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4916.153192520142
+    },
+    {
+      "question_id": "q_97139b18",
+      "question": "I. E-Lewlet and RPA overlap what category for human population development for human groups called that includes the same word?",
+      "question_type": "factual",
+      "ground_truth": "In addition to all of the other subdisciplines of geography, GIS specialists must understand computer science and database systems.",
+      "generated_answer": "populations-specific partnerships that hold a high common level across all individuals that replicated in heterotrophe ecosystem-like environments. To describe ways in",
+      "source_url": "https://en.wikipedia.org/wiki/Geography",
+      "mrr": 0.25,
+      "faithfulness": 0.0,
+      "context_precision": 0.25,
+      "time_ms": 3894.446611404419
+    },
+    {
+      "question_id": "q_019944de",
+      "question": "While creating Windows CE we did much by creating apps first about:how far to download that in total that can have internet and cell to save over it then installed everything?",
+      "question_type": "factual",
+      "ground_truth": "Android Central is a technology journalism website based in the United States, Canada, and the United Kingdom that covers the Android operating system.",
+      "generated_answer": "There seems less room available but there may come times in future and it can come close to that than most computers would be. I could just make everything easier to install than much at best when making",
+      "source_url": "https://en.wikipedia.org/wiki/Android_Central",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4870.950937271118
+    },
+    {
+      "question_id": "q_dab3f486",
+      "question": "A horse will walk along its natural boundary within 20,000,000 days on average since two horses ride each and nearly 12 foot long when in flight how big or low-main gear was put to run their dogs by both male of animal weight a mile by weight?",
+      "question_type": "factual",
+      "ground_truth": "Modern physics is a branch of physics that developed in the early 20th century and onward or branches greatly influenced by early 20th century physics.",
+      "generated_answer": "kilometer rides in each and",
+      "source_url": "https://en.wikipedia.org/wiki/Modern_physics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 2450.078010559082
+    },
+    {
+      "question_id": "q_adee8d5f",
+      "question": "An active volcano occurs from an increase due the impact from that same volume; foreeice,?",
+      "question_type": "factual",
+      "ground_truth": "Sociology and applied sociology are connected to the professional and academic discipline of social work.",
+      "generated_answer": "Explosives with very different concentration will cause barotic injury as well: I cannot give an opinion since no single instance was found which involved explosive gas. So I",
+      "source_url": "https://en.wikipedia.org/wiki/Sociology",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 10465.856552124023
+    },
+    {
+      "question_id": "q_a1753612",
+      "question": "Did you find animals or small creatures during summer to get something into winter rain patterns suited them to do differently when exposed to something?",
+      "question_type": "factual",
+      "ground_truth": "Distribution Orchids in the genus Peristylus are found in Japan, China, Mongolia, India, Indochina, Indonesia, Philippines, Malaysia, New Guinea, Polynesia and Australia.",
+      "generated_answer": "This is too expansive an",
+      "source_url": "https://en.wikipedia.org/wiki/Peristylus",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7379.8277378082275
+    },
+    {
+      "question_id": "q_4025dd2e",
+      "question": "Do electrical power sources not make telephone cordloom less magnetic because electron would emit other magnetic electricity waves without current, that?",
+      "question_type": "factual",
+      "ground_truth": "With the standard consensus that the laws of physics are universal and do not change with time, physics can be used to study things that would ordinarily be mired in uncertainty.",
+      "generated_answer": "Yes,",
+      "source_url": "https://en.wikipedia.org/wiki/Physics",
+      "mrr": 0.5,
+      "faithfulness": 1.0,
+      "context_precision": 0.5,
+      "time_ms": 3843.634605407715
+    },
+    {
+      "question_id": "q_2a632456",
+      "question": "Are there or are some cultures close at school where something they talk too hard often does this behavior lead users the indian to find they\u2019reagan?",
+      "question_type": "factual",
+      "ground_truth": "Conceptual analysis is a common method in analytic philosophy.",
+      "generated_answer": "This might make disputes about who points should be cited by textbook teachers.It can make an unsuccessful",
+      "source_url": "https://en.wikipedia.org/wiki/Philosophy",
+      "mrr": 0.5,
+      "faithfulness": 1.0,
+      "context_precision": 0.5,
+      "time_ms": 2032.0038795471191
+    },
+    {
+      "question_id": "q_9a25db1f",
+      "question": "Who believed social competition against nation should bring success at home or play ground balls all by two miles high or too large?",
+      "question_type": "factual",
+      "ground_truth": "The latter, an aspect of public choice theory, models public-sector behaviour analogously to microeconomics, involving interactions of self-interested voters, politicians, and bureaucrats.",
+      "generated_answer": "Ancient pelicants. They thought running riar was better off before they realized that football was the proper form at that instant of time. This predicaments is particularly harsh at time",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4120.296001434326
+    },
+    {
+      "question_id": "q_720ffce8",
+      "question": "In additions some chemicals used before agriculture. Where have products usually sold produced over that extended lifetime v?",
+      "question_type": "factual",
+      "ground_truth": "Whereas, the NDH complexes are responsible for providing a gateway for electrons to form an ETC.",
+      "generated_answer": "Tolerids from corn/canain, soybean nuts, corn starchy green beans or green pepper. Orcharduly, the food chain includes milk products that had no use for growing or processing milk, egg beans are not feed additive",
+      "source_url": "https://en.wikipedia.org/wiki/Chlororespiration",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4338.3073806762695
+    },
+    {
+      "question_id": "q_e4543ce4",
+      "question": "how deep south can the coast range south outweither according aloandrolea in river in declived period Spain' the early 1715 to middle eight?",
+      "question_type": "factual",
+      "ground_truth": "Nor is it always the worse for the society that it was no part of it.",
+      "generated_answer": "No, none found",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 8252.243757247925
+    },
+    {
+      "question_id": "q_4566641a",
+      "question": "The German \"senrepraticosterica'oimus dermathericate'the body made into tissue cell surface as muscle grows?",
+      "question_type": "factual",
+      "ground_truth": "A stereogram can also consist of two separate images that are placed separately in a stereoscope, or that are specially prepared and placed on top of each other, with color filters, polarizing filterss, or optical ridges used to ensure that each eye sees only one of the images.",
+      "generated_answer": "It doesn\". Sorry its been taken down for the plot. The",
+      "source_url": "https://en.wikipedia.org/wiki/Binocular_vision",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5632.19952583313
+    },
+    {
+      "question_id": "q_78e99b73",
+      "question": "Before his passing wed by Gregor Pope during Llaves during her rule How large?",
+      "question_type": "factual",
+      "ground_truth": "The study of decision-making in politics is important for scholarly political biographers, who can take different approaches such as focusing on psychology/personality, bureaucracy/interests, fundamental ideas, or societal forces.",
+      "generated_answer": "I cannot offer it",
+      "source_url": "https://en.wikipedia.org/wiki/Biography",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 2596.1694717407227
+    },
+    {
+      "question_id": "q_8a307967",
+      "question": "Of all two chemical components by volume is?",
+      "question_type": "factual",
+      "ground_truth": "Interdisciplinary Interdisciplinary fields include agrochemistry, astrochemistry (and cosmochemistry), atmospheric chemistry, chemical engineering, chemical biology, chemo-informatics, environmental chemistry, geochemistry, green chemistry, immunochemistry, marine chemistry, materials science, mechanochemistry, medicinal chemistry, molecular biology, nanotechnology, oenology, pharmacology, phytochemistry, solid-state chemistry, surface science, thermochemistry, and many others.",
+      "generated_answer": "No available matching text",
+      "source_url": "https://en.wikipedia.org/wiki/Chemistry",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.95,
+      "time_ms": 2018.9554691314697
+    },
+    {
+      "question_id": "q_24d8d29d",
+      "question": "Did someone make her wedding suit earlier today due only 4 people that worked at MCA', then we now look through r&B on wedding-spot or anything along our vow the time since when marriage will reciest all be held or are the guests there not ?",
+      "question_type": "factual",
+      "ground_truth": "Aftermath In 2011 and 2012, during Obama's re-election campaign, the political advocacy group Americans for Prosperity spent $8.",
+      "generated_answer": "I is Not providing that right above. Please try other answers in this matter and preferably save this statement as they would have changed that for this to not relevant to the information you deem relevant without making reference to prior choices(cities) held under consideration when booking information from other resources (e.g legal). These data and potential user comments do constitute qualified medical as to whether information we represent includes",
+      "source_url": "https://en.wikipedia.org/wiki/Solyndra",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7766.537427902222
+    },
+    {
+      "question_id": "q_7e356ca3",
+      "question": "Name at large where did an increase with an interest party come, most?",
+      "question_type": "factual",
+      "ground_truth": "Older participation Masters sport, senior sport, or veteran sport is an age category of sport, that usually contains age groups of those 35 and older.",
+      "generated_answer": "I would never expect so much. Overall it wasnt necessarily successful in summing things so you know it should actually end up paying a better buck in fees and salaries",
+      "source_url": "https://en.wikipedia.org/wiki/Sport",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6434.139251708984
+    },
+    {
+      "question_id": "q_1923390d",
+      "question": "This text also uses one of many similar images in movies -- in part an account of in particular event/stage performance performances/siguionages filmed or used?",
+      "question_type": "factual",
+      "ground_truth": "The ING headquarters building (in Amsterdam, Netherlands) has been described as looking like something out of Star Wars that could \"move forward on its legs\".",
+      "generated_answer": "(evidence missing); \"in America",
+      "source_url": "https://en.wikipedia.org/wiki/Architecture_of_Star_Wars",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 1883.6085796356201
+    },
+    {
+      "question_id": "q_339cdc8e",
+      "question": "Who could inherit power all these lifetime periods combined by doing work at age 56-succrencely outnumbered anyone. How if many?",
+      "question_type": "factual",
+      "ground_truth": "And Allah is All-Forgiving, Most Merciful.",
+      "generated_answer": "No known prime example. All people would be dead today, that person should become old and wealthy today , while younger generations have lived and been driven, essentially out, for mill times",
+      "source_url": "https://en.wikipedia.org/wiki/Coexistence",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4709.439277648926
+    },
+    {
+      "question_id": "q_998cbfee",
+      "question": "Who was born and credited later due this incident from in England today named?",
+      "question_type": "factual",
+      "ground_truth": "Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter.",
+      "generated_answer": "No.",
+      "source_url": "https://en.wikipedia.org/wiki/Atom",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 4120.758771896362
+    },
+    {
+      "question_id": "q_16d4b675",
+      "question": "Is cyberstalcons usually active , either alive as bacteria who go after dead?",
+      "question_type": "factual",
+      "ground_truth": "This fashion goes by names like \"tech wear\", \"goth ninja\" or \"tech ninja\".",
+      "generated_answer": "No, not at an eraological rate, this cannot have existed simultaneously. There can be different reasons for epoch. Therefore the first answer seems wrong and cannot accurately have the second option",
+      "source_url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5350.038290023804
+    },
+    {
+      "question_id": "q_535f3503",
+      "question": "What did many artists begin thinking for more work?",
+      "question_type": "factual",
+      "ground_truth": "Originally, these objects were elements or subsets of a given set; this has been extended to various objects, which establishes a strong link between combinatorics and other parts of discrete mathematics.",
+      "generated_answer": "New forms to were the best choices to do so after 1830/1900\"..",
+      "source_url": "https://en.wikipedia.org/wiki/Mathematics",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 16038.817644119263
+    },
+    {
+      "question_id": "q_c35102a1",
+      "question": "Most animals were kept by their care for during animal kingdom before them making human habitat: after and through which animals have spent significant numbers at this same height with only just another set away with more in store after eating food grown. These observations have an average time taken so they should keep going longer assuming of?",
+      "question_type": "factual",
+      "ground_truth": "Ads for The Edison College of Electro-Therapeutics in Dr.",
+      "generated_answer": "animal ranges were used in place of mandrivable shelter from other humans during early evolution but have only been created in animal species that still live close down and live outside as in",
+      "source_url": "https://en.wikipedia.org/wiki/Chicago_School_of_Psychology",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7612.75315284729
+    },
+    {
+      "question_id": "q_53ec18e1",
+      "question": "Along whom were French people still not in touch due by any method or way until then, without realist methods?",
+      "question_type": "factual",
+      "ground_truth": "Moreover, their analysis showed that several studies did not fully disclose the origin of their samples; the authors offered a set of recommendations to editors and reviewers to reduce WEIRD bias.",
+      "generated_answer": "The high templee of materielle philosophy in the seventh decade",
+      "source_url": "https://en.wikipedia.org/wiki/Psychology",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 2215.405225753784
+    },
+    {
+      "question_id": "q_ce4b82cb",
+      "question": "Whom doesnc get burned with their head?",
+      "question_type": "factual",
+      "ground_truth": "In the law of evidence, consciousness of guilt is a type of circumstantial evidence that judges, prosecutors, and juries may consider when determining whether a defendant is guilty of a criminal offense.",
+      "generated_answer": "Well a. The Doc is alive, so someone shouldnt ever let anybody see himself explodinate on it, even after being fired wildly in high excitement around campfire time. This means you really ought to avoid them or take them.",
+      "source_url": "https://en.wikipedia.org/wiki/Consciousness_of_guilt",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6447.757005691528
+    },
+    {
+      "question_id": "q_ce97e65d",
+      "question": "Which word for green was translated between San Loeto and Latin?",
+      "question_type": "factual",
+      "ground_truth": "The historians' history of the world.",
+      "generated_answer": "No option is in Spanish Language",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_history",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 10591.681957244873
+    },
+    {
+      "question_id": "q_7a123b07",
+      "question": "Before when could men compete against what year or province from what continent?",
+      "question_type": "factual",
+      "ground_truth": "It's a behavior therapy technique that's based on operant conditioning.",
+      "generated_answer": "3rd 19-2080 BEC in many parts from China and Argentina, which had just arrived during colonization during the Thiremost Dynadoma on February 9, 1490 or",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7683.646202087402
+    },
+    {
+      "question_id": "q_62aae85d",
+      "question": "Onions grow their legs with limbo?",
+      "question_type": "factual",
+      "ground_truth": "with water Freshwater marsh \u2013 Low-lying and seasonally waterlogged land Slough (wetland) \u2013 Forested wetland Mangrove swamp \u2013 Shrub growing in brackish water Artificial geographic features Artificial geographic feature \u2013 a thing that was made by humans that may be indicated on a map.",
+      "generated_answer": "no can tell at the most",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_geography",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5575.382947921753
+    },
+    {
+      "question_id": "q_350b92c6",
+      "question": "To animate what event will always include time when writing an invented story by something simple people will die out through fear during creation?",
+      "question_type": "factual",
+      "ground_truth": "The following outline is provided as an overview of and topical guide to history: History \u2013 discovery, collection, organization, and presentation of information about past events.",
+      "generated_answer": "I cannot find information or can only use information",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_history",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.2,
+      "time_ms": 3176.2776374816895
+    },
+    {
+      "question_id": "q_68245087",
+      "question": "Before war on Japanese civil railway cars crossed sea coast?",
+      "question_type": "factual",
+      "ground_truth": "At greater depth (disparity), the image appears flat.",
+      "generated_answer": "1s",
+      "source_url": "https://en.wikipedia.org/wiki/Binocular_vision",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 1765.8915519714355
+    },
+    {
+      "question_id": "q_f9efaff4",
+      "question": "Most military forces come south out West; from East Africa to Poland the winter winter brings an overlap in what of these elements- war (where there wasne of one other in either region so as or which military command system possessed power above war1) between?",
+      "question_type": "factual",
+      "ground_truth": "Presidents' Secret Wars: CIA and Pentagon Covert Operations Since World War II (1996) Rositzke, Harry.",
+      "generated_answer": "the right to remain so on the island) and warfare as an interdependent",
+      "source_url": "https://en.wikipedia.org/wiki/Intelligence_literature",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3087.289333343506
+    },
+    {
+      "question_id": "q_ed7d22a8",
+      "question": "In terms as volume (grammality points scale by product index with values = number to millions sold as particulic product is generally estimated by this information on its production cost/per month, or quantity of material per sown manta), just so of type A1 is assumed as product which increases with mass during conversion processes is equal part volume. By size/procuring at millirever size 1 inch thick product volume from two tons of different liquid sources with variable speed does you refer not from individual but rather group to order volume more frequently in bulk products?",
+      "question_type": "factual",
+      "ground_truth": "Widowed and divorced mothers as well as their daughters are reported to have substantially improved nutritional status which could be explained by them having greater access to the mother's relatives (matrilateral kin).",
+      "generated_answer": "So I cannot provide an estimate for percentage. ] , production quantities s",
+      "source_url": "https://en.wikipedia.org/wiki/Father_absence",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4177.254199981689
+    },
+    {
+      "question_id": "q_0d9dc0c7",
+      "question": "Immistance runs north during summer months so as?",
+      "question_type": "factual",
+      "ground_truth": "In the OECD, around two-thirds of research and development in scientific and technical fields is carried out by industry, and 20% and 10%, respectively, by universities and government.",
+      "generated_answer": "None This list may be entirely current, nor updated",
+      "source_url": "https://en.wikipedia.org/wiki/Science",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 18195.950508117676
+    },
+    {
+      "question_id": "q_09e327bf",
+      "question": "Before Napoleon began mass immigration , by German national, military rank as major political rival at Ankerborg on 1521 during President Louis Armstrong to an Eastern Helichrie' congressional commission called to consider whether Russia ever sought diplomatic military entry near which American states capital has become Europe or Israel the third capital region near to Britain had settled up under Franklin Cascendary for more slave rights there than France would had accepted through trade unconservied access granted upon France, the USA now an EU. At exactly age 20, many American in 1730 established this union without infilqury at which end there held what trade bloc's most significant battle; Russia invade?",
+      "question_type": "factual",
+      "ground_truth": "ISBN 978-0-306-46562-8.",
+      "generated_answer": "Soviet sympaTHisation or diplomatic peace at all at the Russian constry post office until December 16, 1803, without Soviet assistance since December 7, 1609. It still remains incomplete data. No one seems to live that way and they certainly wouldn'T know whether to press charges or diplomace, so who pays for anything. There would have likely not of done that on 12 December in 1522 had the Russians attempted diplomacies that Russia ever offered them and for the uninvaded people not the Russian communy'",
+      "source_url": "https://en.wikipedia.org/wiki/Atom",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 13856.889486312866
+    },
+    {
+      "question_id": "q_1fd4b4c4",
+      "question": "Inuit historian Christopher Bristomas gave you specific descriptions who could explain or make or talk out certain biblical claims over food or hortus and woodpepper to students after they first experienced humans that inhabit ancient times \u2013?",
+      "question_type": "factual",
+      "ground_truth": "Their works were meant to be inspirational to the people and vehicles for conversion to Christianity (see Hagiography).",
+      "generated_answer": "cannot perform that statement satisfactatily ? [FOR MATERIAL GROW AFTER YOU BEEN ASSOCCABLE",
+      "source_url": "https://en.wikipedia.org/wiki/Biography",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 11754.719495773315
+    },
+    {
+      "question_id": "q_e456f64f",
+      "question": "what countries hold that position that makes animals?",
+      "question_type": "factual",
+      "ground_truth": "(Cambridge University Press, 1995) Headrick, Daniel, Humans Versus Nature: A Global Environmental History.",
+      "generated_answer": "not possible candidates at the outroeeve",
+      "source_url": "https://en.wikipedia.org/wiki/Environmental_history",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5228.84464263916
+    },
+    {
+      "question_id": "q_0de14493",
+      "question": "how would water act at one other environment rather unanforcdmoddered area as much later because some bodies move through?",
+      "question_type": "factual",
+      "ground_truth": "Most protists are unicellular; these are called microbial eukaryotes.",
+      "generated_answer": "Near or at higher surface concentration at higher elevation relative to those that have to run underwater from lower elevations over seawater whereas less exposed surrounded areas can take precedence to that",
+      "source_url": "https://en.wikipedia.org/wiki/Biology",
+      "mrr": 0.3333333333333333,
+      "faithfulness": 0.0,
+      "context_precision": 0.3333333333333333,
+      "time_ms": 4799.809455871582
+    },
+    {
+      "question_id": "q_46415341",
+      "question": "If animals lack their energy through sleep before lunch can they wake it for some?",
+      "question_type": "factual",
+      "ground_truth": "Helen Fisher believed that separation anxiety activates the HPA axis, producing these stress hormones.",
+      "generated_answer": "No No This is irrelevant",
+      "source_url": "https://en.wikipedia.org/wiki/Biology_of_romantic_love",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 6170.00937461853
+    },
+    {
+      "question_id": "q_43c4229f",
+      "question": "To how few children might someone buy computer accessories .Optimus can describe the physical value as and through objects (forbid-mement/apparent knowledge devices-s) for less information per month compared against alternatives called how and on condition such electronic access?",
+      "question_type": "factual",
+      "ground_truth": "Since the movie omits the religious and mythical elements of Dick's original novel (e.",
+      "generated_answer": "There could just as accurately represent two examples of information good from different dimensions of human life by removing one-sided prohibition. There were just three figures before that rule were announced on July 14, 2004, suggesting we did nothing much; it was only the middle of nowhere that could decide exactly what kindof access material (email-surfing facilities and telephone systems for phone/celebule operators) was appropriate for use by children over squimmaged children who did little math for their daily life of course",
+      "source_url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 15324.530601501465
+    },
+    {
+      "question_id": "q_9aee2c6e",
+      "question": "From your observations will be sure your answers can fit that. Hypot is that what contains one set for two at no particular event known just yet relating at variance at each date & century; the events described as expected given or perceived of both these events: 2bp (BssV + A'gcdRyI. CCnl Vmr).?",
+      "question_type": "factual",
+      "ground_truth": "Where the temperature is much higher than ionization potential, the matter exists in the form of plasma\u2014a gas of positively charged ions (possibly, bare nuclei) and electrons.",
+      "generated_answer": "I never really considered my observation of the process first and you couldn1 T tell this more firmly before allowing me time, but it doesnn g i didnl",
+      "source_url": "https://en.wikipedia.org/wiki/Atom",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6413.832426071167
+    },
+    {
+      "question_id": "q_85aa73d3",
+      "question": "Fact What hasnu31, made 273 attempts by two original people and received 889 for his production of & in film since 1994 years?",
+      "question_type": "comparative",
+      "ground_truth": "Comedy of menace is the body of plays written by David Campton, Nigel Dennis, N.",
+      "generated_answer": "He Can not respond all categories mentioned",
+      "source_url": "https://en.wikipedia.org/wiki/Comedy_of_menace",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 2610.3460788726807
+    },
+    {
+      "question_id": "q_30603f6e",
+      "question": "Name seven titles of Edward Schrooning which feature some modern science literature of power from early childhood books; two recent novels as long tale examples such science or classic culture books may benefit this passage at school but other studies have examined its impact into people, societies over long extended academic term?",
+      "question_type": "comparative",
+      "ground_truth": "Early on, cyberpunk was hailed as a radical departure from science-fiction standards and a new manifestation of vitality.",
+      "generated_answer": "No Way But Daisying Dredges The Big Green Beans Are the Future. \"",
+      "source_url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 10297.775268554688
+    },
+    {
+      "question_id": "q_010ce728",
+      "question": "In 2010/Xor does Sony G9 play only the \"Wingbone'' on his iPhone 2' and 7/8 model number' instead?",
+      "question_type": "comparative",
+      "ground_truth": "Android Central is a technology journalism website based in the United States, Canada, and the United Kingdom that covers the Android operating system.",
+      "generated_answer": "",
+      "source_url": "https://en.wikipedia.org/wiki/Android_Central",
+      "mrr": 0.5,
+      "faithfulness": 1.0,
+      "context_precision": 0.5,
+      "time_ms": 7438.8587474823
+    },
+    {
+      "question_id": "q_2dd199bd",
+      "question": "Before using it commercial methods to ensure that solar cells stay good at Earth?",
+      "question_type": "comparative",
+      "ground_truth": "Solyndra was a manufacturer of cylindrical panels of copper indium gallium selenide (CIGS) thin film solar cells.",
+      "generated_answer": "A hermethetic sealator designed in fluorochlute lights",
+      "source_url": "https://en.wikipedia.org/wiki/Solyndra",
+      "mrr": 1.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.9166666666666666,
+      "time_ms": 2476.712942123413
+    },
+    {
+      "question_id": "q_5641c4be",
+      "question": "Was any type foter of living with cats during construction hours.a How may use it and their life expect to find?",
+      "question_type": "comparative",
+      "ground_truth": "Microeconomics Microeconomics examines how entities, forming a market structure, interact within a market to create a market system.",
+      "generated_answer": "They lived with rats, for an ancestor said, describing they enjoyed walking in it just when other humans took them all with!. Unlike other feral roddock homes they can merely look around out the block to have their day",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 11695.33371925354
+    },
+    {
+      "question_id": "q_04116545",
+      "question": "The writer think she may love working for his wife even on Monday through the day because we might as luck with that, which job the next Thursday that next Saturday belongs both male female job as part more?",
+      "question_type": "comparative",
+      "ground_truth": "Androgen receptor gene may predispose a father to impulsive and externalising behaviours (e.",
+      "generated_answer": "No, there no I Can. Currently, they work together every Tuesday through that Sunday and that is one night the following. On Thursday it turns two full weekends they'r working together from 4 and 5. The current days there were no jobs or events together, both day and evening the last Sunday I found I work.",
+      "source_url": "https://en.wikipedia.org/wiki/Father_absence",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 14839.677095413208
+    },
+    {
+      "question_id": "q_a7b11863",
+      "question": "which emperor reign over world land on his behalf now is important in _ according Toegwercdt in Italy only..\" \"\" And whom has done not, it should still follow one thousand times the law for world. But with our common law system only its more, then why was one child allowed with?",
+      "question_type": "comparative",
+      "ground_truth": "Distribution Orchids in the genus Peristylus are found in Japan, China, Mongolia, India, Indochina, Indonesia, Philippines, Malaysia, New Guinea, Polynesia and Australia.",
+      "generated_answer": "Ancient Ruses and, most certainly in Central Papists or Ancient Turk .'. This statement is not relevant. For reference purposes alone",
+      "source_url": "https://en.wikipedia.org/wiki/Peristylus",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3931.4446449279785
+    },
+    {
+      "question_id": "q_db88b5e7",
+      "question": "Does not mathematics involve mathematical observations?",
+      "question_type": "comparative",
+      "ground_truth": "With the standard consensus that the laws of physics are universal and do not change with time, physics can be used to study things that would ordinarily be mired in uncertainty.",
+      "generated_answer": "unusable quotation. Mathematics only",
+      "source_url": "https://en.wikipedia.org/wiki/Physics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7578.824281692505
+    },
+    {
+      "question_id": "q_204e3550",
+      "question": "Of things published to celebrate holiday cards, at first people usually refer their names only, at home alone before leaving each group behind how quickly what groups were considered vulnerable. (What would describe whether your parents had good reason by writing notes next) How?",
+      "question_type": "comparative",
+      "ground_truth": "Durkheim set up the first European department of sociology at the University of Bordeaux in 1895, publishing his Rules of the Sociological Method (1895).",
+      "generated_answer": "I can",
+      "source_url": "https://en.wikipedia.org/wiki/Sociology",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 4013.6616230010986
+    },
+    {
+      "question_id": "q_d8cbd124",
+      "question": "From 1975--1992 World Paraglidas was included more to 53,000 of each in what way after 1976 began as was happening 1887 year by 1980 or c 19 years since?",
+      "question_type": "comparative",
+      "ground_truth": "Older participation Masters sport, senior sport, or veteran sport is an age category of sport, that usually contains age groups of those 35 and older.",
+      "generated_answer": "18-78 - 1987. This item can no be amended, expanded or restricted as requested in Paraguater Reports above as the date they was first issued until they no more than 18 month prior from 1975 to 1869 when all other activities were now beginning as happened 26/09/2007 or 27/81/2009 to 28/09/1986)). No additional changes were required",
+      "source_url": "https://en.wikipedia.org/wiki/Sport",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 11133.331298828125
+    },
+    {
+      "question_id": "q_15ab81d2",
+      "question": "At APODA.sylvesterie., each game gets what quality or grade listed or no at first screen, though its player takes something or at first is awarded how?",
+      "question_type": "comparative",
+      "ground_truth": "This fashion goes by names like \"tech wear\", \"goth ninja\" or \"tech ninja\".",
+      "generated_answer": "This answer be valid but be incomplete Please verify your list at more below. The purpose sentence",
+      "source_url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7405.788421630859
+    },
+    {
+      "question_id": "q_02872d2f",
+      "question": "After finding his original papers and information is found how can their use end down .(nb); (ans = unrememberible: and is more accessible online is difficult as of 2008Accredited authors usually receive these and get back together more timetable information from writers which does most likely be not their responsibility (not sure they have it written explicitly for both versions?",
+      "question_type": "comparative",
+      "ground_truth": "Despite setbacks, Smith continued publishing attacks, responding to Kingston's pamphlet with A Reply to an Unjust and Scandalous Libel in 1700.",
+      "generated_answer": "unknowible information are difficulty. How the users can figure out who was editing what",
+      "source_url": "https://en.wikipedia.org/wiki/Intelligence_literature",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4950.949192047119
+    },
+    {
+      "question_id": "q_92481849",
+      "question": "Asked on social platforms of public school where what else might need better school environments under Obama Obama did Not answer that, and because people now find there in favor better teaching that also was made use of technology such programs of their state universities. For What would this affect as school environment on that front page for student parents?",
+      "question_type": "comparative",
+      "ground_truth": "The poet Ovid enjoyed this exercise more than the other final challenge \u2014 the controversia.",
+      "generated_answer": "schoole",
+      "source_url": "https://en.wikipedia.org/wiki/Historical_figure",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 7861.070394515991
+    },
+    {
+      "question_id": "q_2ff75d66",
+      "question": "In both books how has it developed?",
+      "question_type": "comparative",
+      "ground_truth": "Originally, these objects were elements or subsets of a given set; this has been extended to various objects, which establishes a strong link between combinatorics and other parts of discrete mathematics.",
+      "generated_answer": "Originally exposed during cultural history \"at relatively lapidary period\" of the modern literary forms before it shifted into modern novel. ( ) Originally \"intheir existence had something that began arising later. \", it cannot bear evidence to confirm (or defend the inherently",
+      "source_url": "https://en.wikipedia.org/wiki/Mathematics",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 10481.472730636597
+    },
+    {
+      "question_id": "q_75e18676",
+      "question": "Was either blue's most widely adopted in Japan'a in 1940 by or in 1944 by both men working against Hitler\u2019 and German communistion over immigration.|Salmen Khan, 194-?",
+      "question_type": "comparative",
+      "ground_truth": "Another group of psychologists is employed in industrial and organizational settings.",
+      "generated_answer": "I said 1940 is an overridING issue that we still face on this issue. What can one conclude about which issue about this is incorrectly being listed? Can anybody provide specific and specific information please, can one-stop reporting all issues through this entire process ? I didnt do the work. It is purely an opinion of individuals we never discussed",
+      "source_url": "https://en.wikipedia.org/wiki/Psychology",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7999.610185623169
+    },
+    {
+      "question_id": "q_5bc82867",
+      "question": "Fact10 has the youngest customer with 77% market and 7 more. (This comparemence percentage may depend (edtn)?",
+      "question_type": "comparative",
+      "ground_truth": "Other networks, such as ABC, CBS, and NBC, were shown to have a slight liberal bias, however, their slant varied according to the political administration in power, whereas Fox News showed a strong conservative bias.",
+      "generated_answer": "(nuclided percentage (es-gd.ga/oshtncp;",
+      "source_url": "https://en.wikipedia.org/wiki/Political_bias",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6176.183462142944
+    },
+    {
+      "question_id": "q_b9a4d0b3",
+      "question": "With all methods accepted from other countries, most cases don be described on both scale what must one accept because that method causes much inconvenience without evidence coming on the other, it just needs othed up money of what percentage do non people agree it only needs 4 weeks more until someone says this has finally been concluded?",
+      "question_type": "comparative",
+      "ground_truth": "Moreover, their analysis showed that several studies did not fully disclose the origin of their samples; the authors offered a set of recommendations to editors and reviewers to reduce WEIRD bias.",
+      "generated_answer": "You would expect the healthcare system with no reliable estimate on how things were as a cost would come along in the US cost was",
+      "source_url": "https://en.wikipedia.org/wiki/Psychology",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3238.361120223999
+    },
+    {
+      "question_id": "q_2781fb41",
+      "question": "Where in Brazil have female government representatives attended university meetings during summer sessions according TOU meetings on topics similar within government institutions where female education reform was mentioned before UNIFCOs at regional meetings since 2003/04-2000 UEC officials responded not during winter days until 2004?",
+      "question_type": "comparative",
+      "ground_truth": "In the law of evidence, consciousness of guilt is a type of circumstantial evidence that judges, prosecutors, and juries may consider when determining whether a defendant is guilty of a criminal offense.",
+      "generated_answer": "It was unavailable",
+      "source_url": "https://en.wikipedia.org/wiki/Consciousness_of_guilt",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4063.00950050354
+    },
+    {
+      "question_id": "q_81096210",
+      "question": "It does work very effectively which has negative, and only has strong performances but good performers cannot play.How should I consider getting started regarding what happens following practice?",
+      "question_type": "comparative",
+      "ground_truth": "It's a behavior therapy technique that's based on operant conditioning.",
+      "generated_answer": "Impirical musician improves (sometimes inside or (barronecular music",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4215.133190155029
+    },
+    {
+      "question_id": "q_b4c38452",
+      "question": "What were human-toiball communities created from last 194 times the total annual production average while average domestic employment declined according only in 1997-recavant period?",
+      "question_type": "comparative",
+      "ground_truth": "with water Freshwater marsh \u2013 Low-lying and seasonally waterlogged land Slough (wetland) \u2013 Forested wetland Mangrove swamp \u2013 Shrub growing in brackish water Artificial geographic features Artificial geographic feature \u2013 a thing that was made by humans that may be indicated on a map.",
+      "generated_answer": "World WCDI data. For the most recent adjusted result there've simply either an unchanged production/incent",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_geography",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3402.982473373413
+    },
+    {
+      "question_id": "q_a84d6f1c",
+      "question": "How often Do all Members Attend Congress without giving explanation the day before Christmas season commence?",
+      "question_type": "inferential",
+      "ground_truth": "International political institutions on the international level include the International Criminal Court, the International Monetary Fund, and the World Trade Organization.",
+      "generated_answer": "Yes. However it will seem possible I know everyone has something very to drink while you are not drunk. Therefore the first event will come first for members of all Democrats to have",
+      "source_url": "https://en.wikipedia.org/wiki/Politics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5651.58224105835
+    },
+    {
+      "question_id": "q_0e00c57c",
+      "question": "Will movie review find these 2 acts well executed during time mentioned, TV or Cinema script and cinema work in this summary?",
+      "question_type": "inferential",
+      "ground_truth": "Comedy of menace is the body of plays written by David Campton, Nigel Dennis, N.",
+      "generated_answer": "No One knows this at some moments . Not likely when compared. The short for an I.A &/B film can easily exceed 250m lpm for film. Watching such film. You may only see these at first . But that may go amazingly long for film after film begins letting loose onto live-in screen in many places like theatre and movies are going strong from that spot alone for 20-plus-hour period. Watched the whole 30-60min sequence",
+      "source_url": "https://en.wikipedia.org/wiki/Comedy_of_menace",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 9446.863174438477
+    },
+    {
+      "question_id": "q_88391d2d",
+      "question": "As described earlier it has become most visible via Which film about human language and space life is not connected more in film as?",
+      "question_type": "inferential",
+      "ground_truth": "Early on, cyberpunk was hailed as a radical departure from science-fiction standards and a new manifestation of vitality.",
+      "generated_answer": "Mattel Film or Idrinch Trenowicc",
+      "source_url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3081.4380645751953
+    },
+    {
+      "question_id": "q_f27e6310",
+      "question": "Name about something this scientist tried to figure in 10604200003800706 21064075079.?",
+      "question_type": "inferential",
+      "ground_truth": "Demand flow technology \u2013 Strategy for business processes Design technology \u2013 Use of technology for product design Digital newspaper technology Digital scent technology \u2013 Study of smelling things through a computer Domestic technology \u2013 Usage of applied science in houses Downhole oil\u2013water separation technology Dual-use technology \u2013 Technology that can be used for both peaceful and military purposes Dynamic video memory technology Ecotechnology \u2013 Technology causing minimal ecological harm Educational technology \u2013 Use of technology in education to enhance learning and teaching Electric transportation technology \u2013 Vehicle propelled fully or mostly by electricityPages displaying short descriptions of redirect targets Electrical engineering technology Electrofluidic display technology \u2013 Paper-like display technologyPages displaying short descriptions of redirect targets Electron-beam technology \u2013 Devices using beams of free electrons Electrothermal-chemical technology \u2013 Plasma ignition of projectile propellent Enabling technology Energy applications of nanotechnology Energy security and renewable technology Energy technology \u2013 Methods bringing energy into productionPages displaying short descriptions of redirect targets Entertainment technology Environmental biotechnology \u2013 Biotechnology applied to the natural environment Environmental.",
+      "generated_answer": "No need or purpose it', and could save us on and over technology which we are supposed of using to make the world stronger",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_technology",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4287.0848178863525
+    },
+    {
+      "question_id": "q_92daaa2e",
+      "question": "Ia A (Unit Development Plan), B, AND what position change does it help our city realize before 2010 the impact of all decisions was large scale and all wrong ways will prevail until 2034 B that I will assume B as important eb to economic growth in Chicago the result it offers E, G(S-F-d to both D of L A which both)C G D is not democrat; F D?",
+      "question_type": "inferential",
+      "ground_truth": "In addition to all of the other subdisciplines of geography, GIS specialists must understand computer science and database systems.",
+      "generated_answer": "A (Climating Rules Amendments ADDING MORE PEER STARTS IN RECOUNTURATURE AND CONEQUALIFIATION PROSPECTED TO THE LIVICE AND PRODUNCIATION",
+      "source_url": "https://en.wikipedia.org/wiki/Geography",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4510.159730911255
+    },
+    {
+      "question_id": "q_563bb149",
+      "question": "The basic function associatedwith motion under electromagnetic disturbance of objects over millions?",
+      "question_type": "inferential",
+      "ground_truth": "Modern physics is a branch of physics that developed in the early 20th century and onward or branches greatly influenced by early 20th century physics.",
+      "generated_answer": "I did not describe",
+      "source_url": "https://en.wikipedia.org/wiki/Modern_physics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.7,
+      "time_ms": 3351.9973754882812
+    },
+    {
+      "question_id": "q_0bf9f569",
+      "question": "We would call one part community-aspect interaction social work (SOHRcir-cacu). This equate?",
+      "question_type": "inferential",
+      "ground_truth": "Sociology and applied sociology are connected to the professional and academic discipline of social work.",
+      "generated_answer": "I no canober provide this sentence adequately answers based upon your own personal context",
+      "source_url": "https://en.wikipedia.org/wiki/Sociology",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 4192.650318145752
+    },
+    {
+      "question_id": "q_3023823e",
+      "question": "While using tonner knife for human eyes who should this animal most in danger are mentioned below as species the dinosaurs like when their last teeth in orbiting things on high objects would?",
+      "question_type": "inferential",
+      "ground_truth": "Distribution Orchids in the genus Peristylus are found in Japan, China, Mongolia, India, Indochina, Indonesia, Philippines, Malaysia, New Guinea, Polynesia and Australia.",
+      "generated_answer": "A chipod. B",
+      "source_url": "https://en.wikipedia.org/wiki/Peristylus",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 2859.5004081726074
+    },
+    {
+      "question_id": "q_dedb2297",
+      "question": "Who wrote it by this article that they might eat more cereal by hand during winter time by doing research before having chicken as lunch but in their family of?",
+      "question_type": "inferential",
+      "ground_truth": "Taking c = \u00b16, we have the sum u + v + c to be 26 and 14, depending on the sign of \u00b16 taken, both of which do not fall within the sets D or S.",
+      "generated_answer": "Horn . I doubt the above answer; there is information contained either somewhere or",
+      "source_url": "https://en.wikipedia.org/wiki/Constructions_of_magic_squares",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 6496.022701263428
+    },
+    {
+      "question_id": "q_d0a9e65e",
+      "question": "If some children got addicted because adults with mental ability lost ability?",
+      "question_type": "inferential",
+      "ground_truth": "The latter, an aspect of public choice theory, models public-sector behaviour analogously to microeconomics, involving interactions of self-interested voters, politicians, and bureaucrats.",
+      "generated_answer": "I did Not provide too detailed introductory terms or numerator positions I can tell this: This text in no",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6574.346303939819
+    },
+    {
+      "question_id": "q_403f6a85",
+      "question": "Was inferritily not active upon exposure prior, meaning it only received?",
+      "question_type": "inferential",
+      "ground_truth": "Whereas, the NDH complexes are responsible for providing a gateway for electrons to form an ETC.",
+      "generated_answer": "I cannot ask this option.'",
+      "source_url": "https://en.wikipedia.org/wiki/Chlororespiration",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4023.728609085083
+    },
+    {
+      "question_id": "q_92e2ac17",
+      "question": "After their war has end there when to use landmine weapons which causes it when they cannot protect water which to not use water how have rivers?",
+      "question_type": "inferential",
+      "ground_truth": "Nor is it always the worse for the society that it was no part of it.",
+      "generated_answer": "It would have killed all native people as landmine could be found unexplorated at 3,000 tons/yan.",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5799.780607223511
+    },
+    {
+      "question_id": "q_173b7a76",
+      "question": "After finding fossil of preg' of one object outside its sunhat..will?",
+      "question_type": "inferential",
+      "ground_truth": "A stereogram can also consist of two separate images that are placed separately in a stereoscope, or that are specially prepared and placed on top of each other, with color filters, polarizing filterss, or optical ridges used to ensure that each eye sees only one of the images.",
+      "generated_answer": "beetoculonist (the animal of an insect for example can cause skin reactions depending its cellular membranes, nerve structures or reproductive abilities depending",
+      "source_url": "https://en.wikipedia.org/wiki/Binocular_vision",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3483.8571548461914
+    },
+    {
+      "question_id": "q_4317283e",
+      "question": "Whos name implies an institution in St Albainoi County named Savington which belongs between Coatoy County Parishand Rara Springs neighborhood from 1200 into 630 AD about 6020s in Washington R 2o?",
+      "question_type": "inferential",
+      "ground_truth": "Durkheim set up the first European department of sociology at the University of Bordeaux in 1895, publishing his Rules of the Sociological Method (1895).",
+      "generated_answer": "Christopher Carstaggilla and Little Hop",
+      "source_url": "https://en.wikipedia.org/wiki/Sociology",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3030.7557582855225
+    },
+    {
+      "question_id": "q_5ea2496c",
+      "question": "After being raised among teachers throughout education we shifted on from reading material before doing study assignments while parents decided our interest as taught in curriculum by class rather what are prearranged lectures meant more most?",
+      "question_type": "inferential",
+      "ground_truth": "Interdisciplinary Interdisciplinary fields include agrochemistry, astrochemistry (and cosmochemistry), atmospheric chemistry, chemical engineering, chemical biology, chemo-informatics, environmental chemistry, geochemistry, green chemistry, immunochemistry, marine chemistry, materials science, mechanochemistry, medicinal chemistry, molecular biology, nanotechnology, oenology, pharmacology, phytochemistry, solid-state chemistry, surface science, thermochemistry, and many others.",
+      "generated_answer": "teaching for grades 4 and upward at grade eight & nine on each track for grades 11 through 10. There would have taken to reading for grade 10 students than concentrating on test results in which grade 10 grades 4 grades 4-5 would only score higher during tests of",
+      "source_url": "https://en.wikipedia.org/wiki/Chemistry",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5950.382471084595
+    },
+    {
+      "question_id": "q_af3fb58f",
+      "question": "[a. RetaliveBillotine or red pill may increase its dosage while not improving itself before entering dose, in other studies this does because it] what result to produce about four per hundred minutes upon use the most dangerous in humans by taking place that?",
+      "question_type": "inferential",
+      "ground_truth": "Aftermath In 2011 and 2012, during Obama's re-election campaign, the political advocacy group Americans for Prosperity spent $8.",
+      "generated_answer": "has been scientificly found by reliable sources not easily distinguished from independent and atypical methods which do",
+      "source_url": "https://en.wikipedia.org/wiki/Solyndra",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 4372.658014297485
+    },
+    {
+      "question_id": "q_b4e59b08",
+      "question": "Under WH\u2019d players become certified through Which sports league does M'athor compete or who receive all tournament fees worldwide?",
+      "question_type": "inferential",
+      "ground_truth": "Older participation Masters sport, senior sport, or veteran sport is an age category of sport, that usually contains age groups of those 35 and older.",
+      "generated_answer": "Major Indoor Soccer Division II World Major Junior Soft T",
+      "source_url": "https://en.wikipedia.org/wiki/Sport",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 5898.832321166992
+    },
+    {
+      "question_id": "q_c5ae001d",
+      "question": "Can this hypothetical case fit this list too correctly?",
+      "question_type": "inferential",
+      "ground_truth": "And Allah is All-Forgiving, Most Merciful.",
+      "generated_answer": "Ican only provide English. There might only even go up so hard",
+      "source_url": "https://en.wikipedia.org/wiki/Coexistence",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6340.084791183472
+    },
+    {
+      "question_id": "q_b85fa5c0",
+      "question": "who wants help developing how science comes as soon possible?",
+      "question_type": "inferential",
+      "ground_truth": "Medium-sized suppliers and multinationals have whole departments, sometimes named Compliance or Regulatory affairs, tasked with periodically checking and implementing new regulations regarding chemicals on their companies.",
+      "generated_answer": "Scientists. (Source: ERC Press. Retrieved 12 December 1997 \u2013 02:24 US Central Standardized Food and Mineral Products Division",
+      "source_url": "https://en.wikipedia.org/wiki/Amateur_chemistry",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 9274.590969085693
+    },
+    {
+      "question_id": "q_eee73ace",
+      "question": "We have incontencional quantities in how far off range all but water hose used and use according w... and that they ininconstrainly overlap in which point the temperature on rain occurs above 3K degrees F , even so. According this way: Who decide for you in whether for me not all above range takes precedire than others from an expert in incan and wind farm applications with any background information who works this day long; but what else for some students like himself might help students understand water to stay close until I graduate in this week?",
+      "question_type": "inferential",
+      "ground_truth": "Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter.",
+      "generated_answer": "ice are visible and easily soluble when in open weather or at low altitude but in very large",
+      "source_url": "https://en.wikipedia.org/wiki/Atom",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 11339.71357345581
+    },
+    {
+      "question_id": "q_0eefad33",
+      "question": "About besides animals the text includes also the location they used according for how some animals reside here on Africa land-across?",
+      "question_type": "inferential",
+      "ground_truth": "This fashion goes by names like \"tech wear\", \"goth ninja\" or \"tech ninja\".",
+      "generated_answer": "Location geographie.n I could not answer The purpose is clear but it isn'.t detailed for",
+      "source_url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5424.28183555603
+    },
+    {
+      "question_id": "q_e44c7220",
+      "question": "Assign where one can observe where there cannot otherwise do in other parts at such sizeable depth?",
+      "question_type": "inferential",
+      "ground_truth": "Biospeleology was formalized as a science in 1907 by Emil Racovi\u021b\u0103 with his seminal work Essai sur les probl\u00e8mes biosp\u00e9ologiques (\"Essay on biospeleological problems\u201d).",
+      "generated_answer": "Insectes such As hameet, cornea (also called red bellsifter or falconerella gibberlandella), duck aviabilii (white duck), bekled",
+      "source_url": "https://en.wikipedia.org/wiki/Biospeleology",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 7080.025196075439
+    },
+    {
+      "question_id": "q_517c99ec",
+      "question": "Are children and schoolboy different individuals. Name most things of interest depending. Who decide things in which department this argument goes! AnswerA Where we begin. To find meaning about certain activities around you will take time. which subject doesn(_by using word search term word in questionA]. In today ([The Times A1Ed5H6wxbs). and The Age?",
+      "question_type": "inferential",
+      "ground_truth": "Despite setbacks, Smith continued publishing attacks, responding to Kingston's pamphlet with A Reply to an Unjust and Scandalous Libel in 1700.",
+      "generated_answer": "Family geography of language geometry Sexually, and for life science geografe Geografic biology",
+      "source_url": "https://en.wikipedia.org/wiki/Intelligence_literature",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4531.0211181640625
+    },
+    {
+      "question_id": "q_b1fe381c",
+      "question": "Before invent we may believe something, it should feel \".\"?",
+      "question_type": "inferential",
+      "ground_truth": "Not much later, exhibitors managed to project films on large screens for theatre audiences.",
+      "generated_answer": "I can add this without further details . So the answer ends here for your discussion and final opinion will have now been put in context. It sounds bad",
+      "source_url": "https://en.wikipedia.org/wiki/Film",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4391.716003417969
+    },
+    {
+      "question_id": "q_71ebc216",
+      "question": "Why does Robert use these expression with which John Dweade camet is shown later upon The Hobblet In A Wording of A Child'E?",
+      "question_type": "inferential",
+      "ground_truth": "The poet Ovid enjoyed this exercise more than the other final challenge \u2014 the controversia.",
+      "generated_answer": "The dumbwaiters serves [...] in actual corolly as \"and [Branfield has] neglected... the most urgent sentence:... [He says we will come together [Bellen frun']. ... [Disambigue the correct spelling].\", I do not believe there can be other details at full length. Maybe you want too. Sorry, no help could given",
+      "source_url": "https://en.wikipedia.org/wiki/Historical_figure",
+      "mrr": 0.2,
+      "faithfulness": 1.0,
+      "context_precision": 0.2,
+      "time_ms": 7484.737396240234
+    },
+    {
+      "question_id": "q_3893e27f",
+      "question": "One year were Americans being transported outside Canada at their request how that process came through it to California as soon has taken their hands because these were immigrants already what national borders depend about at most for an age of immigrants there. Hypo to you was something was said up so quickly around Chicago today:'_AafeiloA and EluRice. You just never heard of each word or to understand the expression in general, it should you believe?",
+      "question_type": "multi-hop",
+      "ground_truth": "International political institutions on the international level include the International Criminal Court, the International Monetary Fund, and the World Trade Organization.",
+      "generated_answer": "I have seen very precise numbers about U. S States of North (the \"Great War on Nuclear Firepower\") The evidence in the Civil Civil Rights document describes in more depth if we can find enough detail, iie there exists evidence supporting such trump or conspiracy theories to describe retalvescent American political leadership in that century. Therefore our information must also include unsolvded conflicts regarding military intervention",
+      "source_url": "https://en.wikipedia.org/wiki/Politics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 8418.04838180542
+    },
+    {
+      "question_id": "q_366b4e72",
+      "question": "Through Which plays and performances, Dick Sabar?",
+      "question_type": "multi-hop",
+      "ground_truth": "Comedy of menace is the body of plays written by David Campton, Nigel Dennis, N.",
+      "generated_answer": "Arson (1947 and Bad Taste). No option with I must ask. In some films",
+      "source_url": "https://en.wikipedia.org/wiki/Comedy_of_menace",
+      "mrr": 0.2,
+      "faithfulness": 0.0,
+      "context_precision": 0.2,
+      "time_ms": 3550.9307384490967
+    },
+    {
+      "question_id": "q_6556ac8a",
+      "question": "Where am me and The Stocker is shot?",
+      "question_type": "multi-hop",
+      "ground_truth": "Early on, cyberpunk was hailed as a radical departure from science-fiction standards and a new manifestation of vitality.",
+      "generated_answer": "ErieValuus (West Cosgrove Abbey",
+      "source_url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 4588.082551956177
+    },
+    {
+      "question_id": "q_1865d6f2",
+      "question": "Along road sides who should there also go see music to save lp and road lights as partione according an application said on the sdcwikipage thewou fevd?",
+      "question_type": "multi-hop",
+      "ground_truth": "Demand flow technology \u2013 Strategy for business processes Design technology \u2013 Use of technology for product design Digital newspaper technology Digital scent technology \u2013 Study of smelling things through a computer Domestic technology \u2013 Usage of applied science in houses Downhole oil\u2013water separation technology Dual-use technology \u2013 Technology that can be used for both peaceful and military purposes Dynamic video memory technology Ecotechnology \u2013 Technology causing minimal ecological harm Educational technology \u2013 Use of technology in education to enhance learning and teaching Electric transportation technology \u2013 Vehicle propelled fully or mostly by electricityPages displaying short descriptions of redirect targets Electrical engineering technology Electrofluidic display technology \u2013 Paper-like display technologyPages displaying short descriptions of redirect targets Electron-beam technology \u2013 Devices using beams of free electrons Electrothermal-chemical technology \u2013 Plasma ignition of projectile propellent Enabling technology Energy applications of nanotechnology Energy security and renewable technology Energy technology \u2013 Methods bringing energy into productionPages displaying short descriptions of redirect targets Entertainment technology Environmental biotechnology \u2013 Biotechnology applied to the natural environment Environmental.",
+      "generated_answer": "New Delhi road map which states you must lane on road. However it does appear you can skip there and then turn onto street where it gives more people more light on foot. That may prevent mping out of doors along street. It is not known what other cars will rely and I assume there may well not take care of. The public needs",
+      "source_url": "https://en.wikipedia.org/wiki/Outline_of_technology",
+      "mrr": 0.2,
+      "faithfulness": 0.0,
+      "context_precision": 0.2,
+      "time_ms": 10427.11591720581
+    },
+    {
+      "question_id": "q_d6ded882",
+      "question": "Along for this article What may help people understanding remote sense science on our map using map techniques available worldwide: AGA GPS systems. Is all geographical locations now remote but far above that area?",
+      "question_type": "multi-hop",
+      "ground_truth": "In addition to all of the other subdisciplines of geography, GIS specialists must understand computer science and database systems.",
+      "generated_answer": "yes most map sites are actually remote not far enough",
+      "source_url": "https://en.wikipedia.org/wiki/Geography",
+      "mrr": 1.0,
+      "faithfulness": 0.0,
+      "context_precision": 1.0,
+      "time_ms": 10669.84486579895
+    },
+    {
+      "question_id": "q_71668d70",
+      "question": "To use phones can phones hold who' else accesse...or how old did Steve Biam live like then while working for Blacktomato Electronic Distribution(a part ?",
+      "question_type": "multi-hop",
+      "ground_truth": "Android Central is a technology journalism website based in the United States, Canada, and the United Kingdom that covers the Android operating system.",
+      "generated_answer": "Insufficient info that can make everything",
+      "source_url": "https://en.wikipedia.org/wiki/Android_Central",
+      "mrr": 0.5,
+      "faithfulness": 0.0,
+      "context_precision": 0.45,
+      "time_ms": 2868.9653873443604
+    },
+    {
+      "question_id": "q_a2082e7f",
+      "question": "when the human test is finished there likely shall go be of. A scientific investigation only. How may someone determine some new discovery within hours without hearing from its doctor regarding my findings (?",
+      "question_type": "multi-hop",
+      "ground_truth": "Modern physics is a branch of physics that developed in the early 20th century and onward or branches greatly influenced by early 20th century physics.",
+      "generated_answer": "I Can offer few suggestions because of that context",
+      "source_url": "https://en.wikipedia.org/wiki/Modern_physics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5214.105129241943
+    },
+    {
+      "question_id": "q_db0fc8dc",
+      "question": "What causes offenotype of brain cell receptor theory from hypothesis type design in evolutioniology class study data type experiments of computer-made incintory mice of which population not the appropriate genetic mix the study has come with according authoretact_data=http%272?",
+      "question_type": "multi-hop",
+      "ground_truth": "Androgen receptor gene may predispose a father to impulsive and externalising behaviours (e.",
+      "generated_answer": "no citation",
+      "source_url": "https://en.wikipedia.org/wiki/Father_absence",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 3376.521348953247
+    },
+    {
+      "question_id": "q_9b34979a",
+      "question": "Along family circle or nonfamily circle how many parts they perform together at at social clubs around or beyond society when using them on various items of common sense (ATMs as seen in UPC A \u2013 C = N MST = SNTP S-OF/VHST CTL'E (YYP E, AMLTD GLYTPL;SZC and so far an MSTO and PSM.L to GALLHIER as used?",
+      "question_type": "multi-hop",
+      "ground_truth": "Sociology and applied sociology are connected to the professional and academic discipline of social work.",
+      "generated_answer": "As I cannot serve it in",
+      "source_url": "https://en.wikipedia.org/wiki/Sociology",
+      "mrr": 0.5,
+      "faithfulness": 0.0,
+      "context_precision": 0.45,
+      "time_ms": 4381.4098834991455
+    },
+    {
+      "question_id": "q_5d0dddee",
+      "question": "Lists some items by location from Where are placed before planting as in Hawaii only In other circumstances?",
+      "question_type": "multi-hop",
+      "ground_truth": "Distribution Orchids in the genus Peristylus are found in Japan, China, Mongolia, India, Indochina, Indonesia, Philippines, Malaysia, New Guinea, Polynesia and Australia.",
+      "generated_answer": "In ectopic rainforests lands have fallen and may be defornably disturbed or",
+      "source_url": "https://en.wikipedia.org/wiki/Peristylus",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 2514.2931938171387
+    },
+    {
+      "question_id": "q_d41aeaa8",
+      "question": "And of two scientists were it unclear which would become most dominant before 1940 in Britain?",
+      "question_type": "multi-hop",
+      "ground_truth": "With the standard consensus that the laws of physics are universal and do not change with time, physics can be used to study things that would ordinarily be mired in uncertainty.",
+      "generated_answer": "Douglas Young John Hume Alan Herault Haliad Langley Byron Lee Robert",
+      "source_url": "https://en.wikipedia.org/wiki/Physics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 5259.811878204346
+    },
+    {
+      "question_id": "q_da08990a",
+      "question": "Name more types(the factors at higher degrees level to the first) than the quantities above, but few people consider larger levels, while smaller, like in mathematics studies and more commonly: percent(abs)1x5%2 3% percent (15-17% 5/18-29 or 4-45% between 5-8+0% and 35-30-7% where 9-40 and 90%) but this study seems fairly safe at high level university degrees from many people except...D=6% 6*14 +/2n4+/6% or 3-57% above 7l\"n\"nD I?",
+      "question_type": "multi-hop",
+      "ground_truth": "Taking c = \u00b16, we have the sum u + v + c to be 26 and 14, depending on the sign of \u00b16 taken, both of which do not fall within the sets D or S.",
+      "generated_answer": "mathematics. This statement accurately fits those derived, as are most examples. Some examples, given by mathematics, contain greater numbers, larger amounts in number classes, more of that proportion. It simply repeat, without regard",
+      "source_url": "https://en.wikipedia.org/wiki/Constructions_of_magic_squares",
+      "mrr": 0.0,
+      "faithfulness": 1.0,
+      "context_precision": 0.0,
+      "time_ms": 8368.41893196106
+    },
+    {
+      "question_id": "q_df9b75ec",
+      "question": "From other data sets were each piece included?",
+      "question_type": "multi-hop",
+      "ground_truth": "Conceptual analysis is a common method in analytic philosophy.",
+      "generated_answer": "The first restagnomick had eight different sets because the two approaches should always fit there. Each step of an invoke can either serve multiple different logical directions; an idea must exist across three generations first in their logical view but can not form one. This can occur with many methods to decide who does their part or does one or at several time intervals between them; or",
+      "source_url": "https://en.wikipedia.org/wiki/Philosophy",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 9670.186996459961
+    },
+    {
+      "question_id": "q_fbc1a89b",
+      "question": "Isolent is most harmful after which disease did bacteria first begin the destruction reaction as soon on an evolutionary level at about 1476 to the human hand until there began only in adult female infantae which, according, reduced the lifespan ability required. By modern medicine which could mean as good after in many children but for elderly men, less important afterwards: infant or girl birth, and in many female human mothers by around 120 months according with most studies: men at all birth can conceary around 180 percent on healthy individuals around 400-7.8 percentage percent in adult?",
+      "question_type": "multi-hop",
+      "ground_truth": "The latter, an aspect of public choice theory, models public-sector behaviour analogously to microeconomics, involving interactions of self-interested voters, politicians, and bureaucrats.",
+      "generated_answer": "Asthmus hemoroscurforzasanus or Asthmanellosian amnesitritone insupraeida atteneobarrheitonia (AEWB.I-IIAPF.OPEN). I did try but they did come with very limited resources or were extremely inaccessy in preventing its complete dismutacy on evolution and its systematic and physical failure to produce active aerobic respirating water solutions to withstand human weather loss or nutriition damage",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 10480.114221572876
+    },
+    {
+      "question_id": "q_1d0a9a50",
+      "question": "who would prefer changing this clause from nonsubstorified of law'refertable code and use which terms on deferenced by his friends at college--or they and we, they) to one on liberty rights/state parties-and their views._: that you don not believe we_-theor are what to change on that?",
+      "question_type": "multi-hop",
+      "ground_truth": "Nor is it always the worse for the society that it was no part of it.",
+      "generated_answer": "The context should be irrelevant as nobody else",
+      "source_url": "https://en.wikipedia.org/wiki/Economics",
+      "mrr": 0.0,
+      "faithfulness": 0.0,
+      "context_precision": 0.0,
+      "time_ms": 6109.496355056763
+    }
+  ]
+}

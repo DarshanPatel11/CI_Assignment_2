@@ -18,13 +18,13 @@ open http://localhost:8501
 
 ## 📋 Features
 
-| Feature | Description |
-|---------|-------------|
-| **Hybrid Retrieval** | Combines dense semantic search (FAISS) with sparse BM25 |
-| **RRF Fusion** | Reciprocal Rank Fusion for optimal result merging |
-| **Flan-T5 Generation** | Open-source LLM for answer generation |
+| Feature                    | Description                                                  |
+| -------------------------- | ------------------------------------------------------------ |
+| **Hybrid Retrieval**       | Combines dense semantic search (FAISS) with sparse BM25      |
+| **RRF Fusion**             | Reciprocal Rank Fusion for optimal result merging            |
+| **Flan-T5 Generation**     | Open-source LLM for answer generation                        |
 | **Diverse Q&A Evaluation** | 100 questions (factual, comparative, inferential, multi-hop) |
-| **Innovative Metrics** | MRR, Faithfulness (LLM-as-Judge), Context Precision |
+| **Innovative Metrics**     | MRR, Faithfulness (LLM-as-Judge), Context Precision          |
 
 ## 🏗️ Project Structure
 
@@ -101,15 +101,18 @@ docker-compose up
 ## 📊 Evaluation Metrics
 
 ### Mandatory Metric: MRR (Mean Reciprocal Rank)
+
 - **URL-level evaluation**: Measures rank of first correct source URL
 - `MRR = average(1/rank)` across all queries
 
 ### Custom Metric 1: Faithfulness Score (LLM-as-Judge)
+
 - **Justification**: Detects hallucinations by checking if answers are grounded in context
 - **Calculation**: Extract claims → verify each against context → `score = supported/total`
 - **Interpretation**: 1.0 = fully grounded, <0.7 = reliability concerns
 
 ### Custom Metric 2: Context Precision
+
 - **Justification**: Evaluates retrieval ranking quality beyond simple recall
 - **Calculation**: Weighted precision favoring higher-ranked relevant documents
 - **Interpretation**: 1.0 = perfect ranking, lower = relevant docs buried
@@ -117,6 +120,7 @@ docker-compose up
 ## 📝 Fixed Wikipedia URLs
 
 The 200 fixed URLs are stored in `data/fixed_urls.json` covering diverse topics:
+
 - Science, Technology, History, Geography, Arts
 - Philosophy, Literature, Mathematics, Biology, Physics
 - Chemistry, Medicine, Economics, Politics, Sports
@@ -137,18 +141,22 @@ docker-compose logs -f
 # Stop
 docker-compose down
 
-# Run evaluation inside container
-docker-compose run app python main.py --evaluate
+# Standard evaluation
+docker-compose run --rm app python main.py --evaluate --num-questions 100
+
+# With innovative evaluation
+docker-compose run --rm app python main.py --evaluate --innovative --num-questions 100
+
 ```
 
 ## 📈 Sample Results
 
-| Metric | Score |
-|--------|-------|
-| MRR | ~0.72 |
-| Hit Rate | ~85% |
-| Faithfulness | ~0.78 |
-| Context Precision | ~0.68 |
+| Metric             | Score  |
+| ------------------ | ------ |
+| MRR                | ~0.72  |
+| Hit Rate           | ~85%   |
+| Faithfulness       | ~0.78  |
+| Context Precision  | ~0.68  |
 | Mean Response Time | ~250ms |
 
 ## 🔍 Technology Stack

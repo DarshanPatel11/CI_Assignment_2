@@ -34,12 +34,12 @@ env/
 *.swo
 
 # Data (generated)
-data/corpus/
-data/indices/
-data/evaluation/results/
-data/evaluation/analysis/
-data/evaluation/visualizations/
-data/evaluation/reports/
+# data/corpus/
+# data/indices/
+# data/evaluation/results/
+# data/evaluation/analysis/
+# data/evaluation/visualizations/
+# data/evaluation/reports/
 
 # Keep fixed URLs and questions
 !data/fixed_urls.json
@@ -53,5 +53,5 @@ models/
 *.log
 
 # Reports (generated)
-report/*.pdf
-report/*.html
+# report/*.pdf
+# report/*.html
